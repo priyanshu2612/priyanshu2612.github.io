@@ -1,0 +1,1094 @@
+.mediaViewInfo {
+	--web-view-name: Web 1280 – 17;
+	--web-view-id: Web_1280___17;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Web_1280___17;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Web_1280___17 {
+	position: absolute;
+	width: 100%;
+	height: 2878px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Web 1280 – 17;
+	--web-view-id: Web_1280___17;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+@keyframes  {
+
+
+}
+#Component_13___7 {
+	position: absolute;
+	width: 1008px;
+	height: 334px;
+	left: 164px;
+	top: 705px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Web_1280___16.html;
+	cursor: pointer;
+}
+.Group_230 {
+	filter: drop-shadow(0px 5px 10px rgba(0, 0, 0, 0.11));
+	position: absolute;
+	overflow: visible;
+	width: 966px;
+	height: 364px;
+	left: 0px;
+	top: 0px;
+}
+#Group_231 {
+	position: absolute;
+	width: 747px;
+	height: 334px;
+	left: 261px;
+	top: 0px;
+	overflow: visible;transition: transform .2s;object-fit: cover;
+}
+#Group_231:hover {
+  -ms-transform: scale(1.2); /* IE 9 */
+  -webkit-transform: scale(1.2); /* Safari 3-8 */
+  transform: scale(1.2); 
+}
+#Inspire {
+	position: absolute;
+	left: 37px;
+	top: 39px;
+	overflow: visible;
+	width: 109px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(35,35,35,1);
+}
+#Component_14___6 {
+	position: absolute;
+	width: 936px;
+	height: 334px;
+	left: 164px;
+	top: 1090px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Web_1920___9.html;
+	cursor: pointer;
+}
+.Rectangle_421 {
+	filter: drop-shadow(0px 5px 10px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 966px;
+	height: 364px;
+	left: 0px;
+	top: 0px;
+}
+#TechnoCube {
+	position: absolute;
+	left: 662px;
+	top: 38px;
+	overflow: visible;
+	width: 201px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(245,245,245,1);
+}
+#Component_17___11 {
+	position: absolute;
+	width: 534px;
+	height: 582px;
+	left: 77px;
+	top: 1860px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Web_1920___3.html;
+	cursor: pointer;
+}
+#Group_234 {
+	position: absolute;
+	width: 448px;
+	height: 582px;
+	left: 86px;
+	top: 0px;
+	overflow: visible;
+}
+.Group_230_bc {
+	filter: drop-shadow(0px 5px 10px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 478px;
+	height: 612px;
+	left: 0px;
+	top: 0px;
+}
+#Silver_Jubilee {
+	position: absolute;
+	left: 36px;
+	top: 38px;
+	overflow: visible;
+	width: 212px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 36px;
+	color: rgba(35,35,35,1);
+}
+#Group_240 {
+	filter: drop-shadow(-8px -3px 18px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	width: 534px;
+	height: 341px;
+	left: 0px;
+	top: 241px;
+	overflow: visible;
+}
+#Component_15___18 {
+	position: absolute;
+	width: 971px;
+	height: 366px;
+	left: 164px;
+	top: 1444px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Web_1280___7.html;
+	cursor: pointer;
+}
+.Group_230_bg {
+	filter: drop-shadow(0px 5px 14px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 978px;
+	height: 376px;
+	left: 0px;
+	top: 32px;
+}
+#Group_36 {
+	filter: drop-shadow(0px -8px 20px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	width: 527px;
+	height: 366px;
+	left: 444px;
+	top: 0px;
+	overflow: visible;
+}
+#HireXL {
+	position: absolute;
+	left: 37px;
+	top: 70px;
+	overflow: visible;
+	width: 112px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 36px;
+	color: rgba(35,35,35,1);
+}
+#Group_25 {
+	position: absolute;
+	width: 195.825px;
+	height: 182.307px;
+	left: 533.16px;
+	top: 1626.858px;
+	overflow: visible;
+}
+.Ellipse_86 {
+	position: absolute;
+	overflow: visible;
+	width: 51.39px;
+	height: 51.39px;
+	left: 99.409px;
+	top: 68.637px;
+}
+.Path_311 {
+	overflow: visible;
+	position: absolute;
+	width: 21.121px;
+	height: 74.975px;
+	left: 110.115px;
+	top: 90.987px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Ellipse_87 {
+	position: absolute;
+	overflow: visible;
+	width: 51.39px;
+	height: 51.39px;
+	left: 145.435px;
+	top: 70.775px;
+}
+.Path_312 {
+	overflow: visible;
+	position: absolute;
+	width: 21.122px;
+	height: 74.976px;
+	left: 161.897px;
+	top: 93.126px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Ellipse_88 {
+	position: absolute;
+	overflow: visible;
+	width: 142.138px;
+	height: 6.94px;
+	left: 33.008px;
+	top: 164.956px;
+}
+.Ellipse_89 {
+	position: absolute;
+	overflow: visible;
+	width: 142.138px;
+	height: 6.94px;
+	left: 0px;
+	top: 169.907px;
+}
+.Ellipse_90 {
+	position: absolute;
+	overflow: visible;
+	width: 142.138px;
+	height: 6.94px;
+	left: 28.492px;
+	top: 175.367px;
+}
+.Ellipse_92 {
+	position: absolute;
+	overflow: visible;
+	width: 87.759px;
+	height: 87.759px;
+	left: 108.948px;
+	top: 0px;
+}
+.Path_324 {
+	overflow: visible;
+	position: absolute;
+	width: 36.366px;
+	height: 129.089px;
+	left: 137.293px;
+	top: 38.482px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_325 {
+	overflow: visible;
+	position: absolute;
+	width: 11.884px;
+	height: 7.606px;
+	left: 152.643px;
+	top: 171.492px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_326 {
+	overflow: visible;
+	position: absolute;
+	width: 11.884px;
+	height: 7.606px;
+	left: 116.569px;
+	top: 158.895px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_327 {
+	overflow: visible;
+	position: absolute;
+	width: 11.884px;
+	height: 7.606px;
+	left: 157.158px;
+	top: 162.223px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Things_I_ve_worked_on {
+	position: absolute;
+	left: 462px;
+	top: 640px;
+	overflow: visible;
+	width: 372px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 35px;
+	color: rgba(35,35,35,1);
+}
+#Get_in_touch {
+	position: absolute;
+	left: 536px;
+	top: 2495px;
+	overflow: visible;
+	width: 205px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 35px;
+	color: rgba(35,35,35,1);
+}
+#Component_16___5 {
+	position: absolute;
+	width: 433px;
+	height: 582px;
+	left: 667px;
+	top: 1860px;
+	overflow: visible;
+}
+#Group_238 {
+	position: absolute;
+	width: 433px;
+	height: 582px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Group_230_b {
+	filter: drop-shadow(0px 5px 10px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 463px;
+	height: 612px;
+	left: 0px;
+	top: 0px;
+}
+#Reflux {
+	position: absolute;
+	left: 22px;
+	top: 38px;
+	overflow: visible;
+	width: 103px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(35,35,35,1);
+}
+#Group_239 {
+	filter: drop-shadow(-8px -3px 18px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	width: 433px;
+	height: 310px;
+	left: 0px;
+	top: 272px;
+	overflow: visible;
+}
+#Blogs {
+	position: absolute;
+	left: 1855px;
+	top: 3754px;
+	overflow: visible;
+	width: 199px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 73px;
+	color: rgba(35,35,35,1);
+}
+#Rectangle_443 {
+	opacity: 0.59;
+}
+.Rectangle_443 {
+	position: absolute;
+	overflow: visible;
+	width: 131px;
+	height: 31px;
+	left: 202px;
+	top: 984px;
+}
+#Personal_Project {
+	position: absolute;
+	left: 219px;
+	top: 990px;
+	overflow: visible;
+	width: 98px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(35,35,35,1);
+}
+#Rectangle_444 {
+	opacity: 0.81;
+}
+.Rectangle_444 {
+	position: absolute;
+	overflow: visible;
+	width: 105px;
+	height: 30px;
+	left: 941px;
+	top: 1375px;
+}
+#Internship {
+	position: absolute;
+	left: 964px;
+	top: 1382px;
+	overflow: visible;
+	width: 61px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(201,200,200,1);
+}
+#Rectangle_445 {
+	opacity: 0.3;
+}
+.Rectangle_445 {
+	position: absolute;
+	overflow: visible;
+	width: 93px;
+	height: 32px;
+	left: 195px;
+	top: 1777px;
+}
+#Internship_b {
+	position: absolute;
+	left: 211px;
+	top: 1785px;
+	overflow: visible;
+	width: 61px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(0,0,0,1);
+}
+#Rectangle_446 {
+	opacity: 0.3;
+}
+.Rectangle_446 {
+	position: absolute;
+	overflow: visible;
+	width: 177px;
+	height: 29px;
+	left: 684px;
+	top: 2053px;
+}
+#Department_Symposium {
+	position: absolute;
+	left: 700px;
+	top: 2060px;
+	overflow: visible;
+	width: 147px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(0,0,0,1);
+}
+#Rectangle_447 {
+	opacity: 0.3;
+}
+.Rectangle_447 {
+	position: absolute;
+	overflow: visible;
+	width: 130px;
+	height: 29px;
+	left: 207px;
+	top: 2053px;
+}
+#Institute_Project {
+	position: absolute;
+	left: 225px;
+	top: 2060px;
+	overflow: visible;
+	width: 95px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(0,0,0,1);
+}
+#Social_based_self_improvement_ {
+	position: absolute;
+	left: 202px;
+	top: 798px;
+	overflow: visible;
+	width: 262px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(35,35,35,1);
+}
+#Product_development_website {
+	position: absolute;
+	left: 826px;
+	top: 1182px;
+	overflow: visible;
+	width: 221px;
+	white-space: nowrap;
+	text-align: right;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(245,245,245,1);
+}
+#Job_seeking_website_ {
+	position: absolute;
+	left: 202px;
+	top: 1564px;
+	overflow: visible;
+	width: 151px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(35,35,35,1);
+}
+#Insititute_website {
+	position: absolute;
+	left: 202px;
+	top: 1950px;
+	overflow: visible;
+	width: 127px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(35,35,35,1);
+}
+#Annual_Symposium_of_Chemical_E {
+	position: absolute;
+	left: 684px;
+	top: 1950px;
+	overflow: visible;
+	width: 327px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(35,35,35,1);
+}
+#Group_247 {
+	position: absolute;
+	width: 1296px;
+	height: 325px;
+	left: -16px;
+	top: 2556px;
+	overflow: visible;
+}
+#I_am_entrepreneurial__iterativ {
+	position: absolute;
+	left: 203px;
+	top: 0px;
+	overflow: visible;
+	width: 459px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(48,48,48,1);
+}
+#Group_237 {
+	position: absolute;
+	width: 244px;
+	height: 20px;
+	left: 203px;
+	top: 135px;
+	overflow: visible;
+}
+#priyanshubarnwal97_gmail_com {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 245px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(48,48,48,1);
+}
+#Grinning_Emoji_with_Smiling_Ey {
+	position: absolute;
+	width: 15px;
+	height: 14px;
+	left: 620px;
+	top: 24px;
+	overflow: visible;
+}
+.Rectangle_430 {
+	position: absolute;
+	overflow: visible;
+	width: 1296px;
+	height: 62px;
+	left: 0px;
+	top: 263px;
+}
+#About_me {
+	position: absolute;
+	left: 771px;
+	top: 283px;
+	overflow: visible;
+	width: 73px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(255,255,255,1);
+}
+#Resume {
+	position: absolute;
+	left: 903px;
+	top: 282px;
+	overflow: visible;
+	width: 61px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+#All_Projects {
+	position: absolute;
+	left: 1017px;
+	top: 283px;
+	overflow: visible;
+	width: 84px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(255,255,255,1);
+}
+.Line_119 {
+	overflow: visible;
+	position: absolute;
+	width: 294.933px;
+	height: 1px;
+	left: 202.076px;
+	top: 86.499px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#SAY_HI_ {
+	opacity: 0.36;
+	position: absolute;
+	left: 203px;
+	top: 61px;
+	overflow: visible;
+	width: 45px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(48,48,48,1);
+}
+#SEND {
+	position: absolute;
+	left: 452px;
+	top: 61px;
+	overflow: visible;
+	width: 37px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 13px;
+	color: rgba(18,39,172,1);
+}
+#Group_248 {
+	position: absolute;
+	width: 1076px;
+	height: 640.646px;
+	left: 96px;
+	top: -71px;
+	overflow: visible;
+}
+.Rectangle_419 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	width: 49px;
+	height: 49px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(0.083px, 0px) matrix(1,0,0,1,71.9168,130) rotate(0deg);
+	transform-origin: center;
+}
+#Resume_cx {
+	position: absolute;
+	left: 829.103px;
+	top: 144.477px;
+	overflow: visible;
+	width: 47px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 12px;
+	color: rgba(35,35,35,1);
+}
+#Group_227 {
+	position: absolute;
+	width: 34.625px;
+	height: 79.833px;
+	left: 973.023px;
+	top: 105.762px;
+	overflow: visible;
+}
+#_ {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 23px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 50px;
+	color: rgba(27,27,27,1);
+}
+#__c {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	left: 12.625px;
+	top: 0px;
+	overflow: visible;
+	width: 23px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 50px;
+	color: rgba(27,27,27,1);
+}
+#__da {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	left: 12.625px;
+	top: 16.833px;
+	overflow: visible;
+	width: 23px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 50px;
+	color: rgba(27,27,27,1);
+}
+.Rectangle_418 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 65px;
+	height: 67px;
+	left: 69px;
+	top: 125px;
+}
+#PB {
+	position: absolute;
+	left: 84px;
+	top: 142px;
+	overflow: visible;
+	width: 17px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 12px;
+	color: rgba(255,255,255,1);
+}
+#I_craft_innovative__user_centr {
+	position: absolute;
+	left: 90px;
+	top: 275px;
+	overflow: visible;
+	width: 531px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 35px;
+	color: rgba(35,35,35,1);
+	animation:signup-response .5s 1;
+    -webkit-animation:signup-response 1s 1;
+    animation-fill-mode: forwards;animation-timing-function: ease;
+}
+@keyframes signup-response{
+    from {opacity :0;left: 90px;top: 350px;}
+    to {opacity :1;left: 90px;top: 275px;}
+}
+
+
+
+
+
+
+
+
+.Rectangle_468 {
+	position: absolute;
+	overflow: visible;
+	width: 181px;
+	height: 32px;
+	left: 154px;
+	top: 124px;
+}
+#Hi__I_m_Priyanshu__a_UI_UX_des {
+	position: absolute;
+	left: 90px;
+	top: 427px;
+	overflow: visible;
+	width: 543px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(35,35,35,1);
+	animation:signup-response1 .5s 1;
+    -webkit-animation:signup-response1 1s 1;
+    animation-fill-mode: forwards;animation-timing-function: ease;animation-delay: .2s;
+}
+@keyframes signup-response1{
+    from {opacity :0;left: 90px;top: 480px;}
+    to {opacity :1;left: 90px;top: 427px;}
+}
+
+
+
+
+#Scroll_below {
+	transform: translate(0.083px, 0px) matrix(1,0,0,1,58.5063,556.2222) rotate(90deg);
+	transform-origin: center;
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 91px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(35,35,35,1);
+	animation:signup-response4 0.5s 1;
+    -webkit-animation:signup-response4 .9s 1;
+    animation-fill-mode: forwards;animation-delay: 0s;animation-timing-function: ease;
+}
+@keyframes signup-response4{
+    from {opacity :0;top: 800px;}
+    to {opacity :1;top: 10px;}
+}
+#ID53192498_1894964427279882_84 {
+	position: absolute;
+	width: 182.128px;
+	height: 182.654px;
+	left: 100%;
+	top: 100%;
+	overflow: visible;
+	animation:signup-response2 0.5s 1;
+    -webkit-animation:signup-response2 1s 1;
+    animation-fill-mode: forwards;animation-delay: 0.5s;animation-timing-function: ease;
+}
+@keyframes signup-response2{
+    from {opacity :0;left: 791.019px;top: 363px;}
+    to {opacity :1;left: 791.019px;top: 284.014px;}
+}
+
+.Icon_ionic_ios_arrow_round_for {
+	overflow: visible;
+	position: absolute;
+	width: 12.594px;
+	height: 8.4px;
+	transform: translate(0.083px, 0px) matrix(1,0,0,1,94.884,630.1491) rotate(90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.Rectangle_470 {
+	position: absolute;
+	overflow: visible;
+	width: 1076px;
+	height: 55px;
+	left: 0px;
+	top: 0px;
+}
+.Icon_awesome_behance {
+	overflow: visible;
+	position: absolute;
+	width: 23.835px;
+	height: 14.942px;
+	left: 185.638px;
+	top: 2731.876px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Icon_awesome_linkedin_in {
+	overflow: visible;
+	position: absolute;
+	width: 17.418px;
+	height: 17.417px;
+	left: 220.586px;
+	top: 2729.399px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Icon_awesome_facebook_f {
+	overflow: visible;
+	position: absolute;
+	width: 9.004px;
+	height: 16.811px;
+	left: 249.037px;
+	top: 2730.007px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#_Source__https___www_mikedelg_ {
+	position: absolute;
+	left: 519px;
+	top: 1392px;
+	overflow: visible;
+	width: 185px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 13px;
+	color: rgba(35,35,35,1);
+}
+#macbook_air {
+	position: absolute;
+	width: 527px;
+	height: 297px;
+	left: 164px;
+	top: 1123px;
+	overflow: visible;
+}
+#case {
+	position: absolute;
+	width: 527px;
+	height: 297px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.screen {
+	position: absolute;
+	overflow: visible;
+	width: 443px;
+	height: 290px;
+	left: 42px;
+	top: 0px;
+}
+.front {
+	position: absolute;
+	overflow: visible;
+	width: 527px;
+	height: 4px;
+	left: 0px;
+	top: 286px;
+}
+.notch {
+	position: absolute;
+	overflow: visible;
+	width: 94px;
+	height: 4px;
+	left: 217px;
+	top: 286px;
+}
+.bottom {
+	overflow: visible;
+	position: absolute;
+	width: 527px;
+	height: 7px;
+	left: 0px;
+	top: 290px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#screen_dl {
+	position: absolute;
+	width: 417px;
+	height: 248px;
+	left: 55px;
+	top: 21px;
+	overflow: visible;
+}
+#Mask {
+	position: absolute;
+	width: 417px;
+	height: 242px;
+	left: 0px;
+	top: 3px;
+	overflow: visible;
+}
+#screen_dn {
+	position: absolute;
+	width: 401px;
+	height: 248px;
+	left: 9px;
+	top: 0px;
+	overflow: visible;
+}

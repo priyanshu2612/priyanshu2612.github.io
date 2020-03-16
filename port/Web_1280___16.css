@@ -1,0 +1,10287 @@
+.mediaViewInfo {
+	--web-view-name: Web 1280 – 16;
+	--web-view-id: Web_1280___16;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Web_1280___16;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Web_1280___16 {
+	position: absolute;
+	width: 1263px;
+	height: 18684px;
+	background-color: rgba(253,253,253,1);
+	overflow: hidden;
+	--web-view-name: Web 1280 – 16;
+	--web-view-id: Web_1280___16;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+#Group_267 {
+	position: absolute;
+	width: 131.498px;
+	height: 260.296px;
+	left: 938.742px;
+	top: 3760.126px;
+	overflow: visible;
+}
+.Line_39 {
+	overflow: visible;
+	position: absolute;
+	width: 131.498px;
+	height: 1px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Line_38 {
+	overflow: visible;
+	position: absolute;
+	width: 131.498px;
+	height: 1px;
+	left: 0px;
+	top: 260.296px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Line_37 {
+	overflow: visible;
+	position: absolute;
+	width: 1px;
+	height: 259.756px;
+	left: 131.496px;
+	top: 0.252px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Line_28 {
+	overflow: visible;
+	position: absolute;
+	width: 1px;
+	height: 69.124px;
+	left: 194.846px;
+	top: 3598.116px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Line_9 {
+	overflow: visible;
+	position: absolute;
+	width: 1px;
+	height: 527.612px;
+	left: 195.385px;
+	top: 3678.041px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Usability_Testing {
+	position: absolute;
+	left: 187px;
+	top: 11621px;
+	overflow: visible;
+	width: 207px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 27px;
+	color: rgba(0,0,0,1);
+}
+#After_the_designs_were_complet {
+	position: absolute;
+	left: 186px;
+	top: 11675px;
+	overflow: visible;
+	width: 832px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(69,69,69,1);
+}
+#Feedback {
+	position: absolute;
+	left: 591px;
+	top: 12224px;
+	overflow: visible;
+	width: 90px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(27,27,27,1);
+}
+#Personal_Interviews {
+	position: absolute;
+	left: 837px;
+	top: 12231px;
+	overflow: visible;
+	width: 119px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(242,43,79,1);
+}
+#Phone_calls__google_docs {
+	position: absolute;
+	left: 568px;
+	top: 12361px;
+	overflow: visible;
+	width: 148px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(242,43,79,1);
+}
+#Casual_talks_ {
+	position: absolute;
+	left: 347px;
+	top: 12229px;
+	overflow: visible;
+	width: 78px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(242,43,79,1);
+}
+.Rectangle_478 {
+	position: absolute;
+	overflow: visible;
+	width: 192px;
+	height: 59px;
+	left: 798px;
+	top: 12208px;
+}
+.Rectangle_479 {
+	position: absolute;
+	overflow: visible;
+	width: 217px;
+	height: 60px;
+	left: 530px;
+	top: 12339px;
+}
+.Rectangle_480 {
+	position: absolute;
+	overflow: visible;
+	width: 190px;
+	height: 59px;
+	left: 289px;
+	top: 12208px;
+}
+#All_together_we_found_60_users {
+	position: absolute;
+	left: 184px;
+	top: 12145px;
+	overflow: visible;
+	width: 897px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(69,69,69,1);
+}
+#ID87649666_856005328184922_190 {
+	position: absolute;
+	width: 164.369px;
+	height: 356.337px;
+	left: 177px;
+	top: 11726.821px;
+	overflow: visible;
+}
+#Screenshot__209_ {
+	position: absolute;
+	width: 631px;
+	height: 355px;
+	left: 456px;
+	top: 11728px;
+	overflow: visible;
+}
+#Group_268 {
+	position: absolute;
+	width: 761.024px;
+	height: 200.788px;
+	left: 244.976px;
+	top: 12519.212px;
+	overflow: visible;
+}
+.Rectangle_481 {
+	position: absolute;
+	overflow: visible;
+	width: 760px;
+	height: 200px;
+	left: 1.024px;
+	top: 0.788px;
+}
+.Path_402 {
+	overflow: visible;
+	position: absolute;
+	width: 1px;
+	height: 199.486px;
+	left: 249.595px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_403 {
+	overflow: visible;
+	position: absolute;
+	width: 1px;
+	height: 199.486px;
+	left: 503.036px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_404 {
+	overflow: visible;
+	position: absolute;
+	width: 1px;
+	height: 758.792px;
+	transform: translate(-244.976px, -13004.212px) matrix(1,0,0,1,624.3714,12726.4128) rotate(-90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#ID1___The_onboarding_was_not_h {
+	position: absolute;
+	left: 17.024px;
+	top: 17.788px;
+	overflow: visible;
+	width: 182px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(69,69,69,1);
+}
+#ID2__Feed_icon_was_not_afforda {
+	position: absolute;
+	left: 275.024px;
+	top: 17.788px;
+	overflow: visible;
+	width: 175px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(69,69,69,1);
+}
+#ID3__Drawer_didn_t_add_any_int {
+	position: absolute;
+	left: 527.024px;
+	top: 17.788px;
+	overflow: visible;
+	width: 184px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(69,69,69,1);
+}
+#ID4__Very_people_actually_chec {
+	position: absolute;
+	left: 17.024px;
+	top: 127.788px;
+	overflow: visible;
+	width: 178px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(69,69,69,1);
+}
+#ID5___No_obligation_of_doing_t {
+	position: absolute;
+	left: 274.024px;
+	top: 127.788px;
+	overflow: visible;
+	width: 160px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(69,69,69,1);
+}
+#ID6___People_failed_to_interpr {
+	position: absolute;
+	left: 526.024px;
+	top: 127.788px;
+	overflow: visible;
+	width: 181px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(69,69,69,1);
+}
+#Observations_made {
+	position: absolute;
+	left: 187px;
+	top: 12438px;
+	overflow: visible;
+	width: 182px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(27,27,27,1);
+}
+#Upon_studying_the_feedbacks_ri {
+	position: absolute;
+	left: 186px;
+	top: 12483px;
+	overflow: visible;
+	width: 776px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(69,69,69,1);
+}
+#Amidst_the_entire_process__we_ {
+	position: absolute;
+	left: 186px;
+	top: 12881px;
+	overflow: visible;
+	width: 697px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(69,69,69,1);
+}
+#_I_loved_the_concept_of_the_ap {
+	position: absolute;
+	left: 190px;
+	top: 12924px;
+	overflow: visible;
+	width: 632px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 20px;
+	color: rgba(102,102,102,1);
+}
+#_The_designs_were_neat__clean_ {
+	position: absolute;
+	left: 190px;
+	top: 13030px;
+	overflow: visible;
+	width: 842px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 20px;
+	color: rgba(102,102,102,1);
+}
+#_The_onboarding_was_helpful_to {
+	position: absolute;
+	left: 190px;
+	top: 13152px;
+	overflow: visible;
+	width: 864px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 20px;
+	color: rgba(102,102,102,1);
+}
+#Group_257 {
+	position: absolute;
+	width: 888px;
+	height: 111px;
+	left: 179px;
+	top: 751px;
+	overflow: visible;
+}
+#UX_Research {
+	position: absolute;
+	left: 0px;
+	top: 30px;
+	overflow: visible;
+	width: 120px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(201,200,200,1);
+}
+#Defining_the_problem {
+	position: absolute;
+	left: 0px;
+	top: 77px;
+	overflow: visible;
+	width: 127px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(102,102,102,1);
+}
+#User_empathy {
+	position: absolute;
+	left: 0px;
+	top: 58px;
+	overflow: visible;
+	width: 85px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(102,102,102,1);
+}
+#Ideation {
+	position: absolute;
+	left: 260px;
+	top: 30px;
+	overflow: visible;
+	width: 76px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(201,200,200,1);
+}
+#Brainstorming {
+	position: absolute;
+	left: 260px;
+	top: 58px;
+	overflow: visible;
+	width: 86px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(102,102,102,1);
+}
+#Information_Architecture {
+	position: absolute;
+	left: 260px;
+	top: 76px;
+	overflow: visible;
+	width: 147px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(102,102,102,1);
+}
+#Prototyping {
+	position: absolute;
+	left: 521px;
+	top: 30px;
+	overflow: visible;
+	width: 109px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(201,200,200,1);
+}
+#Wireframes {
+	position: absolute;
+	left: 524px;
+	top: 59px;
+	overflow: visible;
+	width: 72px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(102,102,102,1);
+}
+#Prototype_Models {
+	position: absolute;
+	left: 524px;
+	top: 95px;
+	overflow: visible;
+	width: 106px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(102,102,102,1);
+}
+#Testing {
+	position: absolute;
+	left: 789px;
+	top: 30px;
+	overflow: visible;
+	width: 68px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(201,200,200,1);
+}
+#Usability_Testing_cd {
+	position: absolute;
+	left: 789px;
+	top: 59px;
+	overflow: visible;
+	width: 100px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(102,102,102,1);
+}
+#Iterate {
+	position: absolute;
+	left: 789px;
+	top: 77px;
+	overflow: visible;
+	width: 40px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(102,102,102,1);
+}
+#Deploy {
+	position: absolute;
+	left: 789px;
+	top: 95px;
+	overflow: visible;
+	width: 43px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(102,102,102,1);
+}
+#ID01 {
+	position: absolute;
+	left: 2px;
+	top: 0px;
+	overflow: visible;
+	width: 17px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(141,138,138,1);
+}
+#ID02 {
+	position: absolute;
+	left: 258px;
+	top: 0px;
+	overflow: visible;
+	width: 17px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(141,138,138,1);
+}
+#ID03 {
+	position: absolute;
+	left: 519px;
+	top: 0px;
+	overflow: visible;
+	width: 17px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(141,138,138,1);
+}
+#ID04 {
+	position: absolute;
+	left: 789px;
+	top: 0px;
+	overflow: visible;
+	width: 17px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(141,138,138,1);
+}
+#Design_Language {
+	position: absolute;
+	left: 524px;
+	top: 77px;
+	overflow: visible;
+	width: 107px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(102,102,102,1);
+}
+.Path_405 {
+	overflow: visible;
+	position: absolute;
+	width: 75.047px;
+	height: 1px;
+	left: 333.77px;
+	top: 833.924px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_406 {
+	overflow: visible;
+	position: absolute;
+	width: 75.049px;
+	height: 1px;
+	left: 600.387px;
+	top: 833.924px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_407 {
+	overflow: visible;
+	position: absolute;
+	width: 75.047px;
+	height: 1px;
+	left: 865.434px;
+	top: 833.924px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#User_Research {
+	position: absolute;
+	left: 177px;
+	top: 903px;
+	overflow: visible;
+	width: 135px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(27,27,27,1);
+}
+#Overview {
+	position: absolute;
+	left: 179px;
+	top: 706px;
+	overflow: visible;
+	width: 89px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(27,27,27,1);
+}
+.Path_411 {
+	overflow: visible;
+	position: absolute;
+	width: 1635.042px;
+	height: 533.119px;
+	left: -23.237px;
+	top: 0.492px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Group_259 {
+	position: absolute;
+	width: 522px;
+	height: 650px;
+	left: 604px;
+	top: 34px;
+	overflow: visible;
+}
+#smartmockups_k7hfn3oz {
+	position: absolute;
+	width: 472px;
+	height: 627px;
+	left: 50px;
+	top: 0px;
+	overflow: visible;
+}
+.Rectangle_492 {
+	position: absolute;
+	overflow: visible;
+	width: 418px;
+	height: 80px;
+	left: 0px;
+	top: 570px;
+}
+#Inspire {
+	position: absolute;
+	left: 176px;
+	top: 125px;
+	overflow: visible;
+	width: 84px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 27px;
+	color: rgba(255,255,255,1);
+}
+#Inspire_is_a_social_media_base {
+	position: absolute;
+	left: 176px;
+	top: 181px;
+	overflow: hidden;
+	width: 342px;
+	height: 98px;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+#Group_260 {
+	transform: matrix(1,0,0,1,-212.9014,6125.687) rotate(0deg);
+	transform-origin: center;
+	position: absolute;
+	width: 1609.886px;
+	height: 5441.709px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Path_30 {
+	overflow: visible;
+	position: absolute;
+	width: 1438.858px;
+	height: 383.049px;
+	transform: translate(92.875px, 0px) matrix(1,0,0,1,78.1523,0) rotate(0deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.Path_29 {
+	overflow: visible;
+	position: absolute;
+	width: 1398.583px;
+	height: 1324.973px;
+	left: 92.875px;
+	top: 1847.788px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_28 {
+	overflow: visible;
+	position: absolute;
+	width: 1460.214px;
+	height: 449.86px;
+	transform: translate(92.875px, 0px) matrix(1,0,0,1,-92.875,4991.8491) rotate(0deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#Mockups_iPhone_Clay_Frontal_Wh {
+	position: absolute;
+	width: 309.273px;
+	height: 556.575px;
+	left: 263.872px;
+	top: 6749.933px;
+	overflow: visible;
+}
+#iPhone_X {
+	position: absolute;
+	width: 309.273px;
+	height: 556.575px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Shadow_Laying {
+	position: absolute;
+	width: 276.559px;
+	height: 556.159px;
+	left: 17.706px;
+	top: 0.832px;
+	display: none;
+	overflow: visible;
+}
+#Shape {
+	opacity: 0.1;
+	filter: blur(8px);
+}
+.Shape {
+	overflow: visible;
+	position: absolute;
+	width: 324.559px;
+	height: 602.911px;
+	left: 0px;
+	top: 1.248px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Shape_c {
+	opacity: 0.2;
+	filter: blur(3px);
+}
+.Shape_c {
+	overflow: visible;
+	position: absolute;
+	width: 294.559px;
+	height: 572.911px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Shadow_Standing {
+	position: absolute;
+	width: 309.273px;
+	height: 4.994px;
+	left: 0px;
+	top: 551.582px;
+	overflow: visible;
+}
+#Shape_db {
+	opacity: 0.4;
+	filter: blur(3px);
+}
+.Shape_db {
+	overflow: visible;
+	position: absolute;
+	width: 281.455px;
+	height: 21.163px;
+	left: 22.808px;
+	top: 0.832px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Shape_dd {
+	opacity: 0.1;
+	filter: blur(3px);
+}
+.Shape_dd {
+	overflow: visible;
+	position: absolute;
+	width: 327.272px;
+	height: 22.994px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Buttons {
+	position: absolute;
+	width: 276.559px;
+	height: 130.957px;
+	left: 17.706px;
+	top: 75.32px;
+	overflow: visible;
+}
+.Shape_dw {
+	overflow: visible;
+	position: absolute;
+	width: 276.559px;
+	height: 130.957px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Buttons_dc {
+	position: absolute;
+	width: 276.559px;
+	height: 130.957px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Body {
+	position: absolute;
+	width: 273.858px;
+	height: 554.911px;
+	left: 19.077px;
+	top: 0px;
+	overflow: visible;
+}
+.Shape_ej {
+	overflow: visible;
+	position: absolute;
+	width: 273.857px;
+	height: 554.911px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Body_dz {
+	position: absolute;
+	width: 273.858px;
+	height: 554.911px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Antena {
+	position: absolute;
+	width: 273.841px;
+	height: 554.841px;
+	left: 19.08px;
+	top: 0.083px;
+	overflow: visible;
+}
+.Shape_eq {
+	overflow: visible;
+	position: absolute;
+	width: 273.841px;
+	height: 554.842px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Antena_ef {
+	position: absolute;
+	width: 273.841px;
+	height: 554.841px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rubber {
+	position: absolute;
+	width: 265.05px;
+	height: 545.964px;
+	left: 23.439px;
+	top: 4.536px;
+	overflow: visible;
+}
+#Shape_er {
+	opacity: 0.1;
+}
+.Shape_er {
+	overflow: visible;
+	position: absolute;
+	width: 265.05px;
+	height: 545.964px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Dynamic {
+	position: absolute;
+	width: 34.612px;
+	height: 6.034px;
+	left: 138.659px;
+	top: 18.934px;
+	overflow: visible;
+}
+#Shape_es {
+	position: absolute;
+	width: 33.697px;
+	height: 4.661px;
+	left: 0.457px;
+	top: 0.666px;
+	overflow: visible;
+}
+.Shape_ex {
+	overflow: visible;
+	position: absolute;
+	width: 33.697px;
+	height: 4.661px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Shape_eu {
+	position: absolute;
+	width: 33.697px;
+	height: 4.661px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Shape_ey {
+	position: absolute;
+	width: 34.612px;
+	height: 5.576px;
+	left: 0px;
+	top: 0.25px;
+	overflow: visible;
+}
+.Shape_fc {
+	overflow: visible;
+	position: absolute;
+	width: 34.611px;
+	height: 5.576px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Shape_e {
+	position: absolute;
+	width: 34.612px;
+	height: 5.576px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Shape_fd {
+	overflow: visible;
+	position: absolute;
+	width: 34.611px;
+	height: 2.913px;
+	left: 0px;
+	top: 3.121px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Shape_fe {
+	opacity: 0.9;
+}
+.Shape_fe {
+	overflow: visible;
+	position: absolute;
+	width: 34.611px;
+	height: 2.913px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Shape_ff {
+	opacity: 0.5;
+}
+.Shape_ff {
+	overflow: visible;
+	position: absolute;
+	width: 33.697px;
+	height: 4.661px;
+	left: 0.457px;
+	top: 0.666px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Mask_Group_1 {
+	position: absolute;
+	width: 32.921px;
+	height: 3.492px;
+	left: 0.846px;
+	top: 1.233px;
+	overflow: visible;
+}
+#Camera {
+	position: absolute;
+	width: 8.393px;
+	height: 8.406px;
+	left: 181.247px;
+	top: 18.06px;
+	overflow: visible;
+}
+#Shape_fh {
+	position: absolute;
+	width: 8.393px;
+	height: 8.406px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Shape_fm {
+	overflow: visible;
+	position: absolute;
+	width: 8.393px;
+	height: 8.406px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Shape_fj {
+	position: absolute;
+	width: 8.393px;
+	height: 8.406px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Shape_fn {
+	position: absolute;
+	width: 5.318px;
+	height: 5.326px;
+	left: 1.537px;
+	top: 1.54px;
+	overflow: visible;
+}
+.Shape_fs {
+	overflow: visible;
+	position: absolute;
+	width: 5.318px;
+	height: 5.326px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Shape_fp {
+	position: absolute;
+	width: 5.318px;
+	height: 5.326px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Screen {
+	position: absolute;
+	width: 240.244px;
+	height: 521.995px;
+	left: 35.904px;
+	top: 16.521px;
+	overflow: visible;
+}
+#Screen_fu {
+	position: absolute;
+	width: 240.243px;
+	height: 521.995px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Mockups_iPhone_Clay_Frontal_Wh_fv {
+	position: absolute;
+	width: 309.273px;
+	height: 556.575px;
+	left: 263.102px;
+	top: 7779.529px;
+	overflow: visible;
+}
+#iPhone_X_fw {
+	position: absolute;
+	width: 309.273px;
+	height: 556.575px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Shadow_Laying_fx {
+	position: absolute;
+	width: 276.559px;
+	height: 556.159px;
+	left: 17.706px;
+	top: 0.832px;
+	display: none;
+	overflow: visible;
+}
+#Shape_fy {
+	opacity: 0.1;
+	filter: blur(8px);
+}
+.Shape_fy {
+	overflow: visible;
+	position: absolute;
+	width: 324.56px;
+	height: 602.911px;
+	left: 0px;
+	top: 1.248px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Shape_fz {
+	opacity: 0.2;
+	filter: blur(3px);
+}
+.Shape_fz {
+	overflow: visible;
+	position: absolute;
+	width: 294.56px;
+	height: 572.911px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Shadow_Standing_f {
+	position: absolute;
+	width: 309.273px;
+	height: 4.994px;
+	left: 0px;
+	top: 551.582px;
+	overflow: visible;
+}
+#Shape_ga {
+	opacity: 0.4;
+	filter: blur(3px);
+}
+.Shape_ga {
+	overflow: visible;
+	position: absolute;
+	width: 281.456px;
+	height: 21.163px;
+	left: 22.808px;
+	top: 0.832px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Shape_gc {
+	opacity: 0.1;
+	filter: blur(3px);
+}
+.Shape_gc {
+	overflow: visible;
+	position: absolute;
+	width: 327.273px;
+	height: 22.994px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Buttons_f {
+	position: absolute;
+	width: 276.559px;
+	height: 130.957px;
+	left: 17.706px;
+	top: 75.32px;
+	overflow: visible;
+}
+.Shape_gr {
+	overflow: visible;
+	position: absolute;
+	width: 276.56px;
+	height: 130.957px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Buttons_ga {
+	position: absolute;
+	width: 276.559px;
+	height: 130.957px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Body_gs {
+	position: absolute;
+	width: 273.858px;
+	height: 554.911px;
+	left: 19.077px;
+	top: 0px;
+	overflow: visible;
+}
+.Shape_hg {
+	overflow: visible;
+	position: absolute;
+	width: 273.858px;
+	height: 554.911px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Body_gu {
+	position: absolute;
+	width: 273.858px;
+	height: 554.911px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Antena_g {
+	position: absolute;
+	width: 273.841px;
+	height: 554.841px;
+	left: 19.08px;
+	top: 0.083px;
+	overflow: visible;
+}
+.Shape_hn {
+	overflow: visible;
+	position: absolute;
+	width: 273.842px;
+	height: 554.842px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Antena_ha {
+	position: absolute;
+	width: 273.841px;
+	height: 554.841px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rubber_hj {
+	position: absolute;
+	width: 265.05px;
+	height: 545.964px;
+	left: 23.439px;
+	top: 4.536px;
+	overflow: visible;
+}
+#Shape_ho {
+	opacity: 0.1;
+}
+.Shape_ho {
+	overflow: visible;
+	position: absolute;
+	width: 265.049px;
+	height: 545.964px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Dynamic_hl {
+	position: absolute;
+	width: 34.612px;
+	height: 6.034px;
+	left: 138.658px;
+	top: 18.934px;
+	overflow: visible;
+}
+#Shape_hp {
+	position: absolute;
+	width: 33.697px;
+	height: 4.661px;
+	left: 0.457px;
+	top: 0.666px;
+	overflow: visible;
+}
+.Shape_hu {
+	overflow: visible;
+	position: absolute;
+	width: 33.697px;
+	height: 4.661px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Shape_hr {
+	position: absolute;
+	width: 33.697px;
+	height: 4.661px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Shape_hv {
+	position: absolute;
+	width: 34.612px;
+	height: 5.576px;
+	left: 0px;
+	top: 0.25px;
+	overflow: visible;
+}
+.Shape_h {
+	overflow: visible;
+	position: absolute;
+	width: 34.611px;
+	height: 5.576px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Shape_hx {
+	position: absolute;
+	width: 34.612px;
+	height: 5.576px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Shape_ia {
+	overflow: visible;
+	position: absolute;
+	width: 34.611px;
+	height: 2.913px;
+	left: 0px;
+	top: 3.121px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Shape_ib {
+	opacity: 0.9;
+}
+.Shape_ib {
+	overflow: visible;
+	position: absolute;
+	width: 34.611px;
+	height: 2.913px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Shape_ic {
+	opacity: 0.5;
+}
+.Shape_ic {
+	overflow: visible;
+	position: absolute;
+	width: 33.697px;
+	height: 4.661px;
+	left: 0.457px;
+	top: 0.666px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Mask_Group_1_h {
+	position: absolute;
+	width: 32.921px;
+	height: 3.492px;
+	left: 0.846px;
+	top: 1.233px;
+	overflow: visible;
+}
+#Camera_h {
+	position: absolute;
+	width: 8.393px;
+	height: 8.406px;
+	left: 181.248px;
+	top: 18.06px;
+	overflow: visible;
+}
+#Shape_ie {
+	position: absolute;
+	width: 8.393px;
+	height: 8.406px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Shape_ij {
+	overflow: visible;
+	position: absolute;
+	width: 8.393px;
+	height: 8.406px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Shape_ig {
+	position: absolute;
+	width: 8.393px;
+	height: 8.406px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Shape_ik {
+	position: absolute;
+	width: 5.318px;
+	height: 5.326px;
+	left: 1.537px;
+	top: 1.54px;
+	overflow: visible;
+}
+.Shape_ip {
+	overflow: visible;
+	position: absolute;
+	width: 5.318px;
+	height: 5.326px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Shape_im {
+	position: absolute;
+	width: 5.318px;
+	height: 5.326px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Screen_io {
+	position: absolute;
+	width: 240.244px;
+	height: 521.995px;
+	left: 35.904px;
+	top: 16.521px;
+	overflow: visible;
+}
+#Screen_ip {
+	position: absolute;
+	width: 240.244px;
+	height: 521.995px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Mockups_iPhone_Clay_Frontal_Wh_iq {
+	position: absolute;
+	width: 302.34px;
+	height: 544.25px;
+	left: 682.168px;
+	top: 7280.894px;
+	overflow: visible;
+}
+#iPhone_X_ir {
+	position: absolute;
+	width: 302.34px;
+	height: 544.25px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Shadow_Laying_is {
+	position: absolute;
+	width: 270.359px;
+	height: 543.843px;
+	left: 17.309px;
+	top: 0.814px;
+	display: none;
+	overflow: visible;
+}
+#Shape_it {
+	opacity: 0.1;
+	filter: blur(8px);
+}
+.Shape_it {
+	overflow: visible;
+	position: absolute;
+	width: 318.359px;
+	height: 590.622px;
+	left: 0px;
+	top: 1.221px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Shape_iu {
+	opacity: 0.2;
+	filter: blur(3px);
+}
+.Shape_iu {
+	overflow: visible;
+	position: absolute;
+	width: 288.359px;
+	height: 560.622px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Shadow_Standing_iv {
+	position: absolute;
+	width: 302.34px;
+	height: 4.883px;
+	left: 0px;
+	top: 539.367px;
+	overflow: visible;
+}
+#Shape_ix {
+	opacity: 0.4;
+	filter: blur(3px);
+}
+.Shape_ix {
+	overflow: visible;
+	position: absolute;
+	width: 275.549px;
+	height: 21.093px;
+	left: 22.297px;
+	top: 0.814px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Shape_iz {
+	opacity: 0.1;
+	filter: blur(3px);
+}
+.Shape_iz {
+	overflow: visible;
+	position: absolute;
+	width: 320.34px;
+	height: 22.883px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Buttons_i {
+	position: absolute;
+	width: 270.359px;
+	height: 128.056px;
+	left: 17.309px;
+	top: 73.652px;
+	overflow: visible;
+}
+.Shape_jn {
+	overflow: visible;
+	position: absolute;
+	width: 270.359px;
+	height: 128.056px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Buttons_ja {
+	position: absolute;
+	width: 270.359px;
+	height: 128.056px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Body_jn {
+	position: absolute;
+	width: 267.719px;
+	height: 542.622px;
+	left: 18.648px;
+	top: 0px;
+	overflow: visible;
+}
+.Shape_kb {
+	overflow: visible;
+	position: absolute;
+	width: 267.719px;
+	height: 542.622px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Body_jp {
+	position: absolute;
+	width: 267.719px;
+	height: 542.622px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Antena_j {
+	position: absolute;
+	width: 267.702px;
+	height: 542.554px;
+	left: 18.652px;
+	top: 0.082px;
+	overflow: visible;
+}
+.Shape_ki {
+	overflow: visible;
+	position: absolute;
+	width: 267.701px;
+	height: 542.554px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Antena_ka {
+	position: absolute;
+	width: 267.702px;
+	height: 542.554px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rubber_ke {
+	position: absolute;
+	width: 259.108px;
+	height: 533.873px;
+	left: 22.914px;
+	top: 4.435px;
+	overflow: visible;
+}
+#Shape_kj {
+	opacity: 0.1;
+}
+.Shape_kj {
+	overflow: visible;
+	position: absolute;
+	width: 259.107px;
+	height: 533.874px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Dynamic_kg {
+	position: absolute;
+	width: 33.836px;
+	height: 5.9px;
+	left: 135.551px;
+	top: 18.515px;
+	overflow: visible;
+}
+#Shape_kk {
+	position: absolute;
+	width: 32.942px;
+	height: 4.557px;
+	left: 0.447px;
+	top: 0.651px;
+	overflow: visible;
+}
+.Shape_kp {
+	overflow: visible;
+	position: absolute;
+	width: 32.941px;
+	height: 4.557px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Shape_km {
+	position: absolute;
+	width: 32.942px;
+	height: 4.557px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Shape_kq {
+	position: absolute;
+	width: 33.836px;
+	height: 5.453px;
+	left: 0px;
+	top: 0.244px;
+	overflow: visible;
+}
+.Shape_kv {
+	overflow: visible;
+	position: absolute;
+	width: 33.836px;
+	height: 5.453px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Shape_ks {
+	position: absolute;
+	width: 33.836px;
+	height: 5.453px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Shape_kw {
+	overflow: visible;
+	position: absolute;
+	width: 33.836px;
+	height: 2.848px;
+	left: 0px;
+	top: 3.052px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Shape_kx {
+	opacity: 0.9;
+}
+.Shape_kx {
+	overflow: visible;
+	position: absolute;
+	width: 33.836px;
+	height: 2.848px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Shape_ky {
+	opacity: 0.5;
+}
+.Shape_ky {
+	overflow: visible;
+	position: absolute;
+	width: 32.941px;
+	height: 4.557px;
+	left: 0.447px;
+	top: 0.651px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Mask_Group_1_ky {
+	position: absolute;
+	width: 32.145px;
+	height: 3.358px;
+	left: 0.846px;
+	top: 1.233px;
+	overflow: visible;
+}
+#Camera_k {
+	position: absolute;
+	width: 8.205px;
+	height: 8.22px;
+	left: 177.186px;
+	top: 17.66px;
+	overflow: visible;
+}
+#Shape_la {
+	position: absolute;
+	width: 8.205px;
+	height: 8.22px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Shape_lf {
+	overflow: visible;
+	position: absolute;
+	width: 8.205px;
+	height: 8.22px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Shape_lc {
+	position: absolute;
+	width: 8.205px;
+	height: 8.22px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Shape_lg {
+	position: absolute;
+	width: 5.199px;
+	height: 5.209px;
+	left: 1.502px;
+	top: 1.506px;
+	overflow: visible;
+}
+.Shape_ll {
+	overflow: visible;
+	position: absolute;
+	width: 5.199px;
+	height: 5.208px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Shape_li {
+	position: absolute;
+	width: 5.199px;
+	height: 5.209px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Screen_lj {
+	position: absolute;
+	width: 234.858px;
+	height: 510.435px;
+	left: 35.1px;
+	top: 16.155px;
+	overflow: visible;
+}
+#Screen_lk {
+	position: absolute;
+	width: 234.857px;
+	height: 510.435px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#This_screen_displays_the_vario {
+	position: absolute;
+	left: 664px;
+	top: 6866px;
+	overflow: visible;
+	width: 262px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(69,69,69,1);
+}
+#This_screen_displays_the_vario_lm {
+	position: absolute;
+	left: 302px;
+	top: 7478px;
+	overflow: visible;
+	width: 262px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(69,69,69,1);
+}
+#Choosing_ {
+	position: absolute;
+	left: 664px;
+	top: 6810px;
+	overflow: visible;
+	width: 93px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+}
+#Interests {
+	position: absolute;
+	left: 304px;
+	top: 7431px;
+	overflow: visible;
+	width: 80px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+}
+#Mockups_iPhone_Clay_Frontal_Wh_lp {
+	position: absolute;
+	width: 309.273px;
+	height: 557.346px;
+	left: 263.101px;
+	top: 9632.211px;
+	overflow: visible;
+}
+#iPhone_X_lq {
+	position: absolute;
+	width: 309.273px;
+	height: 557.346px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Shadow_Laying_lr {
+	position: absolute;
+	width: 276.559px;
+	height: 556.929px;
+	left: 17.706px;
+	top: 0.833px;
+	display: none;
+	overflow: visible;
+}
+#Shape_ls {
+	opacity: 0.1;
+	filter: blur(8px);
+}
+.Shape_ls {
+	overflow: visible;
+	position: absolute;
+	width: 324.559px;
+	height: 603.679px;
+	left: 0px;
+	top: 1.25px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Shape_lt {
+	opacity: 0.2;
+	filter: blur(3px);
+}
+.Shape_lt {
+	overflow: visible;
+	position: absolute;
+	width: 294.559px;
+	height: 573.679px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Shadow_Standing_lu {
+	position: absolute;
+	width: 309.273px;
+	height: 5px;
+	left: 0px;
+	top: 552.345px;
+	overflow: visible;
+}
+#Shape_lw {
+	opacity: 0.4;
+	filter: blur(3px);
+}
+.Shape_lw {
+	overflow: visible;
+	position: absolute;
+	width: 281.455px;
+	height: 21.167px;
+	left: 22.808px;
+	top: 0.833px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Shape_ly {
+	opacity: 0.1;
+	filter: blur(3px);
+}
+.Shape_ly {
+	overflow: visible;
+	position: absolute;
+	width: 327.272px;
+	height: 23px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Buttons_lz {
+	position: absolute;
+	width: 276.559px;
+	height: 131.138px;
+	left: 17.706px;
+	top: 75.424px;
+	overflow: visible;
+}
+.Shape_mn {
+	overflow: visible;
+	position: absolute;
+	width: 276.559px;
+	height: 131.138px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Buttons_l {
+	position: absolute;
+	width: 276.559px;
+	height: 131.138px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Body_mm {
+	position: absolute;
+	width: 273.858px;
+	height: 555.679px;
+	left: 19.077px;
+	top: 0px;
+	overflow: visible;
+}
+.Shape_na {
+	overflow: visible;
+	position: absolute;
+	width: 273.857px;
+	height: 555.679px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Body_mo {
+	position: absolute;
+	width: 273.858px;
+	height: 555.679px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Antena_m {
+	position: absolute;
+	width: 273.841px;
+	height: 555.61px;
+	left: 19.08px;
+	top: 0.083px;
+	overflow: visible;
+}
+.Shape_nh {
+	overflow: visible;
+	position: absolute;
+	width: 273.841px;
+	height: 555.609px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Antena_na {
+	position: absolute;
+	width: 273.841px;
+	height: 555.61px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rubber_nd {
+	position: absolute;
+	width: 265.05px;
+	height: 546.72px;
+	left: 23.439px;
+	top: 4.542px;
+	overflow: visible;
+}
+#Shape_ni {
+	opacity: 0.1;
+}
+.Shape_ni {
+	overflow: visible;
+	position: absolute;
+	width: 265.05px;
+	height: 546.72px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Dynamic_nf {
+	position: absolute;
+	width: 34.612px;
+	height: 6.042px;
+	left: 138.659px;
+	top: 18.96px;
+	overflow: visible;
+}
+#Shape_nj {
+	position: absolute;
+	width: 33.697px;
+	height: 4.667px;
+	left: 0.457px;
+	top: 0.667px;
+	overflow: visible;
+}
+.Shape_no {
+	overflow: visible;
+	position: absolute;
+	width: 33.697px;
+	height: 4.667px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Shape_nl {
+	position: absolute;
+	width: 33.697px;
+	height: 4.667px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Shape_np {
+	position: absolute;
+	width: 34.612px;
+	height: 5.584px;
+	left: 0px;
+	top: 0.25px;
+	overflow: visible;
+}
+.Shape_nu {
+	overflow: visible;
+	position: absolute;
+	width: 34.611px;
+	height: 5.584px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Shape_nr {
+	position: absolute;
+	width: 34.612px;
+	height: 5.584px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Shape_nv {
+	overflow: visible;
+	position: absolute;
+	width: 34.611px;
+	height: 2.917px;
+	left: 0px;
+	top: 3.125px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Shape_nw {
+	opacity: 0.9;
+}
+.Shape_nw {
+	overflow: visible;
+	position: absolute;
+	width: 34.611px;
+	height: 2.917px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Shape_nx {
+	opacity: 0.5;
+}
+.Shape_nx {
+	overflow: visible;
+	position: absolute;
+	width: 33.697px;
+	height: 4.667px;
+	left: 0.457px;
+	top: 0.667px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Mask_Group_1_nx {
+	position: absolute;
+	width: 32.921px;
+	height: 3.5px;
+	left: 0.846px;
+	top: 1.232px;
+	overflow: visible;
+}
+#Camera_n {
+	position: absolute;
+	width: 8.393px;
+	height: 8.417px;
+	left: 181.247px;
+	top: 18.085px;
+	overflow: visible;
+}
+#Shape_oa {
+	position: absolute;
+	width: 8.393px;
+	height: 8.417px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Shape_of {
+	overflow: visible;
+	position: absolute;
+	width: 8.393px;
+	height: 8.417px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Shape_oc {
+	position: absolute;
+	width: 8.393px;
+	height: 8.417px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Shape_og {
+	position: absolute;
+	width: 5.318px;
+	height: 5.334px;
+	left: 1.537px;
+	top: 1.542px;
+	overflow: visible;
+}
+.Shape_ol {
+	overflow: visible;
+	position: absolute;
+	width: 5.318px;
+	height: 5.334px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Shape_oi {
+	position: absolute;
+	width: 5.318px;
+	height: 5.334px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Screen_oi {
+	position: absolute;
+	width: 240.244px;
+	height: 522.717px;
+	left: 35.904px;
+	top: 16.543px;
+	overflow: visible;
+}
+#Screen_oj {
+	position: absolute;
+	width: 240.243px;
+	height: 522.717px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#ID3_screens_were_made_to_conne {
+	position: absolute;
+	left: 183px;
+	top: 10893px;
+	overflow: visible;
+	width: 856px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(69,69,69,1);
+}
+#Reaching_out_to_people {
+	position: absolute;
+	left: 183px;
+	top: 10855px;
+	overflow: visible;
+	width: 214px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+}
+#Identified_problems {
+	position: absolute;
+	left: 177px;
+	top: 2606px;
+	overflow: visible;
+	width: 178px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+}
+#ID1__Lack_of_appreciation_for_ {
+	position: absolute;
+	left: 177px;
+	top: 2651px;
+	overflow: visible;
+	width: 272px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(69,69,69,1);
+}
+#ID2__Usual_process_of_learning {
+	position: absolute;
+	left: 177px;
+	top: 2675px;
+	overflow: visible;
+	width: 334px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(69,69,69,1);
+}
+#ID3__Loss_of_enthusiasm_and_ii {
+	position: absolute;
+	left: 177px;
+	top: 2699px;
+	overflow: visible;
+	width: 366px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(69,69,69,1);
+}
+#ID4__Current_social_media_is_i {
+	position: absolute;
+	left: 177px;
+	top: 2725px;
+	overflow: visible;
+	width: 591px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(69,69,69,1);
+}
+#An_extensive_user_research_was {
+	position: absolute;
+	left: 177px;
+	top: 946px;
+	overflow: visible;
+	width: 897px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(69,69,69,1);
+}
+#The_main_problems_in_the_curre {
+	position: absolute;
+	left: 176px;
+	top: 2820px;
+	overflow: visible;
+	width: 909px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(69,69,69,1);
+}
+#Brainstorming_ot {
+	position: absolute;
+	left: 177px;
+	top: 2775px;
+	overflow: visible;
+	width: 132px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+}
+.Line_32 {
+	overflow: visible;
+	position: absolute;
+	width: 1px;
+	height: 227.894px;
+	left: 938.471px;
+	top: 4020.421px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Line_33 {
+	overflow: visible;
+	position: absolute;
+	width: 41.313px;
+	height: 1px;
+	left: 897.158px;
+	top: 4050.664px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Line_34 {
+	overflow: visible;
+	position: absolute;
+	width: 41.313px;
+	height: 1px;
+	left: 897.158px;
+	top: 4115.468px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Line_35 {
+	overflow: visible;
+	position: absolute;
+	width: 41.313px;
+	height: 1px;
+	left: 897.158px;
+	top: 4177.571px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Line_36 {
+	overflow: visible;
+	position: absolute;
+	width: 41.313px;
+	height: 1px;
+	left: 897.158px;
+	top: 4248.483px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Line_29 {
+	overflow: visible;
+	position: absolute;
+	width: 1px;
+	height: 69.124px;
+	left: 427.059px;
+	top: 3598.116px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Line_30 {
+	overflow: visible;
+	position: absolute;
+	width: 1px;
+	height: 69.124px;
+	left: 677.094px;
+	top: 3598.116px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Line_31 {
+	overflow: visible;
+	position: absolute;
+	width: 1px;
+	height: 69.124px;
+	left: 904.447px;
+	top: 3598.116px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Line_26 {
+	overflow: visible;
+	position: absolute;
+	width: 1px;
+	height: 69.124px;
+	left: 561.525px;
+	top: 3530.072px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Line_22 {
+	overflow: visible;
+	position: absolute;
+	width: 1px;
+	height: 85.325px;
+	left: 340.113px;
+	top: 3715.304px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Line_21 {
+	overflow: visible;
+	position: absolute;
+	width: 1px;
+	height: 69.124px;
+	left: 427.059px;
+	top: 3646.179px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Line_23 {
+	overflow: visible;
+	position: absolute;
+	width: 1px;
+	height: 85.325px;
+	left: 514.006px;
+	top: 3715.304px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Line_25 {
+	overflow: visible;
+	position: absolute;
+	width: 173.891px;
+	height: 1px;
+	left: 340.113px;
+	top: 3800.629px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Line_20 {
+	overflow: visible;
+	position: absolute;
+	width: 1px;
+	height: 88.565px;
+	left: 427.059px;
+	top: 3800.629px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Line_10 {
+	overflow: visible;
+	position: absolute;
+	width: 1px;
+	height: 291.618px;
+	left: 677.094px;
+	top: 3663.46px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Rectangle_85 {
+	position: absolute;
+	overflow: visible;
+	width: 96px;
+	height: 32px;
+	left: 150px;
+	top: 3647px;
+}
+.Rectangle_86 {
+	position: absolute;
+	overflow: visible;
+	width: 97px;
+	height: 32px;
+	left: 380px;
+	top: 3647px;
+}
+.Rectangle_87 {
+	position: absolute;
+	overflow: visible;
+	width: 96px;
+	height: 32px;
+	left: 630px;
+	top: 3647px;
+}
+#Feed {
+	position: absolute;
+	left: 416px;
+	top: 3655px;
+	overflow: visible;
+	width: 17px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 8px;
+	color: rgba(0,0,0,1);
+}
+#Stats {
+	position: absolute;
+	left: 664px;
+	top: 3655px;
+	overflow: visible;
+	width: 19px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 9px;
+	color: rgba(0,0,0,1);
+}
+.Rectangle_61 {
+	position: absolute;
+	overflow: visible;
+	width: 95px;
+	height: 33px;
+	left: 152px;
+	top: 3740px;
+}
+.Rectangle_62 {
+	position: absolute;
+	overflow: visible;
+	width: 95px;
+	height: 33px;
+	left: 152px;
+	top: 3803px;
+}
+.Rectangle_63 {
+	position: absolute;
+	overflow: visible;
+	width: 95px;
+	height: 35px;
+	left: 152px;
+	top: 3864px;
+}
+.Rectangle_64 {
+	width: 72.364px;
+	height: 72.364px;
+	position: absolute;
+	overflow: visible;
+	transform: matrix(1,0,0,1,158.8766,3948.661) rotate(45deg);
+	transform-origin: center;
+}
+.Rectangle_65 {
+	position: absolute;
+	overflow: visible;
+	width: 95px;
+	height: 32px;
+	left: 152px;
+	top: 4067px;
+}
+.Rectangle_66 {
+	position: absolute;
+	overflow: visible;
+	width: 95px;
+	height: 31px;
+	left: 152px;
+	top: 4130px;
+}
+.Rectangle_67 {
+	position: absolute;
+	overflow: visible;
+	width: 96px;
+	height: 35px;
+	left: 151px;
+	top: 4194px;
+}
+.Rectangle_68 {
+	position: absolute;
+	overflow: visible;
+	width: 95px;
+	height: 33px;
+	left: 292px;
+	top: 3740px;
+}
+#Following {
+	position: absolute;
+	left: 321px;
+	top: 3751px;
+	overflow: visible;
+	width: 39px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 9px;
+	color: rgba(0,0,0,1);
+}
+.Rectangle_69 {
+	position: absolute;
+	overflow: visible;
+	width: 94px;
+	height: 33px;
+	left: 471px;
+	top: 3740px;
+}
+#Global {
+	position: absolute;
+	left: 501px;
+	top: 3748px;
+	overflow: visible;
+	width: 27px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 9px;
+	color: rgba(0,0,0,1);
+}
+.Rectangle_70 {
+	position: absolute;
+	overflow: visible;
+	width: 97px;
+	height: 31px;
+	left: 378px;
+	top: 3827px;
+}
+#Rate {
+	position: absolute;
+	left: 416px;
+	top: 3836px;
+	overflow: visible;
+	width: 19px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 9px;
+	color: rgba(0,0,0,1);
+}
+.Rectangle_71 {
+	position: absolute;
+	overflow: visible;
+	width: 97px;
+	height: 35px;
+	left: 378px;
+	top: 3881px;
+}
+#Share {
+	position: absolute;
+	left: 413px;
+	top: 3889px;
+	overflow: visible;
+	width: 23px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 9px;
+	color: rgba(0,0,0,1);
+}
+.Rectangle_81 {
+	position: absolute;
+	overflow: visible;
+	width: 99px;
+	height: 33px;
+	left: 809px;
+	top: 4034px;
+}
+#Total_inspirations {
+	position: absolute;
+	left: 816px;
+	top: 4042px;
+	overflow: visible;
+	width: 61px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 8px;
+	color: rgba(38,38,38,1);
+}
+.Rectangle_82 {
+	position: absolute;
+	overflow: visible;
+	width: 99px;
+	height: 33px;
+	left: 809px;
+	top: 4097px;
+}
+#About {
+	position: absolute;
+	left: 844px;
+	top: 4105px;
+	overflow: visible;
+	width: 25px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 9px;
+	color: rgba(38,38,38,1);
+}
+.Rectangle_83 {
+	position: absolute;
+	overflow: visible;
+	width: 99px;
+	height: 30px;
+	left: 809px;
+	top: 4159px;
+}
+#Stars_challenges_ {
+	position: absolute;
+	left: 816px;
+	top: 4167px;
+	overflow: visible;
+	width: 67px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 9px;
+	color: rgba(38,38,38,1);
+}
+.Rectangle_84 {
+	position: absolute;
+	overflow: visible;
+	width: 99px;
+	height: 31px;
+	left: 809px;
+	top: 4229px;
+}
+#User_s_posts {
+	position: absolute;
+	left: 828px;
+	top: 4237px;
+	overflow: visible;
+	width: 49px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 9px;
+	color: rgba(38,38,38,1);
+}
+.Line_11 {
+	overflow: visible;
+	position: absolute;
+	width: 47.523px;
+	height: 1px;
+	left: 677.094px;
+	top: 3757.426px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Line_12 {
+	overflow: visible;
+	position: absolute;
+	width: 47.523px;
+	height: 1px;
+	left: 677.094px;
+	top: 3822.229px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Line_13 {
+	overflow: visible;
+	position: absolute;
+	width: 47.523px;
+	height: 1px;
+	left: 677.094px;
+	top: 3884.334px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Line_14 {
+	overflow: visible;
+	position: absolute;
+	width: 47.523px;
+	height: 1px;
+	left: 677.094px;
+	top: 3955.078px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Line_15 {
+	overflow: visible;
+	position: absolute;
+	width: 1px;
+	height: 291.618px;
+	left: 904.988px;
+	top: 3663.46px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Line_16 {
+	overflow: visible;
+	position: absolute;
+	width: 47.523px;
+	height: 1px;
+	left: 904.988px;
+	top: 3757.426px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Line_17 {
+	overflow: visible;
+	position: absolute;
+	width: 47.523px;
+	height: 1px;
+	left: 904.988px;
+	top: 3822.229px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Line_18 {
+	overflow: visible;
+	position: absolute;
+	width: 47.523px;
+	height: 1px;
+	left: 904.988px;
+	top: 3884.334px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Line_19 {
+	overflow: visible;
+	position: absolute;
+	width: 47.523px;
+	height: 1px;
+	left: 904.988px;
+	top: 3955.078px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Rectangle_72 {
+	position: absolute;
+	overflow: visible;
+	width: 96px;
+	height: 33px;
+	left: 698px;
+	top: 3740px;
+}
+#Challenges__completed {
+	position: absolute;
+	left: 718px;
+	top: 3745px;
+	overflow: visible;
+	width: 47px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 9px;
+	color: rgba(0,0,0,1);
+}
+.Rectangle_73 {
+	position: absolute;
+	overflow: visible;
+	width: 96px;
+	height: 33px;
+	left: 698px;
+	top: 3803px;
+}
+#Stars_gained {
+	position: absolute;
+	left: 716px;
+	top: 3811px;
+	overflow: visible;
+	width: 49px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 9px;
+	color: rgba(0,0,0,1);
+}
+.Rectangle_74 {
+	position: absolute;
+	overflow: visible;
+	width: 96px;
+	height: 35px;
+	left: 698px;
+	top: 3864px;
+}
+#Graphical_view {
+	position: absolute;
+	left: 710px;
+	top: 3872px;
+	overflow: visible;
+	width: 59px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 9px;
+	color: rgba(0,0,0,1);
+}
+.Rectangle_75 {
+	position: absolute;
+	overflow: visible;
+	width: 96px;
+	height: 30px;
+	left: 698px;
+	top: 3940px;
+}
+#Accepted__completed_list {
+	position: absolute;
+	left: 716px;
+	top: 3944px;
+	overflow: visible;
+	width: 45px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 7px;
+	color: rgba(38,38,38,1);
+}
+.Rectangle_77 {
+	position: absolute;
+	overflow: visible;
+	width: 96px;
+	height: 33px;
+	left: 928px;
+	top: 3740px;
+}
+#Profile {
+	position: absolute;
+	left: 957px;
+	top: 3750px;
+	overflow: visible;
+	width: 27px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 9px;
+	color: rgba(0,0,0,1);
+}
+.Rectangle_78 {
+	position: absolute;
+	overflow: visible;
+	width: 96px;
+	height: 33px;
+	left: 928px;
+	top: 3803px;
+}
+#Our_Mission {
+	position: absolute;
+	left: 946px;
+	top: 3811px;
+	overflow: visible;
+	width: 49px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 9px;
+	color: rgba(0,0,0,1);
+}
+.Rectangle_79 {
+	position: absolute;
+	overflow: visible;
+	width: 96px;
+	height: 35px;
+	left: 928px;
+	top: 3864px;
+}
+#Suggest_changes {
+	position: absolute;
+	left: 942px;
+	top: 3876px;
+	overflow: visible;
+	width: 69px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 9px;
+	color: rgba(0,0,0,1);
+}
+.Rectangle_80 {
+	position: absolute;
+	overflow: visible;
+	width: 96px;
+	height: 30px;
+	left: 928px;
+	top: 3940px;
+}
+#Join_team {
+	position: absolute;
+	left: 957px;
+	top: 3949px;
+	overflow: visible;
+	width: 39px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 9px;
+	color: rgba(38,38,38,1);
+}
+.Line_24 {
+	overflow: visible;
+	position: absolute;
+	width: 173.891px;
+	height: 1px;
+	left: 340.113px;
+	top: 3715.304px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Line_27 {
+	overflow: visible;
+	position: absolute;
+	width: 709.604px;
+	height: 1px;
+	left: 194.846px;
+	top: 3599.197px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Rectangle_88 {
+	position: absolute;
+	overflow: visible;
+	width: 95px;
+	height: 32px;
+	left: 856px;
+	top: 3647px;
+}
+#Hamburger {
+	position: absolute;
+	left: 885px;
+	top: 3655px;
+	overflow: visible;
+	width: 41px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 8px;
+	color: rgba(0,0,0,1);
+}
+.Rectangle_89 {
+	position: absolute;
+	overflow: visible;
+	width: 176px;
+	height: 33px;
+	left: 473px;
+	top: 3529px;
+}
+#Signin_with_facebook_google {
+	position: absolute;
+	left: 504px;
+	top: 3540px;
+	overflow: visible;
+	width: 115px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 9px;
+	color: rgba(0,0,0,1);
+}
+#Information_Architecture_qw {
+	position: absolute;
+	left: 174px;
+	top: 3478px;
+	overflow: visible;
+	width: 225px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+}
+#User_Journey {
+	position: absolute;
+	left: 176px;
+	top: 4297px;
+	overflow: visible;
+	width: 119px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+}
+.Rectangle_495 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 444px;
+	height: 217px;
+	left: 176px;
+	top: 4342px;
+}
+.Rectangle_496 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 437px;
+	height: 217px;
+	left: 634px;
+	top: 4342px;
+}
+#User_persona_1_ {
+	position: absolute;
+	left: 191px;
+	top: 4367px;
+	overflow: visible;
+	width: 95px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(242,43,79,1);
+}
+#Sumedh_is_21_years_old_enginee {
+	position: absolute;
+	left: 191px;
+	top: 4396px;
+	overflow: visible;
+	width: 335px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(69,69,69,1);
+}
+#User_persona_2_ {
+	position: absolute;
+	left: 653px;
+	top: 4367px;
+	overflow: visible;
+	width: 95px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(242,43,79,1);
+}
+#Sumedh_is_21_years_old_enginee_q {
+	position: absolute;
+	left: 653px;
+	top: 4396px;
+	overflow: visible;
+	width: 335px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(69,69,69,1);
+}
+#My_role {
+	position: absolute;
+	left: 350px;
+	top: 585px;
+	overflow: visible;
+	width: 45px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(242,43,79,1);
+}
+#Founder_UI_UX_Designer_Fronten {
+	position: absolute;
+	left: 350px;
+	top: 621px;
+	overflow: visible;
+	width: 117px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(69,69,69,1);
+}
+#Personal_Project {
+	position: absolute;
+	left: 179px;
+	top: 621px;
+	overflow: visible;
+	width: 99px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(69,69,69,1);
+}
+#Duration {
+	position: absolute;
+	left: 546px;
+	top: 585px;
+	overflow: visible;
+	width: 53px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(242,43,79,1);
+}
+#June_2018__Present {
+	position: absolute;
+	left: 546px;
+	top: 621px;
+	overflow: visible;
+	width: 117px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(69,69,69,1);
+}
+#Downloads {
+	position: absolute;
+	left: 744px;
+	top: 585px;
+	overflow: visible;
+	width: 70px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(242,43,79,1);
+}
+#ID200__as_of_Dec_2019 {
+	position: absolute;
+	left: 744px;
+	top: 621px;
+	overflow: visible;
+	width: 127px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(69,69,69,1);
+}
+#Download_link___https___play_g {
+	position: absolute;
+	left: 176px;
+	top: 277px;
+	overflow: visible;
+	width: 374px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(255,255,255,1);
+}
+.Path_412 {
+	overflow: visible;
+	position: absolute;
+	width: 362.27px;
+	height: 231.387px;
+	left: 485.223px;
+	top: 8106.162px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Mockups_iPhone_Clay_Frontal_Wh_rd {
+	position: absolute;
+	width: 306.191px;
+	height: 551.953px;
+	left: 669.844px;
+	top: 9094.51px;
+	overflow: visible;
+}
+#iPhone_X_re {
+	position: absolute;
+	width: 306.191px;
+	height: 551.953px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Shadow_Laying_rf {
+	position: absolute;
+	width: 273.804px;
+	height: 551.541px;
+	left: 17.529px;
+	top: 0.825px;
+	display: none;
+	overflow: visible;
+}
+#Shape_rg {
+	opacity: 0.1;
+	filter: blur(8px);
+}
+.Shape_rg {
+	overflow: visible;
+	position: absolute;
+	width: 321.803px;
+	height: 598.303px;
+	left: 0px;
+	top: 1.238px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Shape_rh {
+	opacity: 0.2;
+	filter: blur(3px);
+}
+.Shape_rh {
+	overflow: visible;
+	position: absolute;
+	width: 291.803px;
+	height: 568.303px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Shadow_Standing_ri {
+	position: absolute;
+	width: 306.191px;
+	height: 4.952px;
+	left: 0px;
+	top: 547.001px;
+	overflow: visible;
+}
+#Shape_rk {
+	opacity: 0.4;
+	filter: blur(3px);
+}
+.Shape_rk {
+	overflow: visible;
+	position: absolute;
+	width: 278.83px;
+	height: 21.136px;
+	left: 22.58px;
+	top: 0.825px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Shape_rm {
+	opacity: 0.1;
+	filter: blur(3px);
+}
+.Shape_rm {
+	overflow: visible;
+	position: absolute;
+	width: 324.191px;
+	height: 22.952px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Buttons_rn {
+	position: absolute;
+	width: 273.804px;
+	height: 129.869px;
+	left: 17.529px;
+	top: 74.694px;
+	overflow: visible;
+}
+.Shape_se {
+	overflow: visible;
+	position: absolute;
+	width: 273.803px;
+	height: 129.869px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Buttons_rp {
+	position: absolute;
+	width: 273.804px;
+	height: 129.869px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Body_sa {
+	position: absolute;
+	width: 271.13px;
+	height: 550.302px;
+	left: 18.887px;
+	top: 0px;
+	overflow: visible;
+}
+.Shape_sq {
+	overflow: visible;
+	position: absolute;
+	width: 271.129px;
+	height: 550.303px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Body_sc {
+	position: absolute;
+	width: 271.13px;
+	height: 550.302px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Antena_sq {
+	position: absolute;
+	width: 271.112px;
+	height: 550.234px;
+	left: 18.891px;
+	top: 0.083px;
+	overflow: visible;
+}
+.Shape_s {
+	overflow: visible;
+	position: absolute;
+	width: 271.113px;
+	height: 550.234px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Antena_ss {
+	position: absolute;
+	width: 271.112px;
+	height: 550.234px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rubber_s {
+	position: absolute;
+	width: 262.409px;
+	height: 541.43px;
+	left: 23.207px;
+	top: 4.498px;
+	overflow: visible;
+}
+#Shape_ta {
+	opacity: 0.1;
+}
+.Shape_ta {
+	overflow: visible;
+	position: absolute;
+	width: 262.408px;
+	height: 541.43px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Dynamic_s {
+	position: absolute;
+	width: 34.267px;
+	height: 5.984px;
+	left: 137.277px;
+	top: 18.777px;
+	overflow: visible;
+}
+#Shape_tb {
+	position: absolute;
+	width: 33.362px;
+	height: 4.622px;
+	left: 0.453px;
+	top: 0.66px;
+	overflow: visible;
+}
+.Shape_tg {
+	overflow: visible;
+	position: absolute;
+	width: 33.361px;
+	height: 4.622px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Shape_td {
+	position: absolute;
+	width: 33.362px;
+	height: 4.622px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Shape_th {
+	position: absolute;
+	width: 34.267px;
+	height: 5.53px;
+	left: 0px;
+	top: 0.248px;
+	overflow: visible;
+}
+.Shape_tm {
+	overflow: visible;
+	position: absolute;
+	width: 34.268px;
+	height: 5.53px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Shape_tj {
+	position: absolute;
+	width: 34.267px;
+	height: 5.53px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Shape_tn {
+	overflow: visible;
+	position: absolute;
+	width: 34.266px;
+	height: 2.889px;
+	left: 0px;
+	top: 3.095px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Shape_to {
+	opacity: 0.9;
+}
+.Shape_to {
+	overflow: visible;
+	position: absolute;
+	width: 34.266px;
+	height: 2.889px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Shape_tp {
+	opacity: 0.5;
+}
+.Shape_tp {
+	overflow: visible;
+	position: absolute;
+	width: 33.361px;
+	height: 4.622px;
+	left: 0.453px;
+	top: 0.66px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Mask_Group_1_tl {
+	position: absolute;
+	width: 32.576px;
+	height: 3.442px;
+	left: 0.846px;
+	top: 1.232px;
+	overflow: visible;
+}
+#Camera_tp {
+	position: absolute;
+	width: 8.31px;
+	height: 8.336px;
+	left: 179.441px;
+	top: 17.91px;
+	overflow: visible;
+}
+#Shape_tr {
+	position: absolute;
+	width: 8.31px;
+	height: 8.336px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Shape_tx {
+	overflow: visible;
+	position: absolute;
+	width: 8.309px;
+	height: 8.336px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Shape_tt {
+	position: absolute;
+	width: 8.31px;
+	height: 8.336px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Shape_ty {
+	position: absolute;
+	width: 5.265px;
+	height: 5.282px;
+	left: 1.521px;
+	top: 1.527px;
+	overflow: visible;
+}
+.Shape_uc {
+	overflow: visible;
+	position: absolute;
+	width: 5.266px;
+	height: 5.282px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Shape_t {
+	position: absolute;
+	width: 5.265px;
+	height: 5.282px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Screen_t {
+	position: absolute;
+	width: 237.85px;
+	height: 517.66px;
+	left: 35.547px;
+	top: 16.383px;
+	overflow: visible;
+}
+#Screen_ua {
+	position: absolute;
+	width: 237.85px;
+	height: 517.66px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#User {
+	position: absolute;
+	left: 506px;
+	top: 1549px;
+	overflow: visible;
+	width: 59px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 27px;
+	color: rgba(27,27,27,1);
+}
+#Inspire_t {
+	position: absolute;
+	left: 649px;
+	top: 1549px;
+	overflow: visible;
+	width: 84px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 27px;
+	color: rgba(27,27,27,1);
+}
+#Ellipse_156 {
+	opacity: 0.83;
+}
+.Ellipse_156 {
+	position: absolute;
+	overflow: visible;
+	width: 200px;
+	height: 201px;
+	left: 442px;
+	top: 1586px;
+}
+#Ellipse_157 {
+	opacity: 0.77;
+}
+.Ellipse_157 {
+	position: absolute;
+	overflow: visible;
+	width: 201px;
+	height: 201px;
+	left: 595px;
+	top: 1586px;
+}
+#what_are_their__problems {
+	position: absolute;
+	left: 488px;
+	top: 1668px;
+	overflow: visible;
+	width: 89px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(255,255,255,1);
+}
+#core_values__of_inspire {
+	position: absolute;
+	left: 654px;
+	top: 1668px;
+	overflow: visible;
+	width: 73px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(255,255,255,1);
+}
+#WhatsApp_Image_2020_03_08_at_0 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	width: 210px;
+	height: 454px;
+	left: 666px;
+	top: 996px;
+	overflow: visible;
+}
+#WhatsApp_Image_2020_03_08_at_0_uf {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	width: 209px;
+	height: 452px;
+	left: 388px;
+	top: 996px;
+	overflow: visible;
+}
+#We_got_many_responses_for_our_ {
+	position: absolute;
+	left: 177px;
+	top: 1497px;
+	overflow: visible;
+	width: 906px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(69,69,69,1);
+}
+#_Questions_we_framed_for_user_ {
+	position: absolute;
+	left: 639px;
+	top: 1461px;
+	overflow: visible;
+	width: 237px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 13px;
+	color: rgba(69,69,69,1);
+}
+#WhatsApp_Image_2020_03_08_at_0_ui {
+	position: absolute;
+	width: 249px;
+	height: 331px;
+	left: 176px;
+	top: 3102px;
+	overflow: visible;
+}
+#WhatsApp_Image_2020_03_08_at_0_uj {
+	position: absolute;
+	width: 248px;
+	height: 331px;
+	left: 397px;
+	top: 3102px;
+	overflow: visible;
+}
+#WhatsApp_Image_2020_03_08_at_0_uk {
+	position: absolute;
+	width: 249px;
+	height: 331px;
+	left: 617px;
+	top: 3102px;
+	overflow: visible;
+}
+#WhatsApp_Image_2020_03_08_at_0_ul {
+	position: absolute;
+	width: 248px;
+	height: 331px;
+	left: 839px;
+	top: 3102px;
+	overflow: visible;
+}
+#_We_loved_scribbling____ {
+	position: absolute;
+	left: 954px;
+	top: 3442px;
+	overflow: visible;
+	width: 134px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 13px;
+	color: rgba(69,69,69,1);
+}
+#Wireframes_un {
+	position: absolute;
+	left: 175px;
+	top: 4595px;
+	overflow: visible;
+	width: 110px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+}
+#Image_3 {
+	position: absolute;
+	width: 910px;
+	height: 495px;
+	left: 177px;
+	top: 4676px;
+	overflow: visible;
+}
+#Wireframes_were_designed_using {
+	position: absolute;
+	left: 175px;
+	top: 4640px;
+	overflow: visible;
+	width: 430px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(69,69,69,1);
+}
+#Design_System {
+	position: absolute;
+	left: 175px;
+	top: 5265px;
+	overflow: visible;
+	width: 139px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+}
+.Rectangle_497 {
+	position: absolute;
+	overflow: visible;
+	width: 80px;
+	height: 80px;
+	left: 176px;
+	top: 5321px;
+}
+.Rectangle_498 {
+	position: absolute;
+	overflow: visible;
+	width: 77px;
+	height: 80px;
+	left: 272px;
+	top: 5321px;
+}
+.Rectangle_499 {
+	position: absolute;
+	overflow: visible;
+	width: 80px;
+	height: 80px;
+	left: 363px;
+	top: 5321px;
+}
+#_2284A1 {
+	position: absolute;
+	left: 272px;
+	top: 5414px;
+	overflow: visible;
+	width: 57px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(69,69,69,1);
+}
+#_454545 {
+	position: absolute;
+	left: 366px;
+	top: 5414px;
+	overflow: visible;
+	width: 56px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(69,69,69,1);
+}
+.Rectangle_500 {
+	position: absolute;
+	overflow: visible;
+	width: 82px;
+	height: 80px;
+	left: 458px;
+	top: 5321px;
+}
+#_A7A7A7 {
+	position: absolute;
+	left: 461px;
+	top: 5414px;
+	overflow: visible;
+	width: 61px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(69,69,69,1);
+}
+.Rectangle_501 {
+	position: absolute;
+	overflow: visible;
+	width: 80px;
+	height: 80px;
+	left: 557px;
+	top: 5321px;
+}
+#_D5D5D5 {
+	position: absolute;
+	left: 559px;
+	top: 5414px;
+	overflow: visible;
+	width: 61px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(69,69,69,1);
+}
+#Aa {
+	position: absolute;
+	left: 807px;
+	top: 5294px;
+	overflow: visible;
+	width: 122px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 91px;
+	color: rgba(0,0,0,1);
+}
+#abcdefghijklmnopqrstuvwxyz {
+	position: absolute;
+	left: 807px;
+	top: 5536px;
+	overflow: visible;
+	width: 168px;
+	white-space: nowrap;
+	text-align: right;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(69,69,69,1);
+}
+#Regular {
+	position: absolute;
+	left: 807px;
+	top: 5497px;
+	overflow: visible;
+	width: 68px;
+	white-space: nowrap;
+	text-align: right;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(69,69,69,1);
+}
+#abcdefghijklmnopqrstuvwxyz_u {
+	position: absolute;
+	left: 807px;
+	top: 5643px;
+	overflow: visible;
+	width: 174px;
+	white-space: nowrap;
+	text-align: right;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 13px;
+	color: rgba(69,69,69,1);
+}
+#Semibold {
+	position: absolute;
+	left: 807px;
+	top: 5606px;
+	overflow: visible;
+	width: 87px;
+	white-space: nowrap;
+	text-align: right;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(69,69,69,1);
+}
+#Segoe_UI {
+	position: absolute;
+	left: 808px;
+	top: 5401px;
+	overflow: visible;
+	width: 113px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 27px;
+	color: rgba(0,0,0,1);
+}
+#Heading1_35px {
+	position: absolute;
+	left: 176px;
+	top: 5493px;
+	overflow: visible;
+	width: 236px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 33px;
+	color: rgba(0,0,0,1);
+}
+#Heading2_30px {
+	position: absolute;
+	left: 176px;
+	top: 5554px;
+	overflow: visible;
+	width: 200px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 28px;
+	color: rgba(0,0,0,1);
+}
+#Paragraph1_20px {
+	position: absolute;
+	left: 176px;
+	top: 5610px;
+	overflow: visible;
+	width: 155px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 19px;
+	color: rgba(0,0,0,1);
+}
+#Paragraph2_15px {
+	position: absolute;
+	left: 176px;
+	top: 5653px;
+	overflow: visible;
+	width: 123px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	color: rgba(0,0,0,1);
+}
+#Final_designs {
+	position: absolute;
+	left: 175px;
+	top: 6063px;
+	overflow: visible;
+	width: 164px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 27px;
+	color: rgba(0,0,0,1);
+}
+#Onboarding {
+	position: absolute;
+	left: 176px;
+	top: 6160px;
+	overflow: visible;
+	width: 111px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(239,239,239,1);
+}
+#Mockups_iPhone_Clay_Frontal_Wh_vc {
+	position: absolute;
+	width: 306.191px;
+	height: 551.953px;
+	left: 266.183px;
+	top: 8697.78px;
+	overflow: visible;
+}
+#iPhone_X_vd {
+	position: absolute;
+	width: 306.191px;
+	height: 551.953px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Shadow_Laying_ve {
+	position: absolute;
+	width: 273.804px;
+	height: 551.541px;
+	left: 17.529px;
+	top: 0.825px;
+	display: none;
+	overflow: visible;
+}
+#Shape_vf {
+	opacity: 0.1;
+	filter: blur(8px);
+}
+.Shape_vf {
+	overflow: visible;
+	position: absolute;
+	width: 321.804px;
+	height: 598.303px;
+	left: 0px;
+	top: 1.238px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Shape_vg {
+	opacity: 0.2;
+	filter: blur(3px);
+}
+.Shape_vg {
+	overflow: visible;
+	position: absolute;
+	width: 291.804px;
+	height: 568.303px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Shadow_Standing_vh {
+	position: absolute;
+	width: 306.191px;
+	height: 4.952px;
+	left: 0px;
+	top: 547.001px;
+	overflow: visible;
+}
+#Shape_vj {
+	opacity: 0.4;
+	filter: blur(3px);
+}
+.Shape_vj {
+	overflow: visible;
+	position: absolute;
+	width: 278.83px;
+	height: 21.136px;
+	left: 22.581px;
+	top: 0.825px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Shape_vl {
+	opacity: 0.1;
+	filter: blur(3px);
+}
+.Shape_vl {
+	overflow: visible;
+	position: absolute;
+	width: 324.19px;
+	height: 22.952px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Buttons_vm {
+	position: absolute;
+	width: 273.804px;
+	height: 129.869px;
+	left: 17.529px;
+	top: 74.694px;
+	overflow: visible;
+}
+.Shape_we {
+	overflow: visible;
+	position: absolute;
+	width: 273.804px;
+	height: 129.869px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Buttons_vo {
+	position: absolute;
+	width: 273.804px;
+	height: 129.869px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Body_v {
+	position: absolute;
+	width: 271.13px;
+	height: 550.302px;
+	left: 18.887px;
+	top: 0px;
+	overflow: visible;
+}
+.Shape_wq {
+	overflow: visible;
+	position: absolute;
+	width: 271.13px;
+	height: 550.303px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Body_wb {
+	position: absolute;
+	width: 271.13px;
+	height: 550.302px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Antena_wp {
+	position: absolute;
+	width: 271.112px;
+	height: 550.234px;
+	left: 18.891px;
+	top: 0.083px;
+	overflow: visible;
+}
+.Shape_wz {
+	overflow: visible;
+	position: absolute;
+	width: 271.112px;
+	height: 550.234px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Antena_wr {
+	position: absolute;
+	width: 271.112px;
+	height: 550.234px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rubber_w {
+	position: absolute;
+	width: 262.409px;
+	height: 541.43px;
+	left: 23.206px;
+	top: 4.498px;
+	overflow: visible;
+}
+#Shape_w {
+	opacity: 0.1;
+}
+.Shape_w {
+	overflow: visible;
+	position: absolute;
+	width: 262.408px;
+	height: 541.43px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Dynamic_w {
+	position: absolute;
+	width: 34.267px;
+	height: 5.984px;
+	left: 137.276px;
+	top: 18.777px;
+	overflow: visible;
+}
+#Shape_xa {
+	position: absolute;
+	width: 33.362px;
+	height: 4.622px;
+	left: 0.453px;
+	top: 0.66px;
+	overflow: visible;
+}
+.Shape_xf {
+	overflow: visible;
+	position: absolute;
+	width: 33.361px;
+	height: 4.622px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Shape_xc {
+	position: absolute;
+	width: 33.362px;
+	height: 4.622px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Shape_xg {
+	position: absolute;
+	width: 34.267px;
+	height: 5.53px;
+	left: 0px;
+	top: 0.248px;
+	overflow: visible;
+}
+.Shape_xl {
+	overflow: visible;
+	position: absolute;
+	width: 34.268px;
+	height: 5.53px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Shape_xi {
+	position: absolute;
+	width: 34.267px;
+	height: 5.53px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Shape_xm {
+	overflow: visible;
+	position: absolute;
+	width: 34.266px;
+	height: 2.889px;
+	left: 0px;
+	top: 3.095px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Shape_xn {
+	opacity: 0.9;
+}
+.Shape_xn {
+	overflow: visible;
+	position: absolute;
+	width: 34.266px;
+	height: 2.889px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Shape_xo {
+	opacity: 0.5;
+}
+.Shape_xo {
+	overflow: visible;
+	position: absolute;
+	width: 33.361px;
+	height: 4.622px;
+	left: 0.453px;
+	top: 0.66px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Mask_Group_1_xk {
+	position: absolute;
+	width: 32.576px;
+	height: 3.442px;
+	left: 0.846px;
+	top: 1.232px;
+	overflow: visible;
+}
+#Camera_xo {
+	position: absolute;
+	width: 8.31px;
+	height: 8.336px;
+	left: 179.442px;
+	top: 17.91px;
+	overflow: visible;
+}
+#Shape_xq {
+	position: absolute;
+	width: 8.31px;
+	height: 8.336px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Shape_xw {
+	overflow: visible;
+	position: absolute;
+	width: 8.309px;
+	height: 8.336px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Shape_xs {
+	position: absolute;
+	width: 8.31px;
+	height: 8.336px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Shape_xx {
+	position: absolute;
+	width: 5.265px;
+	height: 5.282px;
+	left: 1.521px;
+	top: 1.527px;
+	overflow: visible;
+}
+.Shape_yb {
+	overflow: visible;
+	position: absolute;
+	width: 5.266px;
+	height: 5.282px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Shape_xz {
+	position: absolute;
+	width: 5.265px;
+	height: 5.282px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Screen_x {
+	position: absolute;
+	width: 237.85px;
+	height: 517.66px;
+	left: 35.547px;
+	top: 16.383px;
+	overflow: visible;
+}
+#Screen_ya {
+	position: absolute;
+	width: 237.851px;
+	height: 517.66px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Mockups_iPhone_Clay_Frontal_Wh_x {
+	position: absolute;
+	width: 309.273px;
+	height: 557.346px;
+	left: 682.17px;
+	top: 8262.536px;
+	overflow: visible;
+}
+#iPhone_X_x {
+	position: absolute;
+	width: 309.273px;
+	height: 557.346px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Shadow_Laying_x {
+	position: absolute;
+	width: 276.559px;
+	height: 556.929px;
+	left: 17.705px;
+	top: 0.833px;
+	display: none;
+	overflow: visible;
+}
+#Shape_yc {
+	opacity: 0.1;
+	filter: blur(8px);
+}
+.Shape_yc {
+	overflow: visible;
+	position: absolute;
+	width: 324.559px;
+	height: 603.679px;
+	left: 0px;
+	top: 1.25px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Shape_yd {
+	opacity: 0.2;
+	filter: blur(3px);
+}
+.Shape_yd {
+	overflow: visible;
+	position: absolute;
+	width: 294.559px;
+	height: 573.679px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Shadow_Standing_yc {
+	position: absolute;
+	width: 309.273px;
+	height: 5px;
+	left: 0px;
+	top: 552.345px;
+	overflow: visible;
+}
+#Shape_yf {
+	opacity: 0.4;
+	filter: blur(3px);
+}
+.Shape_yf {
+	overflow: visible;
+	position: absolute;
+	width: 281.455px;
+	height: 21.167px;
+	left: 22.809px;
+	top: 0.833px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Shape_yh {
+	opacity: 0.1;
+	filter: blur(3px);
+}
+.Shape_yh {
+	overflow: visible;
+	position: absolute;
+	width: 327.273px;
+	height: 23px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Buttons_yh {
+	position: absolute;
+	width: 276.559px;
+	height: 131.138px;
+	left: 17.705px;
+	top: 75.424px;
+	overflow: visible;
+}
+.Shape_za {
+	overflow: visible;
+	position: absolute;
+	width: 276.559px;
+	height: 131.138px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Buttons_yj {
+	position: absolute;
+	width: 276.559px;
+	height: 131.138px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Body_y {
+	position: absolute;
+	width: 273.858px;
+	height: 555.679px;
+	left: 19.076px;
+	top: 0px;
+	overflow: visible;
+}
+.Shape_zm {
+	overflow: visible;
+	position: absolute;
+	width: 273.857px;
+	height: 555.679px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Body_za {
+	position: absolute;
+	width: 273.858px;
+	height: 555.679px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Antena_zk {
+	position: absolute;
+	width: 273.841px;
+	height: 555.61px;
+	left: 19.08px;
+	top: 0.083px;
+	overflow: visible;
+}
+.Shape_zu {
+	overflow: visible;
+	position: absolute;
+	width: 273.84px;
+	height: 555.609px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Antena_zm {
+	position: absolute;
+	width: 273.841px;
+	height: 555.61px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rubber_zv {
+	position: absolute;
+	width: 265.05px;
+	height: 546.72px;
+	left: 23.439px;
+	top: 4.542px;
+	overflow: visible;
+}
+#Shape_zw {
+	opacity: 0.1;
+}
+.Shape_zw {
+	overflow: visible;
+	position: absolute;
+	width: 265.049px;
+	height: 546.72px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Dynamic_zx {
+	position: absolute;
+	width: 34.612px;
+	height: 6.042px;
+	left: 138.658px;
+	top: 18.96px;
+	overflow: visible;
+}
+#Shape_zy {
+	position: absolute;
+	width: 33.697px;
+	height: 4.667px;
+	left: 0.457px;
+	top: 0.667px;
+	overflow: visible;
+}
+.Shape_o {
+	overflow: visible;
+	position: absolute;
+	width: 33.697px;
+	height: 4.667px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Shape_z {
+	position: absolute;
+	width: 33.697px;
+	height: 4.667px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Shape_p {
+	position: absolute;
+	width: 34.612px;
+	height: 5.584px;
+	left: 0px;
+	top: 0.25px;
+	overflow: visible;
+}
+.Shape_bab {
+	overflow: visible;
+	position: absolute;
+	width: 34.611px;
+	height: 5.584px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Shape_u {
+	position: absolute;
+	width: 34.612px;
+	height: 5.584px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Shape_bac {
+	overflow: visible;
+	position: absolute;
+	width: 34.611px;
+	height: 2.917px;
+	left: 0px;
+	top: 3.125px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Shape_bad {
+	opacity: 0.9;
+}
+.Shape_bad {
+	overflow: visible;
+	position: absolute;
+	width: 34.611px;
+	height: 2.917px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Shape_bae {
+	opacity: 0.5;
+}
+.Shape_bae {
+	overflow: visible;
+	position: absolute;
+	width: 33.697px;
+	height: 4.667px;
+	left: 0.457px;
+	top: 0.667px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Mask_Group_1_f {
+	position: absolute;
+	width: 32.921px;
+	height: 3.5px;
+	left: 0.846px;
+	top: 1.232px;
+	overflow: visible;
+}
+#Camera_j {
+	position: absolute;
+	width: 8.393px;
+	height: 8.417px;
+	left: 181.248px;
+	top: 18.085px;
+	overflow: visible;
+}
+#Shape_bag {
+	position: absolute;
+	width: 8.393px;
+	height: 8.417px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Shape_bal {
+	overflow: visible;
+	position: absolute;
+	width: 8.393px;
+	height: 8.417px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Shape_bai {
+	position: absolute;
+	width: 8.393px;
+	height: 8.417px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Shape_bam {
+	position: absolute;
+	width: 5.318px;
+	height: 5.334px;
+	left: 1.537px;
+	top: 1.542px;
+	overflow: visible;
+}
+.Shape_bar {
+	overflow: visible;
+	position: absolute;
+	width: 5.318px;
+	height: 5.334px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Shape_bao {
+	position: absolute;
+	width: 5.318px;
+	height: 5.334px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Screen_ {
+	position: absolute;
+	width: 240.244px;
+	height: 522.717px;
+	left: 35.904px;
+	top: 16.543px;
+	overflow: visible;
+}
+#Screen_a {
+	position: absolute;
+	width: 240.244px;
+	height: 522.717px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Path_413 {
+	overflow: visible;
+	position: absolute;
+	width: 262.955px;
+	height: 4.526px;
+	left: 559.119px;
+	top: 8782.526px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_414 {
+	overflow: visible;
+	position: absolute;
+	width: 139.936px;
+	height: 3.349px;
+	left: 551.416px;
+	top: 9148.44px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Challenge_description {
+	position: absolute;
+	left: 289px;
+	top: 8429px;
+	overflow: visible;
+	width: 200px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+}
+#Group_264 {
+	position: absolute;
+	width: 284px;
+	height: 32px;
+	left: 289px;
+	top: 8474px;
+	overflow: visible;
+}
+#Details_about_the_challenge__r {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 285px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(0,0,0,1);
+}
+#Deepak_Meena {
+	position: absolute;
+	left: 191px;
+	top: 12957px;
+	overflow: visible;
+	width: 91px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(69,69,69,1);
+}
+#Iteration_2_ {
+	position: absolute;
+	left: 176px;
+	top: 13322px;
+	overflow: visible;
+	width: 134px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 27px;
+	color: rgba(242,43,79,1);
+}
+#Variation_1 {
+	position: absolute;
+	left: 181px;
+	top: 13760px;
+	overflow: visible;
+	width: 102px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(27,27,27,1);
+}
+#Variation_2 {
+	position: absolute;
+	left: 176px;
+	top: 14133px;
+	overflow: visible;
+	width: 102px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(27,27,27,1);
+}
+#The_Onboarding {
+	position: absolute;
+	left: 177px;
+	top: 13643px;
+	overflow: visible;
+	width: 151px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+}
+#SInce_the_previous_one_failed_ {
+	position: absolute;
+	left: 176px;
+	top: 13690px;
+	overflow: visible;
+	width: 908px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(35,35,35,1);
+}
+#iPhone_6_7_8___34 {
+	filter: drop-shadow(0px 0px 17px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	width: 171.788px;
+	height: 305.553px;
+	left: 181.97px;
+	top: 14177.724px;
+	overflow: visible;
+}
+#iPhone_6_7m_8___38 {
+	filter: drop-shadow(0px 0px 17px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	width: 171.787px;
+	height: 305.553px;
+	left: 399.207px;
+	top: 14177.724px;
+	overflow: visible;
+}
+#iPhone_6_7_8___35 {
+	filter: drop-shadow(0px 0px 17px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	width: 171.787px;
+	height: 305.553px;
+	left: 624.92px;
+	top: 14177.724px;
+	overflow: visible;
+}
+#A_B_Testing {
+	position: absolute;
+	left: 589px;
+	top: 14537px;
+	overflow: visible;
+	width: 108px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(27,27,27,1);
+}
+#Variation_1_h {
+	position: absolute;
+	left: 435px;
+	top: 14671px;
+	overflow: visible;
+	width: 102px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(242,43,79,1);
+}
+#Variation_2_i {
+	position: absolute;
+	left: 732px;
+	top: 14671px;
+	overflow: visible;
+	width: 102px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(242,43,79,1);
+}
+.Rectangle_476 {
+	position: absolute;
+	overflow: visible;
+	width: 192px;
+	height: 59px;
+	left: 399px;
+	top: 14656px;
+}
+.Rectangle_477 {
+	position: absolute;
+	overflow: visible;
+	width: 192px;
+	height: 59px;
+	left: 692px;
+	top: 14656px;
+}
+#Outcome {
+	position: absolute;
+	left: 177px;
+	top: 14771px;
+	overflow: visible;
+	width: 85px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(27,27,27,1);
+}
+#Group_251 {
+	position: absolute;
+	width: 234.707px;
+	height: 74.827px;
+	left: 528.664px;
+	top: 14581.37px;
+	overflow: visible;
+}
+.Path_400 {
+	overflow: visible;
+	position: absolute;
+	width: 117.305px;
+	height: 75.668px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_401 {
+	overflow: visible;
+	position: absolute;
+	width: 117.305px;
+	height: 75.668px;
+	left: 117.941px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Prototypes_were_sent_through_A {
+	position: absolute;
+	left: 176px;
+	top: 14820px;
+	overflow: visible;
+	width: 927px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(69,69,69,1);
+}
+#iPhone_6_7_8___89 {
+	filter: drop-shadow(0px 0px 17px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	width: 172.559px;
+	height: 341.435px;
+	left: 259.691px;
+	top: 15006.829px;
+	overflow: visible;
+}
+#iPhone_6_7_8___73 {
+	filter: drop-shadow(0px 0px 17px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	width: 172.559px;
+	height: 306.463px;
+	left: 450.371px;
+	top: 15006.829px;
+	overflow: visible;
+}
+#iPhone_6_7_8___84 {
+	filter: drop-shadow(0px 0px 17px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	width: 172.559px;
+	height: 306.463px;
+	left: 641.053px;
+	top: 15006.829px;
+	overflow: visible;
+}
+#iPhone_6_7_8___85 {
+	filter: drop-shadow(0px 0px 17px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	width: 172.559px;
+	height: 306.463px;
+	left: 831.732px;
+	top: 15006.829px;
+	overflow: visible;
+}
+#iPhone_6_7_8___72 {
+	filter: drop-shadow(0px 0px 17px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	width: 172.559px;
+	height: 397.573px;
+	left: 1022.414px;
+	top: 15006.829px;
+	overflow: visible;
+}
+#Feature_discoverability {
+	position: absolute;
+	left: 178px;
+	top: 14885px;
+	overflow: visible;
+	width: 209px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(27,27,27,1);
+}
+#In_addition_to_the_first_3_scr {
+	position: absolute;
+	left: 177px;
+	top: 14929px;
+	overflow: visible;
+	width: 747px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(69,69,69,1);
+}
+#iPhone_6_7_8___5 {
+	filter: drop-shadow(0px 0px 17px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	width: 172.559px;
+	height: 306.923px;
+	left: 177.348px;
+	top: 13804.077px;
+	overflow: visible;
+}
+#iPhone_6_7_8___11 {
+	filter: drop-shadow(0px 0px 17px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	width: 172.559px;
+	height: 306.923px;
+	left: 395.768px;
+	top: 13804.077px;
+	overflow: visible;
+}
+#iPhone_6_7_8___14 {
+	filter: drop-shadow(0px 0px 17px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	width: 172.559px;
+	height: 306.923px;
+	left: 614.189px;
+	top: 13804.077px;
+	overflow: visible;
+}
+#iPhone_6_7_8___15 {
+	filter: drop-shadow(0px 0px 17px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	width: 172.559px;
+	height: 306.923px;
+	left: 832.607px;
+	top: 13804.077px;
+	overflow: visible;
+}
+.Rectangle_482 {
+	position: absolute;
+	overflow: visible;
+	width: 619px;
+	height: 129px;
+	left: 424px;
+	top: 13398px;
+}
+.Rectangle_483 {
+	position: absolute;
+	overflow: visible;
+	width: 602px;
+	height: 107px;
+	left: 414px;
+	top: 13445px;
+}
+#Group_257_ {
+	position: absolute;
+	width: 810px;
+	height: 140px;
+	left: 174px;
+	top: 13463px;
+	overflow: visible;
+}
+#UX_Research_ {
+	position: absolute;
+	left: 0px;
+	top: 32px;
+	overflow: visible;
+	width: 120px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(201,200,200,1);
+}
+#Business_Goals {
+	position: absolute;
+	left: 0px;
+	top: 74px;
+	overflow: visible;
+	width: 92px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(102,102,102,1);
+}
+#User_Scenario {
+	position: absolute;
+	left: 0px;
+	top: 100px;
+	overflow: visible;
+	width: 84px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(102,102,102,1);
+}
+#Ideation_ {
+	position: absolute;
+	left: 245px;
+	top: 32px;
+	overflow: visible;
+	width: 76px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(201,200,200,1);
+}
+#Brainstorming_ {
+	position: absolute;
+	left: 245px;
+	top: 74px;
+	overflow: visible;
+	width: 86px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(102,102,102,1);
+}
+#Information_Architecture_ {
+	position: absolute;
+	left: 245px;
+	top: 100px;
+	overflow: visible;
+	width: 147px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(102,102,102,1);
+}
+#Prototyping_a {
+	position: absolute;
+	left: 484px;
+	top: 32px;
+	overflow: visible;
+	width: 109px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(201,200,200,1);
+}
+#Wireframes_b {
+	position: absolute;
+	left: 488px;
+	top: 74px;
+	overflow: visible;
+	width: 72px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(102,102,102,1);
+}
+#Prototype_Models_c {
+	position: absolute;
+	left: 488px;
+	top: 124px;
+	overflow: visible;
+	width: 106px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(102,102,102,1);
+}
+#Testing_d {
+	position: absolute;
+	left: 741px;
+	top: 32px;
+	overflow: visible;
+	width: 68px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(201,200,200,1);
+}
+#A_B_Testing_e {
+	position: absolute;
+	left: 741px;
+	top: 74px;
+	overflow: visible;
+	width: 70px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(102,102,102,1);
+}
+#Iterate_f {
+	position: absolute;
+	left: 741px;
+	top: 100px;
+	overflow: visible;
+	width: 40px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(102,102,102,1);
+}
+#Deploy_g {
+	position: absolute;
+	left: 741px;
+	top: 124px;
+	overflow: visible;
+	width: 43px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(102,102,102,1);
+}
+#ID01_h {
+	position: absolute;
+	left: 2px;
+	top: 0px;
+	overflow: visible;
+	width: 17px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(141,138,138,1);
+}
+#ID02_i {
+	position: absolute;
+	left: 245px;
+	top: 0px;
+	overflow: visible;
+	width: 17px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(141,138,138,1);
+}
+#ID03_j {
+	position: absolute;
+	left: 488px;
+	top: 0px;
+	overflow: visible;
+	width: 17px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(141,138,138,1);
+}
+#ID04_k {
+	position: absolute;
+	left: 741px;
+	top: 0px;
+	overflow: visible;
+	width: 17px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(141,138,138,1);
+}
+#Design_Language_l {
+	position: absolute;
+	left: 488px;
+	top: 100px;
+	overflow: visible;
+	width: 107px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(102,102,102,1);
+}
+.Path_405_m {
+	overflow: visible;
+	position: absolute;
+	width: 75.049px;
+	height: 1px;
+	left: 318.486px;
+	top: 13527.637px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_406_n {
+	overflow: visible;
+	position: absolute;
+	width: 75.051px;
+	height: 1px;
+	left: 568.078px;
+	top: 13527.637px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_407_o {
+	overflow: visible;
+	position: absolute;
+	width: 75.049px;
+	height: 1px;
+	left: 809.197px;
+	top: 13527.637px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Iteration_2 {
+	position: absolute;
+	left: 692px;
+	top: 13371px;
+	overflow: visible;
+	width: 62px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(102,102,102,1);
+}
+#Playing_around_with_psychology {
+	position: absolute;
+	left: 176px;
+	top: 15424px;
+	overflow: visible;
+	width: 296px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+}
+#Based_on_reading_certain_artic {
+	position: absolute;
+	left: 175px;
+	top: 15474px;
+	overflow: visible;
+	width: 845px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(35,35,35,1);
+}
+#Once_the_user_accepts_any_chal {
+	position: absolute;
+	left: 175px;
+	top: 15491px;
+	overflow: visible;
+	width: 900px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(35,35,35,1);
+}
+#iPhone_6_7_8___71 {
+	filter: blur(2px);
+	position: absolute;
+	width: 174px;
+	height: 316px;
+	left: 202px;
+	top: 15646px;
+	overflow: visible;
+}
+#iPhone_6_7_8___71_u {
+	position: absolute;
+	width: 214px;
+	height: 215px;
+	left: 176px;
+	top: 15795px;
+	overflow: visible;
+}
+#Group_237 {
+	position: absolute;
+	width: 200px;
+	height: 194px;
+	left: 526px;
+	top: 15696px;
+	overflow: visible;
+}
+.Rectangle_455 {
+	filter: drop-shadow(0px 6px 13px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 239px;
+	height: 233px;
+	left: 0px;
+	top: 0px;
+}
+#Deadline {
+	position: absolute;
+	left: 61px;
+	top: 23px;
+	overflow: visible;
+	width: 65px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+}
+#Line_86 {
+	opacity: 0.26;
+}
+.Line_86 {
+	overflow: visible;
+	position: absolute;
+	width: 93.213px;
+	height: 1px;
+	left: 52.313px;
+	top: 92.373px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Icon_ionic_md_arrow_dropright {
+	opacity: 0.45;
+}
+.Icon_ionic_md_arrow_dropright {
+	overflow: visible;
+	position: absolute;
+	width: 4.416px;
+	height: 8.832px;
+	transform: translate(-0.326px, 0.201px) matrix(1,0,0,1,139.1054,80.6942) rotate(90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#Choose_a_day {
+	opacity: 0.53;
+	position: absolute;
+	left: 52px;
+	top: 75px;
+	overflow: visible;
+	width: 54px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 9px;
+	color: rgba(139,139,139,1);
+}
+.Rectangle_454 {
+	position: absolute;
+	overflow: visible;
+	width: 102px;
+	height: 29px;
+	left: 47px;
+	top: 124px;
+}
+#Continue {
+	position: absolute;
+	left: 75px;
+	top: 131px;
+	overflow: visible;
+	width: 38px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 9px;
+	color: rgba(255,255,255,1);
+}
+.Path_408 {
+	overflow: visible;
+	position: absolute;
+	width: 75.049px;
+	height: 1px;
+	left: 404.275px;
+	top: 15812.771px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#iPhone_6_7_8___45 {
+	filter: blur(2px);
+	position: absolute;
+	width: 174px;
+	height: 316px;
+	left: 202px;
+	top: 16064px;
+	overflow: visible;
+}
+#iPhone_6_7_8___45_ {
+	position: absolute;
+	width: 214px;
+	height: 215px;
+	left: 176px;
+	top: 16211px;
+	overflow: visible;
+}
+.Path_410 {
+	overflow: visible;
+	position: absolute;
+	width: 75.049px;
+	height: 1px;
+	left: 400.914px;
+	top: 16222.594px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Pending {
+	position: absolute;
+	left: 514px;
+	top: 16153px;
+	overflow: visible;
+	width: 72px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 19px;
+	color: rgba(6,16,38,1);
+}
+#See_all_ {
+	position: absolute;
+	left: 707px;
+	top: 16163px;
+	overflow: visible;
+	width: 30px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 9px;
+	color: rgba(231,49,49,1);
+}
+#Group_131 {
+	position: absolute;
+	width: 224px;
+	height: 53px;
+	left: 514px;
+	top: 16201px;
+	overflow: visible;
+}
+.Rectangle_187 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 242px;
+	height: 71px;
+	left: 0px;
+	top: 0px;
+}
+#Play_A_Happy_tune {
+	position: absolute;
+	left: 24px;
+	top: 13px;
+	overflow: visible;
+	width: 102px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 12px;
+	color: rgba(94,92,92,1);
+}
+#Level_A {
+	position: absolute;
+	left: 24px;
+	top: 33px;
+	overflow: visible;
+	width: 20px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 6px;
+	color: rgba(94,92,92,1);
+}
+.Rectangle_484 {
+	position: absolute;
+	overflow: visible;
+	width: 115px;
+	height: 164px;
+	left: 738px;
+	top: 15814px;
+}
+.Rectangle_485 {
+	position: absolute;
+	overflow: visible;
+	width: 100px;
+	height: 108px;
+	left: 738px;
+	top: 15870px;
+}
+.Rectangle_486 {
+	position: absolute;
+	overflow: visible;
+	width: 21px;
+	height: 108px;
+	left: 733px;
+	top: 15803px;
+}
+.Rectangle_487 {
+	position: absolute;
+	overflow: visible;
+	width: 86px;
+	height: 34px;
+	left: 809px;
+	top: 15959px;
+}
+.Rectangle_488 {
+	position: absolute;
+	overflow: visible;
+	width: 115px;
+	height: 165px;
+	left: 738px;
+	top: 16063px;
+}
+.Rectangle_489 {
+	position: absolute;
+	overflow: visible;
+	width: 100px;
+	height: 115px;
+	left: 738px;
+	top: 16058px;
+}
+.Rectangle_490 {
+	position: absolute;
+	overflow: visible;
+	width: 21px;
+	height: 110px;
+	left: 733px;
+	top: 16128px;
+}
+.Rectangle_491 {
+	position: absolute;
+	overflow: visible;
+	width: 86px;
+	height: 32px;
+	left: 809px;
+	top: 16049px;
+}
+#brain__1_ {
+	opacity: 0.57;
+	position: absolute;
+	width: 84px;
+	height: 83px;
+	left: 809px;
+	top: 15977px;
+	overflow: visible;
+}
+#_Pending__triggers_a_person_to {
+	position: absolute;
+	left: 868px;
+	top: 16103px;
+	overflow: visible;
+	width: 161px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(242,43,79,1);
+}
+#A_deadline_does_30__of_the_wor {
+	position: absolute;
+	left: 868px;
+	top: 15844px;
+	overflow: visible;
+	width: 165px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(231,49,49,1);
+}
+#User_engagement_in_idle_states {
+	position: absolute;
+	left: 176px;
+	top: 16465px;
+	overflow: visible;
+	width: 287px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+}
+#SInce_the_previous_one_failed__p {
+	position: absolute;
+	left: 176px;
+	top: 16510px;
+	overflow: visible;
+	width: 908px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(35,35,35,1);
+}
+#iPhone_6_7_8___99 {
+	filter: drop-shadow(0px 0px 17px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	width: 172px;
+	height: 309px;
+	left: 176px;
+	top: 16578px;
+	overflow: visible;
+}
+#iPhone_6_7_8___111 {
+	filter: drop-shadow(0px 0px 17px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	width: 172.559px;
+	height: 307.383px;
+	left: 413.074px;
+	top: 16580.32px;
+	overflow: visible;
+}
+#Team_Size {
+	position: absolute;
+	left: 941px;
+	top: 585px;
+	overflow: visible;
+	width: 62px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(242,43,79,1);
+}
+#ID3_ {
+	position: absolute;
+	left: 941px;
+	top: 621px;
+	overflow: visible;
+	width: 13px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(69,69,69,1);
+}
+#_Source__https___www_mikedelg_ {
+	position: absolute;
+	left: 868px;
+	top: 15893px;
+	overflow: visible;
+	width: 185px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 13px;
+	color: rgba(35,35,35,1);
+}
+#added {
+	position: absolute;
+	left: 418px;
+	top: 15780px;
+	overflow: visible;
+	width: 39px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(35,35,35,1);
+}
+#Changed_to {
+	position: absolute;
+	left: 400px;
+	top: 16193px;
+	overflow: visible;
+	width: 71px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(35,35,35,1);
+}
+#Mockups_iPhone_Clay_Frontal_Wh_y {
+	position: absolute;
+	width: 309.273px;
+	height: 556.575px;
+	left: 159.104px;
+	top: 10957.976px;
+	overflow: visible;
+}
+#iPhone_X_y {
+	position: absolute;
+	width: 309.273px;
+	height: 556.575px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Shadow_Laying_z {
+	position: absolute;
+	width: 276.559px;
+	height: 556.159px;
+	left: 17.706px;
+	top: 0.832px;
+	display: none;
+	overflow: visible;
+}
+#Shape_bas {
+	opacity: 0.1;
+	filter: blur(8px);
+}
+.Shape_bas {
+	overflow: visible;
+	position: absolute;
+	width: 324.56px;
+	height: 602.911px;
+	left: 0px;
+	top: 1.249px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Shape_bat {
+	opacity: 0.2;
+	filter: blur(3px);
+}
+.Shape_bat {
+	overflow: visible;
+	position: absolute;
+	width: 294.56px;
+	height: 572.911px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Shadow_Standing_ {
+	position: absolute;
+	width: 309.273px;
+	height: 4.994px;
+	left: 0px;
+	top: 551.582px;
+	overflow: visible;
+}
+#Shape_bav {
+	opacity: 0.4;
+	filter: blur(3px);
+}
+.Shape_bav {
+	overflow: visible;
+	position: absolute;
+	width: 281.456px;
+	height: 21.163px;
+	left: 22.808px;
+	top: 0.832px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Shape_bax {
+	opacity: 0.1;
+	filter: blur(3px);
+}
+.Shape_bax {
+	overflow: visible;
+	position: absolute;
+	width: 327.273px;
+	height: 22.994px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Buttons_ {
+	position: absolute;
+	width: 276.559px;
+	height: 130.957px;
+	left: 17.706px;
+	top: 75.32px;
+	overflow: visible;
+}
+.Shape_bbl {
+	overflow: visible;
+	position: absolute;
+	width: 276.56px;
+	height: 130.957px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Buttons_a {
+	position: absolute;
+	width: 276.559px;
+	height: 130.957px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Body_u {
+	position: absolute;
+	width: 273.858px;
+	height: 554.911px;
+	left: 19.077px;
+	top: 0px;
+	overflow: visible;
+}
+.Shape_bbx {
+	overflow: visible;
+	position: absolute;
+	width: 273.858px;
+	height: 554.911px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Body_w {
+	position: absolute;
+	width: 273.858px;
+	height: 554.911px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Antena_a {
+	position: absolute;
+	width: 273.841px;
+	height: 554.842px;
+	left: 19.08px;
+	top: 0.083px;
+	overflow: visible;
+}
+.Shape_bcd {
+	overflow: visible;
+	position: absolute;
+	width: 273.84px;
+	height: 554.841px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Antena_c {
+	position: absolute;
+	width: 273.841px;
+	height: 554.842px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rubber_l {
+	position: absolute;
+	width: 265.05px;
+	height: 545.964px;
+	left: 23.439px;
+	top: 4.536px;
+	overflow: visible;
+}
+#Shape_bce {
+	opacity: 0.1;
+}
+.Shape_bce {
+	overflow: visible;
+	position: absolute;
+	width: 265.049px;
+	height: 545.964px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Dynamic_n {
+	position: absolute;
+	width: 34.612px;
+	height: 6.034px;
+	left: 138.659px;
+	top: 18.934px;
+	overflow: visible;
+}
+#Shape_bcf {
+	position: absolute;
+	width: 33.697px;
+	height: 4.661px;
+	left: 0.457px;
+	top: 0.666px;
+	overflow: visible;
+}
+.Shape_bck {
+	overflow: visible;
+	position: absolute;
+	width: 33.698px;
+	height: 4.661px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Shape_bch {
+	position: absolute;
+	width: 33.697px;
+	height: 4.661px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Shape_bcl {
+	position: absolute;
+	width: 34.612px;
+	height: 5.576px;
+	left: 0px;
+	top: 0.25px;
+	overflow: visible;
+}
+.Shape_bcq {
+	overflow: visible;
+	position: absolute;
+	width: 34.612px;
+	height: 5.576px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Shape_bcn {
+	position: absolute;
+	width: 34.612px;
+	height: 5.576px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Shape_bcr {
+	overflow: visible;
+	position: absolute;
+	width: 34.612px;
+	height: 2.913px;
+	left: 0px;
+	top: 3.121px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Shape_bcs {
+	opacity: 0.9;
+}
+.Shape_bcs {
+	overflow: visible;
+	position: absolute;
+	width: 34.612px;
+	height: 2.913px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Shape_bct {
+	opacity: 0.5;
+}
+.Shape_bct {
+	overflow: visible;
+	position: absolute;
+	width: 33.698px;
+	height: 4.661px;
+	left: 0.457px;
+	top: 0.666px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Mask_Group_1_ {
+	position: absolute;
+	width: 32.921px;
+	height: 3.492px;
+	left: 0.846px;
+	top: 1.232px;
+	overflow: visible;
+}
+#Camera_ {
+	position: absolute;
+	width: 8.393px;
+	height: 8.406px;
+	left: 181.248px;
+	top: 18.06px;
+	overflow: visible;
+}
+#Shape_bcv {
+	position: absolute;
+	width: 8.393px;
+	height: 8.406px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Shape_bc {
+	overflow: visible;
+	position: absolute;
+	width: 8.393px;
+	height: 8.406px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Shape_bcx {
+	position: absolute;
+	width: 8.393px;
+	height: 8.406px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Shape_bda {
+	position: absolute;
+	width: 5.318px;
+	height: 5.326px;
+	left: 1.537px;
+	top: 1.54px;
+	overflow: visible;
+}
+.Shape_bdf {
+	overflow: visible;
+	position: absolute;
+	width: 5.318px;
+	height: 5.327px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Shape_bdc {
+	position: absolute;
+	width: 5.318px;
+	height: 5.326px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Screen_q {
+	position: absolute;
+	width: 240.244px;
+	height: 521.995px;
+	left: 35.904px;
+	top: 16.521px;
+	overflow: visible;
+}
+#Screen_r {
+	position: absolute;
+	width: 240.244px;
+	height: 521.995px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Mockups_iPhone_Clay_Frontal_Wh_s {
+	position: absolute;
+	width: 311.584px;
+	height: 560.427px;
+	left: 457.998px;
+	top: 10954.127px;
+	overflow: visible;
+}
+#iPhone_X_t {
+	position: absolute;
+	width: 311.584px;
+	height: 560.427px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Shadow_Laying_u {
+	position: absolute;
+	width: 278.626px;
+	height: 560.008px;
+	left: 17.838px;
+	top: 0.838px;
+	display: none;
+	overflow: visible;
+}
+#Shape_bdg {
+	opacity: 0.1;
+	filter: blur(8px);
+}
+.Shape_bdg {
+	overflow: visible;
+	position: absolute;
+	width: 326.625px;
+	height: 606.751px;
+	left: 0px;
+	top: 1.257px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Shape_bdh {
+	opacity: 0.2;
+	filter: blur(3px);
+}
+.Shape_bdh {
+	overflow: visible;
+	position: absolute;
+	width: 296.625px;
+	height: 576.751px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Shadow_Standing_x {
+	position: absolute;
+	width: 311.584px;
+	height: 5.028px;
+	left: 0px;
+	top: 555.399px;
+	overflow: visible;
+}
+#Shape_bdj {
+	opacity: 0.4;
+	filter: blur(3px);
+}
+.Shape_bdj {
+	overflow: visible;
+	position: absolute;
+	width: 283.424px;
+	height: 21.185px;
+	left: 22.979px;
+	top: 0.838px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Shape_bdl {
+	opacity: 0.1;
+	filter: blur(3px);
+}
+.Shape_bdl {
+	overflow: visible;
+	position: absolute;
+	width: 329.584px;
+	height: 23.028px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Buttons_b {
+	position: absolute;
+	width: 278.626px;
+	height: 131.863px;
+	left: 17.838px;
+	top: 75.841px;
+	overflow: visible;
+}
+.Shape_bd {
+	overflow: visible;
+	position: absolute;
+	width: 278.625px;
+	height: 131.863px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Buttons_c {
+	position: absolute;
+	width: 278.626px;
+	height: 131.863px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Body_p {
+	position: absolute;
+	width: 275.905px;
+	height: 558.751px;
+	left: 19.219px;
+	top: 0px;
+	overflow: visible;
+}
+.Shape_bel {
+	overflow: visible;
+	position: absolute;
+	width: 275.904px;
+	height: 558.751px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Body_r {
+	position: absolute;
+	width: 275.905px;
+	height: 558.751px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Antena_ {
+	position: absolute;
+	width: 275.887px;
+	height: 558.681px;
+	left: 19.223px;
+	top: 0.084px;
+	overflow: visible;
+}
+.Shape_bes {
+	overflow: visible;
+	position: absolute;
+	width: 275.887px;
+	height: 558.681px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Antena_b {
+	position: absolute;
+	width: 275.887px;
+	height: 558.681px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rubber_g {
+	position: absolute;
+	width: 267.03px;
+	height: 549.742px;
+	left: 23.615px;
+	top: 4.567px;
+	overflow: visible;
+}
+#Shape_bet {
+	opacity: 0.1;
+}
+.Shape_bet {
+	overflow: visible;
+	position: absolute;
+	width: 267.031px;
+	height: 549.742px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Dynamic_i {
+	position: absolute;
+	width: 34.87px;
+	height: 6.076px;
+	left: 139.695px;
+	top: 19.065px;
+	overflow: visible;
+}
+#Shape_beu {
+	position: absolute;
+	width: 33.949px;
+	height: 4.693px;
+	left: 0.461px;
+	top: 0.67px;
+	overflow: visible;
+}
+.Shape_bez {
+	overflow: visible;
+	position: absolute;
+	width: 33.949px;
+	height: 4.693px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Shape_bew {
+	position: absolute;
+	width: 33.949px;
+	height: 4.693px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Shape_be {
+	position: absolute;
+	width: 34.87px;
+	height: 5.615px;
+	left: 0px;
+	top: 0.251px;
+	overflow: visible;
+}
+.Shape_bfe {
+	overflow: visible;
+	position: absolute;
+	width: 34.871px;
+	height: 5.615px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Shape_bfb {
+	position: absolute;
+	width: 34.87px;
+	height: 5.615px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Shape_bff {
+	overflow: visible;
+	position: absolute;
+	width: 34.869px;
+	height: 2.933px;
+	left: 0px;
+	top: 3.143px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Shape_bfg {
+	opacity: 0.9;
+}
+.Shape_bfg {
+	overflow: visible;
+	position: absolute;
+	width: 34.869px;
+	height: 2.933px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Shape_bfh {
+	opacity: 0.5;
+}
+.Shape_bfh {
+	overflow: visible;
+	position: absolute;
+	width: 33.949px;
+	height: 4.693px;
+	left: 0.461px;
+	top: 0.67px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Mask_Group_1_a {
+	position: absolute;
+	width: 33.179px;
+	height: 3.534px;
+	left: 0.846px;
+	top: 1.232px;
+	overflow: visible;
+}
+#Camera_a {
+	position: absolute;
+	width: 8.456px;
+	height: 8.464px;
+	left: 182.602px;
+	top: 18.185px;
+	overflow: visible;
+}
+#Shape_bfj {
+	position: absolute;
+	width: 8.456px;
+	height: 8.464px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Shape_bfo {
+	overflow: visible;
+	position: absolute;
+	width: 8.455px;
+	height: 8.464px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Shape_bfl {
+	position: absolute;
+	width: 8.456px;
+	height: 8.464px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Shape_bfp {
+	position: absolute;
+	width: 5.358px;
+	height: 5.363px;
+	left: 1.549px;
+	top: 1.55px;
+	overflow: visible;
+}
+.Shape_bfu {
+	overflow: visible;
+	position: absolute;
+	width: 5.357px;
+	height: 5.363px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Shape_bfr {
+	position: absolute;
+	width: 5.358px;
+	height: 5.363px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Screen_l {
+	position: absolute;
+	width: 242.039px;
+	height: 525.607px;
+	left: 36.174px;
+	top: 16.635px;
+	overflow: visible;
+}
+#Screen_m {
+	position: absolute;
+	width: 242.039px;
+	height: 525.607px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Mockups_iPhone_Clay_Frontal_Wh_n {
+	position: absolute;
+	width: 308.502px;
+	height: 556.575px;
+	left: 762.287px;
+	top: 10957.976px;
+	overflow: visible;
+}
+#iPhone_X_o {
+	position: absolute;
+	width: 308.502px;
+	height: 556.575px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Shadow_Laying_p {
+	position: absolute;
+	width: 275.87px;
+	height: 556.159px;
+	left: 17.662px;
+	top: 0.832px;
+	display: none;
+	overflow: visible;
+}
+#Shape_bfv {
+	opacity: 0.1;
+	filter: blur(8px);
+}
+.Shape_bfv {
+	overflow: visible;
+	position: absolute;
+	width: 323.871px;
+	height: 602.911px;
+	left: 0px;
+	top: 1.249px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Shape_bfw {
+	opacity: 0.2;
+	filter: blur(3px);
+}
+.Shape_bfw {
+	overflow: visible;
+	position: absolute;
+	width: 293.871px;
+	height: 572.911px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Shadow_Standing_s {
+	position: absolute;
+	width: 308.502px;
+	height: 4.994px;
+	left: 0px;
+	top: 551.582px;
+	overflow: visible;
+}
+#Shape_bfy {
+	opacity: 0.4;
+	filter: blur(3px);
+}
+.Shape_bfy {
+	overflow: visible;
+	position: absolute;
+	width: 280.799px;
+	height: 21.163px;
+	left: 22.752px;
+	top: 0.832px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Shape_bf {
+	opacity: 0.1;
+	filter: blur(3px);
+}
+.Shape_bf {
+	overflow: visible;
+	position: absolute;
+	width: 326.502px;
+	height: 22.994px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Buttons_x {
+	position: absolute;
+	width: 275.87px;
+	height: 130.957px;
+	left: 17.662px;
+	top: 75.32px;
+	overflow: visible;
+}
+.Shape_bgo {
+	overflow: visible;
+	position: absolute;
+	width: 275.871px;
+	height: 130.957px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Buttons_z {
+	position: absolute;
+	width: 275.87px;
+	height: 130.957px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Body_bak {
+	position: absolute;
+	width: 273.176px;
+	height: 554.911px;
+	left: 19.029px;
+	top: 0px;
+	overflow: visible;
+}
+.Shape_bg {
+	overflow: visible;
+	position: absolute;
+	width: 273.176px;
+	height: 554.911px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Body_bam {
+	position: absolute;
+	width: 273.176px;
+	height: 554.911px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Antena_ba {
+	position: absolute;
+	width: 273.159px;
+	height: 554.841px;
+	left: 19.033px;
+	top: 0.083px;
+	overflow: visible;
+}
+.Shape_bhg {
+	overflow: visible;
+	position: absolute;
+	width: 273.158px;
+	height: 554.841px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Antena_bba {
+	position: absolute;
+	width: 273.159px;
+	height: 554.841px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rubber_bbb {
+	position: absolute;
+	width: 264.389px;
+	height: 545.964px;
+	left: 23.381px;
+	top: 4.536px;
+	overflow: visible;
+}
+#Shape_bhh {
+	opacity: 0.1;
+}
+.Shape_bhh {
+	overflow: visible;
+	position: absolute;
+	width: 264.389px;
+	height: 545.964px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Dynamic_bbd {
+	position: absolute;
+	width: 34.525px;
+	height: 6.034px;
+	left: 138.313px;
+	top: 18.934px;
+	overflow: visible;
+}
+#Shape_bhi {
+	position: absolute;
+	width: 33.613px;
+	height: 4.661px;
+	left: 0.455px;
+	top: 0.666px;
+	overflow: visible;
+}
+.Shape_bhn {
+	overflow: visible;
+	position: absolute;
+	width: 33.613px;
+	height: 4.661px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Shape_bhk {
+	position: absolute;
+	width: 33.613px;
+	height: 4.661px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Shape_bho {
+	position: absolute;
+	width: 34.525px;
+	height: 5.576px;
+	left: 0px;
+	top: 0.25px;
+	overflow: visible;
+}
+.Shape_bht {
+	overflow: visible;
+	position: absolute;
+	width: 34.525px;
+	height: 5.576px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Shape_bhq {
+	position: absolute;
+	width: 34.525px;
+	height: 5.576px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Shape_bhu {
+	overflow: visible;
+	position: absolute;
+	width: 34.525px;
+	height: 2.913px;
+	left: 0px;
+	top: 3.121px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Shape_bhv {
+	opacity: 0.9;
+}
+.Shape_bhv {
+	overflow: visible;
+	position: absolute;
+	width: 34.525px;
+	height: 2.913px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Shape_bhw {
+	opacity: 0.5;
+}
+.Shape_bhw {
+	overflow: visible;
+	position: absolute;
+	width: 33.613px;
+	height: 4.661px;
+	left: 0.455px;
+	top: 0.666px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Mask_Group_1_bbv {
+	position: absolute;
+	width: 32.835px;
+	height: 3.492px;
+	left: 0.846px;
+	top: 1.232px;
+	overflow: visible;
+}
+#Camera_bbz {
+	position: absolute;
+	width: 8.372px;
+	height: 8.406px;
+	left: 180.797px;
+	top: 18.06px;
+	overflow: visible;
+}
+#Shape_bhy {
+	position: absolute;
+	width: 8.372px;
+	height: 8.406px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Shape_bic {
+	overflow: visible;
+	position: absolute;
+	width: 8.373px;
+	height: 8.406px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Shape_bh {
+	position: absolute;
+	width: 8.372px;
+	height: 8.406px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Shape_bid {
+	position: absolute;
+	width: 5.305px;
+	height: 5.326px;
+	left: 1.533px;
+	top: 1.54px;
+	overflow: visible;
+}
+.Shape_bii {
+	overflow: visible;
+	position: absolute;
+	width: 5.305px;
+	height: 5.327px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Shape_bif {
+	position: absolute;
+	width: 5.305px;
+	height: 5.326px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Screen_bcg {
+	position: absolute;
+	width: 239.646px;
+	height: 521.995px;
+	left: 35.814px;
+	top: 16.521px;
+	overflow: visible;
+}
+#Screen_bch {
+	position: absolute;
+	width: 239.646px;
+	height: 521.995px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Improving_the_experience_to_co {
+	position: absolute;
+	left: 176px;
+	top: 17304px;
+	overflow: visible;
+	width: 457px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+}
+#We_are_now_constantly_trying_t {
+	position: absolute;
+	left: 176px;
+	top: 17349px;
+	overflow: visible;
+	width: 929px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(35,35,35,1);
+}
+#Mockups_iPhone_Clay_Frontal_Wh_bck {
+	position: absolute;
+	width: 241.889px;
+	height: 397.995px;
+	left: 618.043px;
+	top: 6249.621px;
+	overflow: visible;
+}
+#iPhone_X_bcl {
+	position: absolute;
+	width: 241.889px;
+	height: 397.995px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Shadow_Laying_bcm {
+	position: absolute;
+	width: 216.303px;
+	height: 397.698px;
+	left: 13.848px;
+	top: 0.595px;
+	display: none;
+	overflow: visible;
+}
+#Shape_bij {
+	opacity: 0.1;
+	filter: blur(8px);
+}
+.Shape_bij {
+	overflow: visible;
+	position: absolute;
+	width: 264.303px;
+	height: 444.805px;
+	left: 0px;
+	top: 0.893px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Shape_bik {
+	opacity: 0.2;
+	filter: blur(3px);
+}
+.Shape_bik {
+	overflow: visible;
+	position: absolute;
+	width: 234.303px;
+	height: 414.805px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Shadow_Standing_bcp {
+	position: absolute;
+	width: 241.889px;
+	height: 3.571px;
+	left: 0px;
+	top: 394.424px;
+	overflow: visible;
+}
+#Shape_bim {
+	opacity: 0.4;
+	filter: blur(3px);
+}
+.Shape_bim {
+	overflow: visible;
+	position: absolute;
+	width: 224.055px;
+	height: 20.261px;
+	left: 17.838px;
+	top: 0.595px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Shape_bio {
+	opacity: 0.1;
+	filter: blur(3px);
+}
+.Shape_bio {
+	overflow: visible;
+	position: absolute;
+	width: 259.889px;
+	height: 21.571px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Buttons_bcu {
+	position: absolute;
+	width: 216.303px;
+	height: 93.644px;
+	left: 13.848px;
+	top: 53.86px;
+	overflow: visible;
+}
+.Shape_bjc {
+	overflow: visible;
+	position: absolute;
+	width: 216.303px;
+	height: 93.644px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Buttons_bcw {
+	position: absolute;
+	width: 216.303px;
+	height: 93.644px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Body_bdh {
+	position: absolute;
+	width: 214.19px;
+	height: 396.805px;
+	left: 14.92px;
+	top: 0px;
+	overflow: visible;
+}
+.Shape_bjo {
+	overflow: visible;
+	position: absolute;
+	width: 214.189px;
+	height: 396.805px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Body_bdj {
+	position: absolute;
+	width: 214.19px;
+	height: 396.805px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Antena_bdx {
+	position: absolute;
+	width: 214.177px;
+	height: 396.756px;
+	left: 14.924px;
+	top: 0.06px;
+	overflow: visible;
+}
+.Shape_bjv {
+	overflow: visible;
+	position: absolute;
+	width: 214.178px;
+	height: 396.756px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Antena_bdz {
+	position: absolute;
+	width: 214.177px;
+	height: 396.756px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rubber_bd {
+	position: absolute;
+	width: 207.301px;
+	height: 390.408px;
+	left: 18.332px;
+	top: 3.243px;
+	overflow: visible;
+}
+#Shape_bjw {
+	opacity: 0.1;
+}
+.Shape_bjw {
+	overflow: visible;
+	position: absolute;
+	width: 207.301px;
+	height: 390.407px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Dynamic_bea {
+	position: absolute;
+	width: 27.07px;
+	height: 4.315px;
+	left: 108.447px;
+	top: 13.539px;
+	overflow: visible;
+}
+#Shape_bjx {
+	position: absolute;
+	width: 26.355px;
+	height: 3.333px;
+	left: 0.357px;
+	top: 0.476px;
+	overflow: visible;
+}
+.Shape_bkb {
+	overflow: visible;
+	position: absolute;
+	width: 26.355px;
+	height: 3.333px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Shape_bjz {
+	position: absolute;
+	width: 26.355px;
+	height: 3.333px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Shape_bkc {
+	position: absolute;
+	width: 27.07px;
+	height: 3.987px;
+	left: 0px;
+	top: 0.178px;
+	overflow: visible;
+}
+.Shape_bkh {
+	overflow: visible;
+	position: absolute;
+	width: 27.07px;
+	height: 3.987px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Shape_bke {
+	position: absolute;
+	width: 27.07px;
+	height: 3.987px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Shape_bki {
+	overflow: visible;
+	position: absolute;
+	width: 27.07px;
+	height: 2.083px;
+	left: 0px;
+	top: 2.232px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Shape_bkj {
+	opacity: 0.9;
+}
+.Shape_bkj {
+	overflow: visible;
+	position: absolute;
+	width: 27.07px;
+	height: 2.083px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Shape_bkk {
+	opacity: 0.5;
+}
+.Shape_bkk {
+	overflow: visible;
+	position: absolute;
+	width: 26.355px;
+	height: 3.333px;
+	left: 0.357px;
+	top: 0.476px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Mask_Group_1_bes {
+	position: absolute;
+	width: 25.38px;
+	height: 1.773px;
+	left: 0.846px;
+	top: 1.233px;
+	overflow: visible;
+}
+#Camera_bew {
+	position: absolute;
+	width: 6.564px;
+	height: 6.011px;
+	left: 141.758px;
+	top: 12.914px;
+	overflow: visible;
+}
+#Shape_bkm {
+	position: absolute;
+	width: 6.564px;
+	height: 6.011px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Shape_bkr {
+	overflow: visible;
+	position: absolute;
+	width: 6.564px;
+	height: 6.011px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Shape_bko {
+	position: absolute;
+	width: 6.564px;
+	height: 6.011px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Shape_bks {
+	position: absolute;
+	width: 4.16px;
+	height: 3.809px;
+	left: 1.203px;
+	top: 1.101px;
+	overflow: visible;
+}
+.Shape_bkx {
+	overflow: visible;
+	position: absolute;
+	width: 4.16px;
+	height: 3.809px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Shape_bku {
+	position: absolute;
+	width: 4.16px;
+	height: 3.809px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Screen_bfd {
+	position: absolute;
+	width: 187.9px;
+	height: 373.267px;
+	left: 28.082px;
+	top: 11.813px;
+	overflow: visible;
+}
+#Screen_bfe {
+	position: absolute;
+	width: 187.9px;
+	height: 373.268px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Mockups_iPhone_Clay_Frontal_Wh_bff {
+	position: absolute;
+	width: 241.889px;
+	height: 397.995px;
+	left: 135.994px;
+	top: 6249.621px;
+	overflow: visible;
+}
+#iPhone_X_bfg {
+	position: absolute;
+	width: 241.889px;
+	height: 397.995px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Shadow_Laying_bfh {
+	position: absolute;
+	width: 216.303px;
+	height: 397.698px;
+	left: 13.848px;
+	top: 0.595px;
+	display: none;
+	overflow: visible;
+}
+#Shape_bky {
+	opacity: 0.1;
+	filter: blur(8px);
+}
+.Shape_bky {
+	overflow: visible;
+	position: absolute;
+	width: 264.303px;
+	height: 444.805px;
+	left: 0px;
+	top: 0.893px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Shape_bkz {
+	opacity: 0.2;
+	filter: blur(3px);
+}
+.Shape_bkz {
+	overflow: visible;
+	position: absolute;
+	width: 234.303px;
+	height: 414.805px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Shadow_Standing_bfk {
+	position: absolute;
+	width: 241.889px;
+	height: 3.571px;
+	left: 0px;
+	top: 394.424px;
+	overflow: visible;
+}
+#Shape_bla {
+	opacity: 0.4;
+	filter: blur(3px);
+}
+.Shape_bla {
+	overflow: visible;
+	position: absolute;
+	width: 224.054px;
+	height: 20.261px;
+	left: 17.839px;
+	top: 0.595px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Shape_blc {
+	opacity: 0.1;
+	filter: blur(3px);
+}
+.Shape_blc {
+	overflow: visible;
+	position: absolute;
+	width: 259.889px;
+	height: 21.571px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Buttons_bfp {
+	position: absolute;
+	width: 216.303px;
+	height: 93.644px;
+	left: 13.848px;
+	top: 53.86px;
+	overflow: visible;
+}
+.Shape_blr {
+	overflow: visible;
+	position: absolute;
+	width: 216.303px;
+	height: 93.644px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Buttons_bfr {
+	position: absolute;
+	width: 216.303px;
+	height: 93.644px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Body_bgc {
+	position: absolute;
+	width: 214.19px;
+	height: 396.805px;
+	left: 14.921px;
+	top: 0px;
+	overflow: visible;
+}
+.Shape_bmc {
+	overflow: visible;
+	position: absolute;
+	width: 214.19px;
+	height: 396.805px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Body_bge {
+	position: absolute;
+	width: 214.19px;
+	height: 396.805px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Antena_bgs {
+	position: absolute;
+	width: 214.177px;
+	height: 396.756px;
+	left: 14.923px;
+	top: 0.06px;
+	overflow: visible;
+}
+.Shape_bmj {
+	overflow: visible;
+	position: absolute;
+	width: 214.177px;
+	height: 396.756px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Antena_bgu {
+	position: absolute;
+	width: 214.177px;
+	height: 396.756px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rubber_bg {
+	position: absolute;
+	width: 207.301px;
+	height: 390.408px;
+	left: 18.333px;
+	top: 3.243px;
+	overflow: visible;
+}
+#Shape_bmk {
+	opacity: 0.1;
+}
+.Shape_bmk {
+	overflow: visible;
+	position: absolute;
+	width: 207.302px;
+	height: 390.407px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Dynamic_bg {
+	position: absolute;
+	width: 27.07px;
+	height: 4.315px;
+	left: 108.448px;
+	top: 13.539px;
+	overflow: visible;
+}
+#Shape_bml {
+	position: absolute;
+	width: 26.355px;
+	height: 3.333px;
+	left: 0.357px;
+	top: 0.476px;
+	overflow: visible;
+}
+.Shape_bmq {
+	overflow: visible;
+	position: absolute;
+	width: 26.355px;
+	height: 3.333px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Shape_bmn {
+	position: absolute;
+	width: 26.355px;
+	height: 3.333px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Shape_bmr {
+	position: absolute;
+	width: 27.07px;
+	height: 3.987px;
+	left: 0px;
+	top: 0.178px;
+	overflow: visible;
+}
+.Shape_bmw {
+	overflow: visible;
+	position: absolute;
+	width: 27.07px;
+	height: 3.987px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Shape_bmt {
+	position: absolute;
+	width: 27.07px;
+	height: 3.987px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Shape_bmx {
+	overflow: visible;
+	position: absolute;
+	width: 27.07px;
+	height: 2.083px;
+	left: 0px;
+	top: 2.232px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Shape_bmy {
+	opacity: 0.9;
+}
+.Shape_bmy {
+	overflow: visible;
+	position: absolute;
+	width: 27.07px;
+	height: 2.083px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Shape_bmz {
+	opacity: 0.5;
+}
+.Shape_bmz {
+	overflow: visible;
+	position: absolute;
+	width: 26.355px;
+	height: 3.333px;
+	left: 0.357px;
+	top: 0.476px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Mask_Group_1_bhn {
+	position: absolute;
+	width: 25.38px;
+	height: 1.773px;
+	left: 0.846px;
+	top: 1.233px;
+	overflow: visible;
+}
+#Camera_bhr {
+	position: absolute;
+	width: 6.564px;
+	height: 6.011px;
+	left: 141.758px;
+	top: 12.914px;
+	overflow: visible;
+}
+#Shape_bna {
+	position: absolute;
+	width: 6.564px;
+	height: 6.011px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Shape_bnf {
+	overflow: visible;
+	position: absolute;
+	width: 6.564px;
+	height: 6.011px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Shape_bnc {
+	position: absolute;
+	width: 6.564px;
+	height: 6.011px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Shape_bng {
+	position: absolute;
+	width: 4.16px;
+	height: 3.809px;
+	left: 1.202px;
+	top: 1.101px;
+	overflow: visible;
+}
+.Shape_bnl {
+	overflow: visible;
+	position: absolute;
+	width: 4.159px;
+	height: 3.809px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Shape_bni {
+	position: absolute;
+	width: 4.16px;
+	height: 3.809px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Screen_bh {
+	position: absolute;
+	width: 187.9px;
+	height: 373.267px;
+	left: 28.082px;
+	top: 11.813px;
+	overflow: visible;
+}
+#Screen_bia {
+	position: absolute;
+	width: 187.9px;
+	height: 373.268px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Mockups_iPhone_Clay_Frontal_Wh_bia {
+	position: absolute;
+	width: 241.889px;
+	height: 397.995px;
+	left: 371.305px;
+	top: 6249.621px;
+	overflow: visible;
+}
+#iPhone_X_bib {
+	position: absolute;
+	width: 241.889px;
+	height: 397.995px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Shadow_Laying_bic {
+	position: absolute;
+	width: 216.303px;
+	height: 397.698px;
+	left: 13.848px;
+	top: 0.595px;
+	display: none;
+	overflow: visible;
+}
+#Shape_bnm {
+	opacity: 0.1;
+	filter: blur(8px);
+}
+.Shape_bnm {
+	overflow: visible;
+	position: absolute;
+	width: 264.303px;
+	height: 444.805px;
+	left: 0px;
+	top: 0.893px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Shape_bnn {
+	opacity: 0.2;
+	filter: blur(3px);
+}
+.Shape_bnn {
+	overflow: visible;
+	position: absolute;
+	width: 234.303px;
+	height: 414.805px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Shadow_Standing_bif {
+	position: absolute;
+	width: 241.889px;
+	height: 3.571px;
+	left: 0px;
+	top: 394.424px;
+	overflow: visible;
+}
+#Shape_bnp {
+	opacity: 0.4;
+	filter: blur(3px);
+}
+.Shape_bnp {
+	overflow: visible;
+	position: absolute;
+	width: 224.055px;
+	height: 20.261px;
+	left: 17.838px;
+	top: 0.595px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Shape_bnr {
+	opacity: 0.1;
+	filter: blur(3px);
+}
+.Shape_bnr {
+	overflow: visible;
+	position: absolute;
+	width: 259.889px;
+	height: 21.571px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Buttons_bik {
+	position: absolute;
+	width: 216.303px;
+	height: 93.644px;
+	left: 13.848px;
+	top: 53.86px;
+	overflow: visible;
+}
+.Shape_bof {
+	overflow: visible;
+	position: absolute;
+	width: 216.303px;
+	height: 93.644px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Buttons_bim {
+	position: absolute;
+	width: 216.303px;
+	height: 93.644px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Body_bi {
+	position: absolute;
+	width: 214.19px;
+	height: 396.805px;
+	left: 14.92px;
+	top: 0px;
+	overflow: visible;
+}
+.Shape_bor {
+	overflow: visible;
+	position: absolute;
+	width: 214.189px;
+	height: 396.805px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Body_bja {
+	position: absolute;
+	width: 214.19px;
+	height: 396.805px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Antena_bjn {
+	position: absolute;
+	width: 214.177px;
+	height: 396.756px;
+	left: 14.924px;
+	top: 0.06px;
+	overflow: visible;
+}
+.Shape_boy {
+	overflow: visible;
+	position: absolute;
+	width: 214.178px;
+	height: 396.756px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Antena_bjp {
+	position: absolute;
+	width: 214.177px;
+	height: 396.756px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rubber_bjy {
+	position: absolute;
+	width: 207.301px;
+	height: 390.408px;
+	left: 18.332px;
+	top: 3.243px;
+	overflow: visible;
+}
+#Shape_boz {
+	opacity: 0.1;
+}
+.Shape_boz {
+	overflow: visible;
+	position: absolute;
+	width: 207.301px;
+	height: 390.407px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Dynamic_bj {
+	position: absolute;
+	width: 27.07px;
+	height: 4.315px;
+	left: 108.447px;
+	top: 13.539px;
+	overflow: visible;
+}
+#Shape_bo {
+	position: absolute;
+	width: 26.355px;
+	height: 3.333px;
+	left: 0.357px;
+	top: 0.476px;
+	overflow: visible;
+}
+.Shape_bpe {
+	overflow: visible;
+	position: absolute;
+	width: 26.355px;
+	height: 3.333px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Shape_bpb {
+	position: absolute;
+	width: 26.355px;
+	height: 3.333px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Shape_bpf {
+	position: absolute;
+	width: 27.07px;
+	height: 3.987px;
+	left: 0px;
+	top: 0.178px;
+	overflow: visible;
+}
+.Shape_bpk {
+	overflow: visible;
+	position: absolute;
+	width: 27.07px;
+	height: 3.987px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Shape_bph {
+	position: absolute;
+	width: 27.07px;
+	height: 3.987px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Shape_bpl {
+	overflow: visible;
+	position: absolute;
+	width: 27.07px;
+	height: 2.083px;
+	left: 0px;
+	top: 2.232px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Shape_bpm {
+	opacity: 0.9;
+}
+.Shape_bpm {
+	overflow: visible;
+	position: absolute;
+	width: 27.07px;
+	height: 2.083px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Shape_bpn {
+	opacity: 0.5;
+}
+.Shape_bpn {
+	overflow: visible;
+	position: absolute;
+	width: 26.355px;
+	height: 3.333px;
+	left: 0.357px;
+	top: 0.476px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Mask_Group_1_bki {
+	position: absolute;
+	width: 25.38px;
+	height: 1.773px;
+	left: 0.846px;
+	top: 1.233px;
+	overflow: visible;
+}
+#Camera_bkm {
+	position: absolute;
+	width: 6.564px;
+	height: 6.011px;
+	left: 141.758px;
+	top: 12.914px;
+	overflow: visible;
+}
+#Shape_bpp {
+	position: absolute;
+	width: 6.564px;
+	height: 6.011px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Shape_bpu {
+	overflow: visible;
+	position: absolute;
+	width: 6.564px;
+	height: 6.011px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Shape_bpr {
+	position: absolute;
+	width: 6.564px;
+	height: 6.011px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Shape_bpv {
+	position: absolute;
+	width: 4.16px;
+	height: 3.809px;
+	left: 1.203px;
+	top: 1.101px;
+	overflow: visible;
+}
+.Shape_bp {
+	overflow: visible;
+	position: absolute;
+	width: 4.16px;
+	height: 3.809px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Shape_bpx {
+	position: absolute;
+	width: 4.16px;
+	height: 3.809px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Screen_bk {
+	position: absolute;
+	width: 187.9px;
+	height: 373.267px;
+	left: 28.082px;
+	top: 11.813px;
+	overflow: visible;
+}
+#Screen_bla {
+	position: absolute;
+	width: 187.9px;
+	height: 373.268px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Mockups_iPhone_Clay_Frontal_Wh_bk {
+	position: absolute;
+	width: 241.889px;
+	height: 397.995px;
+	left: 860.289px;
+	top: 6249.621px;
+	overflow: visible;
+}
+#iPhone_X_bk {
+	position: absolute;
+	width: 241.889px;
+	height: 397.995px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Shadow_Laying_bk {
+	position: absolute;
+	width: 216.303px;
+	height: 397.698px;
+	left: 13.848px;
+	top: 0.595px;
+	display: none;
+	overflow: visible;
+}
+#Shape_bqa {
+	opacity: 0.1;
+	filter: blur(8px);
+}
+.Shape_bqa {
+	overflow: visible;
+	position: absolute;
+	width: 264.303px;
+	height: 444.805px;
+	left: 0px;
+	top: 0.893px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Shape_bqb {
+	opacity: 0.2;
+	filter: blur(3px);
+}
+.Shape_bqb {
+	overflow: visible;
+	position: absolute;
+	width: 234.303px;
+	height: 414.805px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Shadow_Standing_bla {
+	position: absolute;
+	width: 241.889px;
+	height: 3.571px;
+	left: 0px;
+	top: 394.424px;
+	overflow: visible;
+}
+#Shape_bqd {
+	opacity: 0.4;
+	filter: blur(3px);
+}
+.Shape_bqd {
+	overflow: visible;
+	position: absolute;
+	width: 224.055px;
+	height: 20.261px;
+	left: 17.838px;
+	top: 0.595px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Shape_bqf {
+	opacity: 0.1;
+	filter: blur(3px);
+}
+.Shape_bqf {
+	overflow: visible;
+	position: absolute;
+	width: 259.889px;
+	height: 21.571px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Buttons_blf {
+	position: absolute;
+	width: 216.303px;
+	height: 93.644px;
+	left: 13.848px;
+	top: 53.86px;
+	overflow: visible;
+}
+.Shape_bqu {
+	overflow: visible;
+	position: absolute;
+	width: 216.303px;
+	height: 93.644px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Buttons_blh {
+	position: absolute;
+	width: 216.303px;
+	height: 93.644px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Body_bl {
+	position: absolute;
+	width: 214.19px;
+	height: 396.805px;
+	left: 14.92px;
+	top: 0px;
+	overflow: visible;
+}
+.Shape_brf {
+	overflow: visible;
+	position: absolute;
+	width: 214.189px;
+	height: 396.805px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Body_bma {
+	position: absolute;
+	width: 214.19px;
+	height: 396.805px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Antena_bmi {
+	position: absolute;
+	width: 214.177px;
+	height: 396.756px;
+	left: 14.924px;
+	top: 0.06px;
+	overflow: visible;
+}
+.Shape_brm {
+	overflow: visible;
+	position: absolute;
+	width: 214.178px;
+	height: 396.756px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Antena_bmk {
+	position: absolute;
+	width: 214.177px;
+	height: 396.756px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rubber_bmt {
+	position: absolute;
+	width: 207.301px;
+	height: 390.408px;
+	left: 18.332px;
+	top: 3.243px;
+	overflow: visible;
+}
+#Shape_brn {
+	opacity: 0.1;
+}
+.Shape_brn {
+	overflow: visible;
+	position: absolute;
+	width: 207.301px;
+	height: 390.407px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Dynamic_bmv {
+	position: absolute;
+	width: 27.07px;
+	height: 4.315px;
+	left: 108.447px;
+	top: 13.539px;
+	overflow: visible;
+}
+#Shape_bro {
+	position: absolute;
+	width: 26.355px;
+	height: 3.333px;
+	left: 0.357px;
+	top: 0.476px;
+	overflow: visible;
+}
+.Shape_brt {
+	overflow: visible;
+	position: absolute;
+	width: 26.355px;
+	height: 3.333px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Shape_brq {
+	position: absolute;
+	width: 26.355px;
+	height: 3.333px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Shape_bru {
+	position: absolute;
+	width: 27.07px;
+	height: 3.987px;
+	left: 0px;
+	top: 0.178px;
+	overflow: visible;
+}
+.Shape_brz {
+	overflow: visible;
+	position: absolute;
+	width: 27.07px;
+	height: 3.987px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Shape_brw {
+	position: absolute;
+	width: 27.07px;
+	height: 3.987px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Shape_br {
+	overflow: visible;
+	position: absolute;
+	width: 27.07px;
+	height: 2.083px;
+	left: 0px;
+	top: 2.232px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Shape_bsa {
+	opacity: 0.9;
+}
+.Shape_bsa {
+	overflow: visible;
+	position: absolute;
+	width: 27.07px;
+	height: 2.083px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Shape_bsb {
+	opacity: 0.5;
+}
+.Shape_bsb {
+	overflow: visible;
+	position: absolute;
+	width: 26.355px;
+	height: 3.333px;
+	left: 0.357px;
+	top: 0.476px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Mask_Group_1_bnd {
+	position: absolute;
+	width: 25.38px;
+	height: 1.773px;
+	left: 0.846px;
+	top: 1.233px;
+	overflow: visible;
+}
+#Camera_bnh {
+	position: absolute;
+	width: 6.564px;
+	height: 6.011px;
+	left: 141.758px;
+	top: 12.914px;
+	overflow: visible;
+}
+#Shape_bsd {
+	position: absolute;
+	width: 6.564px;
+	height: 6.011px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Shape_bsi {
+	overflow: visible;
+	position: absolute;
+	width: 6.564px;
+	height: 6.011px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Shape_bsf {
+	position: absolute;
+	width: 6.564px;
+	height: 6.011px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Shape_bsj {
+	position: absolute;
+	width: 4.16px;
+	height: 3.809px;
+	left: 1.203px;
+	top: 1.101px;
+	overflow: visible;
+}
+.Shape_bso {
+	overflow: visible;
+	position: absolute;
+	width: 4.16px;
+	height: 3.809px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Shape_bsl {
+	position: absolute;
+	width: 4.16px;
+	height: 3.809px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Screen_bny {
+	position: absolute;
+	width: 187.9px;
+	height: 373.267px;
+	left: 28.082px;
+	top: 11.813px;
+	overflow: visible;
+}
+#Screen_bnz {
+	position: absolute;
+	width: 187.9px;
+	height: 373.268px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Logo_Design {
+	position: absolute;
+	left: 175px;
+	top: 5726px;
+	overflow: visible;
+	width: 116px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+}
+.Ellipse_43 {
+	filter: drop-shadow(3px 7px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 47.748px;
+	height: 47.747px;
+	left: 599.795px;
+	top: 5850.491px;
+}
+#Rectangle_204 {
+	opacity: 0.83;
+}
+.Rectangle_204 {
+	filter: drop-shadow(3px 7px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 47.748px;
+	height: 78.166px;
+	left: 599.795px;
+	top: 5892.267px;
+}
+#Rectangle_205 {
+	opacity: 0.83;
+}
+.Rectangle_205 {
+	filter: drop-shadow(3px 7px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 47.748px;
+	height: 76.625px;
+	left: 599.795px;
+	top: 5922.96px;
+}
+#Inspire_bn {
+	position: absolute;
+	left: 263px;
+	top: 5881px;
+	overflow: visible;
+	width: 158px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 51px;
+	color: rgba(0,0,0,1);
+}
+.Line_56 {
+	overflow: visible;
+	position: absolute;
+	width: 117.449px;
+	height: 1px;
+	left: 555.914px;
+	top: 5850.875px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Line_128 {
+	overflow: visible;
+	position: absolute;
+	width: 117.449px;
+	height: 1px;
+	left: 555.914px;
+	top: 5880.149px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Line_129 {
+	overflow: visible;
+	position: absolute;
+	width: 117.449px;
+	height: 1px;
+	left: 555.914px;
+	top: 5892.475px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Line_130 {
+	overflow: visible;
+	position: absolute;
+	width: 117.449px;
+	height: 1px;
+	left: 555.914px;
+	top: 5892.475px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Line_132 {
+	overflow: visible;
+	position: absolute;
+	width: 117.449px;
+	height: 1px;
+	left: 555.914px;
+	top: 6224.834px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Line_133 {
+	overflow: visible;
+	position: absolute;
+	width: 117.449px;
+	height: 1px;
+	left: 555.914px;
+	top: 5952.561px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Line_135 {
+	overflow: visible;
+	position: absolute;
+	width: 117.449px;
+	height: 1px;
+	left: 555.914px;
+	top: 5921.747px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#X_px {
+	position: absolute;
+	left: 673px;
+	top: 5857px;
+	overflow: visible;
+	width: 23px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 11px;
+	color: rgba(141,138,138,1);
+}
+#X_px_bod {
+	position: absolute;
+	left: 673px;
+	top: 5929px;
+	overflow: visible;
+	width: 23px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 11px;
+	color: rgba(141,138,138,1);
+}
+.Line_137 {
+	overflow: visible;
+	position: absolute;
+	width: 1px;
+	height: 170.574px;
+	left: 629.926px;
+	top: 5831.617px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Line_138 {
+	overflow: visible;
+	position: absolute;
+	width: 1px;
+	height: 170.574px;
+	left: 599.113px;
+	top: 5831.617px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Line_139 {
+	overflow: visible;
+	position: absolute;
+	width: 1px;
+	height: 170.574px;
+	left: 575.232px;
+	top: 5831.617px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Line_140 {
+	overflow: visible;
+	position: absolute;
+	width: 1px;
+	height: 170.574px;
+	left: 654.578px;
+	top: 5831.617px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#X_px_boi {
+	position: absolute;
+	left: 600px;
+	top: 6245px;
+	overflow: visible;
+	width: 23px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 11px;
+	color: rgba(141,138,138,1);
+}
+#X_2_px {
+	position: absolute;
+	left: 673px;
+	top: 5878px;
+	overflow: visible;
+	width: 33px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 11px;
+	color: rgba(141,138,138,1);
+}
+#Taking__i_from_Inspire__we_des {
+	position: absolute;
+	left: 176px;
+	top: 5771px;
+	overflow: visible;
+	width: 478px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(69,69,69,1);
+}
+#_ {
+	position: absolute;
+	left: 484px;
+	top: 5909px;
+	overflow: visible;
+	width: 9px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(69,69,69,1);
+}
+#User_Persona {
+	position: absolute;
+	left: 177px;
+	top: 1807px;
+	overflow: visible;
+	width: 125px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+}
+.Rectangle_493 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 868px;
+	height: 323px;
+	left: 207px;
+	top: 1904px;
+}
+#NoPath___Copy__3_ {
+	position: absolute;
+	width: 92px;
+	height: 90px;
+	left: 251px;
+	top: 1935px;
+	overflow: visible;
+}
+#Sumedh_Jaouras {
+	position: absolute;
+	left: 393px;
+	top: 1940px;
+	overflow: visible;
+	width: 100px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(242,43,79,1);
+}
+#ID21_Years_Guitar_enthusiast {
+	position: absolute;
+	left: 393px;
+	top: 1962px;
+	overflow: visible;
+	width: 104px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(69,69,69,1);
+}
+#Goals {
+	position: absolute;
+	left: 251px;
+	top: 2038px;
+	overflow: visible;
+	width: 35px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(242,43,79,1);
+}
+#Be_the_best_guitar_player__Bet {
+	position: absolute;
+	left: 251px;
+	top: 2066px;
+	overflow: visible;
+	width: 151px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(69,69,69,1);
+}
+#Motivation {
+	position: absolute;
+	left: 251px;
+	top: 2120px;
+	overflow: visible;
+	width: 64px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(242,43,79,1);
+}
+#Seeing_people_around_him_with_ {
+	position: absolute;
+	left: 251px;
+	top: 2146px;
+	overflow: visible;
+	width: 329px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(69,69,69,1);
+}
+#About_bov {
+	position: absolute;
+	left: 678px;
+	top: 1940px;
+	overflow: visible;
+	width: 38px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(242,43,79,1);
+}
+#Sumedh_is_21_years_old_enginee_bow {
+	position: absolute;
+	left: 678px;
+	top: 1970px;
+	overflow: visible;
+	width: 335px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(69,69,69,1);
+}
+#Frustation {
+	position: absolute;
+	left: 678px;
+	top: 2038px;
+	overflow: visible;
+	width: 62px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(242,43,79,1);
+}
+#He_is_not_regular__Loses_inter {
+	position: absolute;
+	left: 678px;
+	top: 2068px;
+	overflow: visible;
+	width: 326px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(69,69,69,1);
+}
+#Expectations {
+	position: absolute;
+	left: 678px;
+	top: 2120px;
+	overflow: visible;
+	width: 78px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(242,43,79,1);
+}
+#To_get_interesting_challenges_ {
+	position: absolute;
+	left: 678px;
+	top: 2146px;
+	overflow: visible;
+	width: 303px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(69,69,69,1);
+}
+.Rectangle_494 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 868px;
+	height: 340px;
+	left: 207px;
+	top: 2246px;
+}
+#NoPath___Copy {
+	position: absolute;
+	width: 92px;
+	height: 92px;
+	left: 251px;
+	top: 2278px;
+	overflow: visible;
+}
+#Bhaskar_Baiplawat {
+	position: absolute;
+	left: 393px;
+	top: 2283px;
+	overflow: visible;
+	width: 116px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(242,43,79,1);
+}
+#ID20_Years_Fitness_Freak {
+	position: absolute;
+	left: 393px;
+	top: 2313px;
+	overflow: visible;
+	width: 80px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(69,69,69,1);
+}
+#Goals_bo {
+	position: absolute;
+	left: 251px;
+	top: 2381px;
+	overflow: visible;
+	width: 35px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(242,43,79,1);
+}
+#Get_healthy_and_productive__Tr {
+	position: absolute;
+	left: 251px;
+	top: 2410px;
+	overflow: visible;
+	width: 293px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(69,69,69,1);
+}
+#Motivation_bo {
+	position: absolute;
+	left: 251px;
+	top: 2463px;
+	overflow: visible;
+	width: 64px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(242,43,79,1);
+}
+#Intrinsic_motivation__Social_a {
+	position: absolute;
+	left: 251px;
+	top: 2496px;
+	overflow: visible;
+	width: 118px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(69,69,69,1);
+}
+#About_bo {
+	position: absolute;
+	left: 678px;
+	top: 2283px;
+	overflow: visible;
+	width: 38px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(242,43,79,1);
+}
+#Bhaskar_is_20_years_old_engine {
+	position: absolute;
+	left: 678px;
+	top: 2313px;
+	overflow: visible;
+	width: 311px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(69,69,69,1);
+}
+#Frustation_bpb {
+	position: absolute;
+	left: 678px;
+	top: 2382px;
+	overflow: visible;
+	width: 62px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(242,43,79,1);
+}
+#Wants_to_find_a_one_stop_solut {
+	position: absolute;
+	left: 678px;
+	top: 2411px;
+	overflow: visible;
+	width: 324px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(69,69,69,1);
+}
+#Expectations_bpd {
+	position: absolute;
+	left: 678px;
+	top: 2464px;
+	overflow: visible;
+	width: 78px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(242,43,79,1);
+}
+#Constant_growth_to_get_to_an_i {
+	position: absolute;
+	left: 678px;
+	top: 2497px;
+	overflow: visible;
+	width: 292px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(69,69,69,1);
+}
+#Based_on_several_interactions_ {
+	position: absolute;
+	left: 179px;
+	top: 1852px;
+	overflow: visible;
+	width: 901px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(69,69,69,1);
+}
+.Ellipse_18 {
+	position: absolute;
+	overflow: visible;
+	width: 52px;
+	height: 55px;
+	left: 297px;
+	top: 2886px;
+}
+#Rewards_for_accomplishments_ {
+	position: absolute;
+	left: 361px;
+	top: 3050px;
+	overflow: visible;
+	width: 186px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(69,69,69,1);
+}
+#ID1_ {
+	position: absolute;
+	left: 316px;
+	top: 2895px;
+	overflow: visible;
+	width: 24px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Rockwell;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 28px;
+	color: rgba(255,255,255,1);
+}
+.Ellipse_19 {
+	position: absolute;
+	overflow: visible;
+	width: 52px;
+	height: 54px;
+	left: 297px;
+	top: 2959px;
+}
+#Action_inspires_action {
+	position: absolute;
+	left: 365px;
+	top: 2979px;
+	overflow: visible;
+	width: 130px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(69,69,69,1);
+}
+#ID2_ {
+	position: absolute;
+	left: 316px;
+	top: 2970px;
+	overflow: visible;
+	width: 24px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Rockwell;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 28px;
+	color: rgba(255,255,255,1);
+}
+.Ellipse_20 {
+	position: absolute;
+	overflow: visible;
+	width: 52px;
+	height: 52px;
+	left: 298px;
+	top: 3031px;
+}
+#Gamification {
+	position: absolute;
+	left: 361px;
+	top: 2907px;
+	overflow: visible;
+	width: 77px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(69,69,69,1);
+}
+#ID3__bpo {
+	position: absolute;
+	left: 316px;
+	top: 3039px;
+	overflow: visible;
+	width: 24px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Rockwell;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 28px;
+	color: rgba(255,255,255,1);
+}
+.Ellipse_21 {
+	position: absolute;
+	overflow: visible;
+	width: 51px;
+	height: 55px;
+	left: 670px;
+	top: 2886px;
+}
+#ID4_ {
+	position: absolute;
+	left: 686px;
+	top: 2897px;
+	overflow: visible;
+	width: 24px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Rockwell;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 28px;
+	color: rgba(255,255,255,1);
+}
+.Ellipse_22 {
+	position: absolute;
+	overflow: visible;
+	width: 51px;
+	height: 53px;
+	left: 670px;
+	top: 2959px;
+}
+#ID5_ {
+	position: absolute;
+	left: 686px;
+	top: 2969px;
+	overflow: visible;
+	width: 24px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Rockwell;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 28px;
+	color: rgba(255,255,255,1);
+}
+.Ellipse_23 {
+	position: absolute;
+	overflow: visible;
+	width: 51px;
+	height: 52px;
+	left: 670px;
+	top: 3029px;
+}
+#ID6_ {
+	position: absolute;
+	left: 686px;
+	top: 3039px;
+	overflow: visible;
+	width: 24px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Rockwell;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 28px;
+	color: rgba(255,255,255,1);
+}
+#Connecting_people_of_similar_i {
+	position: absolute;
+	left: 742px;
+	top: 2907px;
+	overflow: visible;
+	width: 226px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(69,69,69,1);
+}
+#Overview_of_performance {
+	position: absolute;
+	left: 742px;
+	top: 2977px;
+	overflow: visible;
+	width: 154px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(69,69,69,1);
+}
+#User_centric_experience {
+	position: absolute;
+	left: 742px;
+	top: 3047px;
+	overflow: visible;
+	width: 140px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(69,69,69,1);
+}
+#Stats_ {
+	position: absolute;
+	left: 619px;
+	top: 9792px;
+	overflow: visible;
+	width: 55px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+}
+#Group_263 {
+	position: absolute;
+	width: 298px;
+	height: 64px;
+	left: 619px;
+	top: 9834px;
+	overflow: visible;
+}
+#Maintains_record_of_completed_ {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 299px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(69,69,69,1);
+}
+#Mockups_iPhone_Clay_Frontal_Wh_bp {
+	position: absolute;
+	width: 309.273px;
+	height: 557.346px;
+	left: 662.91px;
+	top: 10253.11px;
+	overflow: visible;
+}
+#iPhone_X_bp {
+	position: absolute;
+	width: 309.273px;
+	height: 557.346px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Shadow_Laying_bp {
+	position: absolute;
+	width: 276.559px;
+	height: 556.929px;
+	left: 17.705px;
+	top: 0.833px;
+	display: none;
+	overflow: visible;
+}
+#Shape_bsp {
+	opacity: 0.1;
+	filter: blur(8px);
+}
+.Shape_bsp {
+	overflow: visible;
+	position: absolute;
+	width: 324.559px;
+	height: 603.679px;
+	left: 0px;
+	top: 1.25px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Shape_bsq {
+	opacity: 0.2;
+	filter: blur(3px);
+}
+.Shape_bsq {
+	overflow: visible;
+	position: absolute;
+	width: 294.559px;
+	height: 573.679px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Shadow_Standing_bp {
+	position: absolute;
+	width: 309.273px;
+	height: 5px;
+	left: 0px;
+	top: 552.345px;
+	overflow: visible;
+}
+#Shape_bss {
+	opacity: 0.4;
+	filter: blur(3px);
+}
+.Shape_bss {
+	overflow: visible;
+	position: absolute;
+	width: 281.455px;
+	height: 21.167px;
+	left: 22.809px;
+	top: 0.833px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Shape_bsu {
+	opacity: 0.1;
+	filter: blur(3px);
+}
+.Shape_bsu {
+	overflow: visible;
+	position: absolute;
+	width: 327.273px;
+	height: 23px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Buttons_bqb {
+	position: absolute;
+	width: 276.559px;
+	height: 131.138px;
+	left: 17.705px;
+	top: 75.424px;
+	overflow: visible;
+}
+.Shape_bti {
+	overflow: visible;
+	position: absolute;
+	width: 276.559px;
+	height: 131.138px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Buttons_bqd {
+	position: absolute;
+	width: 276.559px;
+	height: 131.138px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Body_bqy {
+	position: absolute;
+	width: 273.858px;
+	height: 555.679px;
+	left: 19.076px;
+	top: 0px;
+	overflow: visible;
+}
+.Shape_btu {
+	overflow: visible;
+	position: absolute;
+	width: 273.857px;
+	height: 555.679px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Body_bq {
+	position: absolute;
+	width: 273.858px;
+	height: 555.679px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Antena_bre {
+	position: absolute;
+	width: 273.841px;
+	height: 555.61px;
+	left: 19.08px;
+	top: 0.083px;
+	overflow: visible;
+}
+.Shape_bua {
+	overflow: visible;
+	position: absolute;
+	width: 273.842px;
+	height: 555.61px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Antena_brg {
+	position: absolute;
+	width: 273.841px;
+	height: 555.61px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rubber_brp {
+	position: absolute;
+	width: 265.05px;
+	height: 546.72px;
+	left: 23.439px;
+	top: 4.542px;
+	overflow: visible;
+}
+#Shape_bub {
+	opacity: 0.1;
+}
+.Shape_bub {
+	overflow: visible;
+	position: absolute;
+	width: 265.049px;
+	height: 546.72px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Dynamic_brr {
+	position: absolute;
+	width: 34.612px;
+	height: 6.042px;
+	left: 138.658px;
+	top: 18.96px;
+	overflow: visible;
+}
+#Shape_buc {
+	position: absolute;
+	width: 33.697px;
+	height: 4.667px;
+	left: 0.457px;
+	top: 0.667px;
+	overflow: visible;
+}
+.Shape_buh {
+	overflow: visible;
+	position: absolute;
+	width: 33.697px;
+	height: 4.667px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Shape_bue {
+	position: absolute;
+	width: 33.697px;
+	height: 4.667px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Shape_bui {
+	position: absolute;
+	width: 34.612px;
+	height: 5.584px;
+	left: 0px;
+	top: 0.25px;
+	overflow: visible;
+}
+.Shape_bun {
+	overflow: visible;
+	position: absolute;
+	width: 34.611px;
+	height: 5.584px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Shape_buk {
+	position: absolute;
+	width: 34.612px;
+	height: 5.584px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Shape_buo {
+	overflow: visible;
+	position: absolute;
+	width: 34.611px;
+	height: 2.917px;
+	left: 0px;
+	top: 3.125px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Shape_bup {
+	opacity: 0.9;
+}
+.Shape_bup {
+	overflow: visible;
+	position: absolute;
+	width: 34.611px;
+	height: 2.917px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Shape_buq {
+	opacity: 0.5;
+}
+.Shape_buq {
+	overflow: visible;
+	position: absolute;
+	width: 33.697px;
+	height: 4.667px;
+	left: 0.457px;
+	top: 0.667px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Mask_Group_1_br {
+	position: absolute;
+	width: 32.921px;
+	height: 3.5px;
+	left: 0.846px;
+	top: 1.232px;
+	overflow: visible;
+}
+#Camera_bsd {
+	position: absolute;
+	width: 8.393px;
+	height: 8.417px;
+	left: 181.248px;
+	top: 18.085px;
+	overflow: visible;
+}
+#Shape_bus {
+	position: absolute;
+	width: 8.393px;
+	height: 8.417px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Shape_bux {
+	overflow: visible;
+	position: absolute;
+	width: 8.393px;
+	height: 8.417px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Shape_buu {
+	position: absolute;
+	width: 8.393px;
+	height: 8.417px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Shape_buy {
+	position: absolute;
+	width: 5.318px;
+	height: 5.334px;
+	left: 1.537px;
+	top: 1.542px;
+	overflow: visible;
+}
+.Shape_bvc {
+	overflow: visible;
+	position: absolute;
+	width: 5.318px;
+	height: 5.334px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Shape_bu {
+	position: absolute;
+	width: 5.318px;
+	height: 5.334px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Screen_bsu {
+	position: absolute;
+	width: 240.244px;
+	height: 522.717px;
+	left: 35.904px;
+	top: 16.543px;
+	overflow: visible;
+}
+#Screen_bsv {
+	position: absolute;
+	width: 240.244px;
+	height: 522.717px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Feed_bsw {
+	position: absolute;
+	left: 289px;
+	top: 10385px;
+	overflow: visible;
+	width: 46px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+}
+#Group_265 {
+	position: absolute;
+	width: 258px;
+	height: 128px;
+	left: 289px;
+	top: 10429px;
+	overflow: visible;
+}
+#The_entire_feed_is_divided_int {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 259px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(69,69,69,1);
+}
+#Rate_bsz {
+	position: absolute;
+	left: 289px;
+	top: 10610px;
+	overflow: visible;
+	width: 29px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(0,0,0,1);
+}
+#Group_266 {
+	position: absolute;
+	width: 229px;
+	height: 16px;
+	left: 289px;
+	top: 10644px;
+	overflow: visible;
+}
+#A_post_can_be_rated_by_others_ {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 230px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(69,69,69,1);
+}
+#_Users_with_arbitrary_name_ask {
+	position: absolute;
+	left: 733px;
+	top: 13204px;
+	overflow: visible;
+	width: 355px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 13px;
+	color: rgba(35,35,35,1);
+}
+#Screenshot_2020_0308_151053 {
+	position: absolute;
+	width: 214px;
+	height: 866px;
+	left: 873px;
+	top: 17040px;
+	overflow: visible;
+}
+#Screenshot_2020_0308_151124 {
+	position: absolute;
+	width: 215.143px;
+	height: 726.104px;
+	left: 407.662px;
+	top: 17027.57px;
+	overflow: visible;
+}
+#Screenshot_2020_0308_151152 {
+	position: absolute;
+	width: 215.143px;
+	height: 831.684px;
+	left: 639.756px;
+	top: 17040.869px;
+	overflow: visible;
+}
+#Screenshot_2020_0308_152154 {
+	position: absolute;
+	width: 215.143px;
+	height: 606.183px;
+	left: 175.969px;
+	top: 17040.869px;
+	overflow: visible;
+}
+#Thankyou_ {
+	position: absolute;
+	left: 558px;
+	top: 17889px;
+	overflow: visible;
+	width: 130px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 27px;
+	color: rgba(0,0,0,1);
+}
+#_Posts_from_the_feed_ {
+	position: absolute;
+	left: 965px;
+	top: 17770px;
+	overflow: visible;
+	width: 123px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 13px;
+	color: rgba(35,35,35,1);
+}
+.Line_122 {
+	overflow: visible;
+	position: absolute;
+	width: 1px;
+	height: 68.561px;
+	left: 176.578px;
+	top: 12915.344px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Interests_bta {
+	position: absolute;
+	left: 172px;
+	top: 3655px;
+	overflow: visible;
+	width: 35px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 9px;
+	color: rgba(0,0,0,1);
+}
+#Levels {
+	position: absolute;
+	left: 187px;
+	top: 3748px;
+	overflow: visible;
+	width: 23px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 8px;
+	color: rgba(0,0,0,1);
+}
+#Challenges {
+	position: absolute;
+	left: 176px;
+	top: 3811px;
+	overflow: visible;
+	width: 45px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 9px;
+	color: rgba(0,0,0,1);
+}
+#Description {
+	position: absolute;
+	left: 174px;
+	top: 3872px;
+	overflow: visible;
+	width: 41px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 8px;
+	color: rgba(0,0,0,1);
+}
+#Do_Now_ {
+	position: absolute;
+	left: 172px;
+	top: 3975px;
+	overflow: visible;
+	width: 37px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 9px;
+	color: rgba(0,0,0,1);
+}
+#Make_post {
+	position: absolute;
+	left: 179px;
+	top: 4077px;
+	overflow: visible;
+	width: 39px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 8px;
+	color: rgba(0,0,0,1);
+}
+#Congratulations {
+	position: absolute;
+	left: 170px;
+	top: 4139px;
+	overflow: visible;
+	width: 57px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 8px;
+	color: rgba(0,0,0,1);
+}
+#Feed_bth {
+	position: absolute;
+	left: 187px;
+	top: 4205px;
+	overflow: visible;
+	width: 17px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 8px;
+	color: rgba(0,0,0,1);
+}
+#Type {
+	position: absolute;
+	left: 179px;
+	top: 585px;
+	overflow: visible;
+	width: 29px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(242,43,79,1);
+}
+.Line_126 {
+	overflow: visible;
+	position: absolute;
+	width: 1px;
+	height: 67.849px;
+	left: 176.578px;
+	top: 13021.651px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Line_127 {
+	overflow: visible;
+	position: absolute;
+	width: 1px;
+	height: 70.906px;
+	left: 176.578px;
+	top: 13142.594px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#_F22B4F {
+	position: absolute;
+	left: 176px;
+	top: 5414px;
+	overflow: visible;
+	width: 56px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(69,69,69,1);
+}
+#User_Y {
+	position: absolute;
+	left: 190px;
+	top: 13063px;
+	overflow: visible;
+	width: 40px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(69,69,69,1);
+}
+#User_Z {
+	position: absolute;
+	left: 190px;
+	top: 13185px;
+	overflow: visible;
+	width: 40px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(69,69,69,1);
+}
+#iPhone_6_7_8___87 {
+	filter: drop-shadow(0px 0px 17px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	width: 175px;
+	height: 313px;
+	left: 68px;
+	top: 15006px;
+	overflow: visible;
+}
+#ABCDEFGHIJKLMNOPQRSTUVWXYZ_btp {
+	position: absolute;
+	left: 807px;
+	top: 5555px;
+	overflow: visible;
+	width: 209px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(69,69,69,1);
+}
+#ABCDEFGHIJKLMNOPQRSTUVWXYZ_btq {
+	position: absolute;
+	left: 804px;
+	top: 5662px;
+	overflow: visible;
+	width: 215px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 13px;
+	color: rgba(69,69,69,1);
+}
+.Line_141 {
+	overflow: visible;
+	position: absolute;
+	width: 93px;
+	height: 1px;
+	left: 486.5px;
+	top: 12239.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Line_142 {
+	overflow: visible;
+	position: absolute;
+	width: 93px;
+	height: 1px;
+	left: 693.5px;
+	top: 12239.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Line_143 {
+	overflow: visible;
+	position: absolute;
+	width: 1px;
+	height: 72px;
+	left: 638.5px;
+	top: 12259.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
