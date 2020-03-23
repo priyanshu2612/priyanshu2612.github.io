@@ -1,0 +1,173 @@
+.mediaViewInfo {
+	--web-view-name: wait;
+	--web-view-id: wait;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: wait;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#wait {
+	position: absolute;
+	width: 1263px;
+	height: 700px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: wait;
+	--web-view-id: wait;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+#Is_the_right_edge_of_the_grey_ {
+	position: absolute;
+	left: 389px;
+	top: 214px;
+	overflow: visible;
+	width: 732px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(35,35,35,1);
+}
+#Hey_wait_ {
+	position: absolute;
+	left: 389px;
+	top: 139px;
+	overflow: visible;
+	width: 157px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 35px;
+	color: rgba(35,35,35,1);
+}
+#Group_272 {
+	position: absolute;
+	width: 1312px;
+	height: 88px;
+	left: 389px;
+	top: 383px;
+	overflow: visible;
+}
+#Group_269 {
+	position: absolute;
+	width: 874px;
+	height: 55px;
+	left: 0px;
+	top: 1px;
+	overflow: visible;
+}
+.Rectangle_515 {
+	position: absolute;
+	overflow: visible;
+	width: 874px;
+	height: 55px;
+	left: 0px;
+	top: 0px;
+}
+#Group_271 {
+	position: absolute;
+	width: 417px;
+	height: 88px;
+	left: 895px;
+	top: 0px;
+	overflow: visible;
+}
+#You_need_to_adjust_if_you_are_ {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 335px;
+	height: 88px;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(167,167,167,1);
+}
+#Image_9 {
+	position: absolute;
+	width: 77px;
+	height: 45px;
+	left: 340px;
+	top: 0px;
+	overflow: visible;
+}
+.Rectangle_516 {
+	position: absolute;
+	overflow: visible;
+	width: 203px;
+	height: 41px;
+	left: 389px;
+	top: 480px;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: loader.html;
+	cursor: pointer;
+}
+#Done__good_to_go_ {
+	position: absolute;
+	left: 425px;
+	top: 491px;
+	overflow: visible;
+	width: 133px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(11,41,230,1);
+}
+#Group_274 {
+	position: absolute;
+	width: 392px;
+	height: 377px;
+	left: -14px;
+	top: 152px;
+	overflow: visible;
+}
+.Icon_ionic_ios_heart {
+	overflow: visible;
+	position: absolute;
+	width: 12.545px;
+	height: 12.063px;
+	left: 1128.125px;
+	top: 270.938px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Line_153 {
+	opacity: 0.22;
+}
+.Line_153 {
+	overflow: visible;
+	position: absolute;
+	width: 1px;
+	height: 691px;
+	left: 1262.5px;
+	top: 9.5px;
+	transform: matrix(1,0,0,1,0,0);
+}

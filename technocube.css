@@ -1,0 +1,4087 @@
+.mediaViewInfo {
+	--web-view-name: technocube;
+	--web-view-id: technocube;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: technocube;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#technocube {
+	position: absolute;
+	width: 1263px;
+	height: 12949px;
+	background-color: rgba(0,0,0,1);
+	overflow: hidden;
+	--web-view-name: technocube;
+	--web-view-id: technocube;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+#Group_246 {
+	position: absolute;
+	width: 1020px;
+	height: 264px;
+	left: 122px;
+	top: 12210px;
+	overflow: visible;
+}
+.Ellipse_154_ {
+	position: absolute;
+	overflow: visible;
+	width: 821px;
+	height: 264px;
+	left: 69px;
+	top: 0px;
+}
+.Rectangle_438 {
+	position: absolute;
+	overflow: visible;
+	width: 1020px;
+	height: 131px;
+	left: 0px;
+	top: 119px;
+}
+.Line_89 {
+	overflow: visible;
+	position: absolute;
+	width: 1px;
+	height: 408.745px;
+	left: 884.117px;
+	top: 3146.128px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Line_86 {
+	overflow: visible;
+	position: absolute;
+	width: 387.069px;
+	height: 1px;
+	left: 594.59px;
+	top: 3113.098px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Line_85 {
+	overflow: visible;
+	position: absolute;
+	width: 1px;
+	height: 170.827px;
+	left: 884.117px;
+	top: 3574.484px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Line_84 {
+	overflow: visible;
+	position: absolute;
+	width: 289.527px;
+	height: 1px;
+	left: 594.59px;
+	top: 3745.311px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Ellipse_115_bd {
+	position: absolute;
+	overflow: visible;
+	width: 954px;
+	height: 545px;
+	left: -186px;
+	top: 10622px;
+}
+#Group_66 {
+	position: absolute;
+	width: 584px;
+	height: 1168px;
+	left: 315px;
+	top: 11030px;
+	overflow: visible;
+}
+.Ellipse_114_bg {
+	position: absolute;
+	overflow: visible;
+	width: 608px;
+	height: 262px;
+	left: 80px;
+	top: 8127px;
+}
+.Ellipse_113_bi {
+	position: absolute;
+	overflow: visible;
+	width: 358px;
+	height: 359px;
+	left: 123px;
+	top: 8996px;
+}
+#TechnoCube_bj {
+	position: absolute;
+	left: 175px;
+	top: 90px;
+	overflow: visible;
+	width: 634px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 111px;
+	color: rgba(16,16,16,1);
+}
+#TechnoCube_bk {
+	position: absolute;
+	left: 283px;
+	top: 148px;
+	overflow: visible;
+	width: 206px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 36px;
+	color: rgba(201,200,200,1);
+}
+#Website_Designs {
+	position: absolute;
+	left: 186px;
+	top: 6243px;
+	overflow: visible;
+	width: 866px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 111px;
+	color: rgba(16,16,16,1);
+}
+#Website_Designs_bm {
+	position: absolute;
+	left: 290px;
+	top: 6313px;
+	overflow: visible;
+	width: 157px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(201,200,200,1);
+}
+.Rectangle_373 {
+	position: absolute;
+	overflow: visible;
+	width: 1020px;
+	height: 131px;
+	left: 94px;
+	top: 8257px;
+}
+.Rectangle_377 {
+	position: absolute;
+	overflow: visible;
+	width: 104px;
+	height: 95px;
+	left: 1041px;
+	top: 12075px;
+}
+#Why_the_black_theme_ {
+	position: absolute;
+	left: 299px;
+	top: 6433px;
+	overflow: visible;
+	width: 124px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(253,253,253,1);
+}
+#Rectangle_379_br {
+	opacity: 0.32;
+}
+.Rectangle_379_br {
+	width: 2.58px;
+	height: 354.555px;
+	position: absolute;
+	overflow: visible;
+	transform: matrix(1,0,0,1,351.0564,45.4777) rotate(-90deg);
+	transform-origin: center;
+}
+#My_role {
+	position: absolute;
+	left: 374px;
+	top: 286px;
+	overflow: visible;
+	width: 45px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 13px;
+	color: rgba(238,238,238,1);
+}
+#UI_UX_Design {
+	position: absolute;
+	left: 374px;
+	top: 322px;
+	overflow: visible;
+	width: 81px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(167,167,167,1);
+}
+#Duration {
+	position: absolute;
+	left: 602px;
+	top: 286px;
+	overflow: visible;
+	width: 54px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 13px;
+	color: rgba(238,238,238,1);
+}
+#ID4_Weeks {
+	position: absolute;
+	left: 602px;
+	top: 322px;
+	overflow: visible;
+	width: 53px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(167,167,167,1);
+}
+#ID4_02 {
+	position: absolute;
+	left: 253px;
+	top: 6320px;
+	overflow: visible;
+	width: 27px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(141,138,138,1);
+}
+.Line_80 {
+	overflow: visible;
+	position: absolute;
+	width: 133.151px;
+	height: 3px;
+	left: 256.549px;
+	top: 10584.414px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Text_of_higher_priority {
+	position: absolute;
+	left: 205px;
+	top: 10375px;
+	overflow: visible;
+	width: 129px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(141,138,138,1);
+}
+.Line_81 {
+	overflow: visible;
+	position: absolute;
+	width: 133.151px;
+	height: 3px;
+	left: 856.248px;
+	top: 10606.089px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Line_82 {
+	overflow: visible;
+	position: absolute;
+	width: 3px;
+	height: 81.026px;
+	left: 989.399px;
+	top: 10519.386px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Left_aligned {
+	position: absolute;
+	left: 213px;
+	top: 10440px;
+	overflow: visible;
+	width: 74px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(141,138,138,1);
+}
+#Text_of_lesser_priority {
+	position: absolute;
+	left: 937px;
+	top: 10458px;
+	overflow: visible;
+	width: 126px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(141,138,138,1);
+}
+#Numbered {
+	position: absolute;
+	left: 945px;
+	top: 10485px;
+	overflow: visible;
+	width: 64px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(141,138,138,1);
+}
+.Ellipse_152 {
+	position: absolute;
+	overflow: visible;
+	width: 4px;
+	height: 5px;
+	left: 937px;
+	top: 10491px;
+}
+#Grey {
+	position: absolute;
+	left: 945px;
+	top: 10504px;
+	overflow: visible;
+	width: 29px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(141,138,138,1);
+}
+.Ellipse_153 {
+	position: absolute;
+	overflow: visible;
+	width: 4px;
+	height: 5px;
+	left: 937px;
+	top: 10511px;
+}
+#Hierarchy_of_texts {
+	position: absolute;
+	left: 369px;
+	top: 10208px;
+	overflow: visible;
+	width: 107px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(54,65,241,1);
+}
+#People_don_t_tend_to_read_big_ {
+	position: absolute;
+	left: 369px;
+	top: 10250px;
+	overflow: visible;
+	width: 453px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(141,138,138,1);
+}
+#I_got_my_winter_internship_at_ {
+	position: absolute;
+	left: 191px;
+	top: 413px;
+	overflow: visible;
+	width: 901px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(128,128,128,1);
+}
+#Focus_on_the__thought_working_ {
+	position: absolute;
+	left: 363px;
+	top: 1184px;
+	overflow: visible;
+	width: 149px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(148,148,148,1);
+}
+#Capture_attention_to_the__doma {
+	position: absolute;
+	left: 564px;
+	top: 1017px;
+	overflow: visible;
+	width: 149px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(148,148,148,1);
+}
+#Effortless_and_intuitive__cont {
+	position: absolute;
+	left: 568px;
+	top: 1362px;
+	overflow: visible;
+	width: 139px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(148,148,148,1);
+}
+#Goals {
+	position: absolute;
+	left: 178px;
+	top: 815px;
+	overflow: visible;
+	width: 294px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 111px;
+	color: rgba(16,16,16,1);
+}
+#Business_Goals {
+	position: absolute;
+	left: 283px;
+	top: 874px;
+	overflow: visible;
+	width: 253px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 36px;
+	color: rgba(201,200,200,1);
+}
+#ID1_01 {
+	position: absolute;
+	left: 248px;
+	top: 889px;
+	overflow: visible;
+	width: 27px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(141,138,138,1);
+}
+#Subsequent_pages__for_better_S {
+	position: absolute;
+	left: 784px;
+	top: 1183px;
+	overflow: visible;
+	width: 117px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(148,148,148,1);
+}
+.Icon_awesome_brain {
+	overflow: visible;
+	position: absolute;
+	width: 26.027px;
+	height: 23.135px;
+	left: 428.734px;
+	top: 1145.56px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Icon_material_import_contacts {
+	overflow: visible;
+	position: absolute;
+	width: 28.721px;
+	height: 22.193px;
+	left: 633.546px;
+	top: 1323.652px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Icon_simple_expertsexchange {
+	overflow: visible;
+	position: absolute;
+	width: 21.888px;
+	height: 20.246px;
+	left: 637.063px;
+	top: 980.927px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_369_cl {
+	overflow: visible;
+	position: absolute;
+	width: 188.783px;
+	height: 180.455px;
+	left: 860.211px;
+	top: 608.925px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Rectangle_385_cn {
+	width: 2.383px;
+	height: 197.322px;
+	position: absolute;
+	overflow: visible;
+	transform: matrix(1,0,0,1,1046.1665,607.168) rotate(1deg);
+	transform-origin: center;
+}
+.Rectangle_386_cp {
+	width: 2.383px;
+	height: 197.323px;
+	position: absolute;
+	overflow: visible;
+	transform: matrix(1,0,0,1,950.5134,516.2521) rotate(86deg);
+	transform-origin: center;
+}
+.Path_370_cr {
+	overflow: visible;
+	position: absolute;
+	width: 188.783px;
+	height: 180.455px;
+	left: 639.84px;
+	top: 608.925px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Rectangle_387_ct {
+	width: 2.383px;
+	height: 197.322px;
+	position: absolute;
+	overflow: visible;
+	transform: matrix(1,0,0,1,825.7953,607.168) rotate(1deg);
+	transform-origin: center;
+}
+.Rectangle_388_cv {
+	width: 2.383px;
+	height: 197.323px;
+	position: absolute;
+	overflow: visible;
+	transform: matrix(1,0,0,1,730.142,516.2521) rotate(86deg);
+	transform-origin: center;
+}
+.Path_371_cx {
+	overflow: visible;
+	position: absolute;
+	width: 188.783px;
+	height: 180.455px;
+	left: 429.275px;
+	top: 608.925px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Rectangle_389_cz {
+	width: 2.383px;
+	height: 197.322px;
+	position: absolute;
+	overflow: visible;
+	transform: matrix(1,0,0,1,615.2296,607.168) rotate(1deg);
+	transform-origin: center;
+}
+.Rectangle_390_c {
+	width: 2.383px;
+	height: 197.323px;
+	position: absolute;
+	overflow: visible;
+	transform: matrix(1,0,0,1,519.5764,516.2521) rotate(86deg);
+	transform-origin: center;
+}
+.Path_372_c {
+	overflow: visible;
+	position: absolute;
+	width: 188.783px;
+	height: 180.455px;
+	left: 202.193px;
+	top: 608.925px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#UX_Research {
+	position: absolute;
+	left: 208px;
+	top: 666px;
+	overflow: visible;
+	width: 126px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 21px;
+	color: rgba(201,200,200,1);
+}
+.Rectangle_391_c {
+	width: 2.383px;
+	height: 197.322px;
+	position: absolute;
+	overflow: visible;
+	transform: matrix(1,0,0,1,388.149,607.168) rotate(1deg);
+	transform-origin: center;
+}
+.Rectangle_392_c {
+	width: 2.383px;
+	height: 197.323px;
+	position: absolute;
+	overflow: visible;
+	transform: matrix(1,0,0,1,292.4958,516.2521) rotate(86deg);
+	transform-origin: center;
+}
+#Design_Process {
+	position: absolute;
+	left: 568px;
+	top: 553px;
+	overflow: visible;
+	width: 93px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(102,102,102,1);
+}
+#Business_Goals_da {
+	position: absolute;
+	left: 208px;
+	top: 706px;
+	overflow: visible;
+	width: 92px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(102,102,102,1);
+}
+#Ideation {
+	position: absolute;
+	left: 445px;
+	top: 666px;
+	overflow: visible;
+	width: 80px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 21px;
+	color: rgba(201,200,200,1);
+}
+#Brainstorming {
+	position: absolute;
+	left: 437px;
+	top: 706px;
+	overflow: visible;
+	width: 79px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(102,102,102,1);
+}
+#Information_Architecture {
+	position: absolute;
+	left: 437px;
+	top: 724px;
+	overflow: visible;
+	width: 147px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(102,102,102,1);
+}
+#Prototyping {
+	position: absolute;
+	left: 649px;
+	top: 666px;
+	overflow: visible;
+	width: 114px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 21px;
+	color: rgba(201,200,200,1);
+}
+#Wireframes {
+	position: absolute;
+	left: 649px;
+	top: 706px;
+	overflow: visible;
+	width: 66px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(102,102,102,1);
+}
+#Prototype_Models {
+	position: absolute;
+	left: 649px;
+	top: 742px;
+	overflow: visible;
+	width: 106px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(102,102,102,1);
+}
+#Testing {
+	position: absolute;
+	left: 864px;
+	top: 666px;
+	overflow: visible;
+	width: 71px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 21px;
+	color: rgba(201,200,200,1);
+}
+#A_B_Testing {
+	position: absolute;
+	left: 864px;
+	top: 706px;
+	overflow: visible;
+	width: 70px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(102,102,102,1);
+}
+#Iterate {
+	position: absolute;
+	left: 864px;
+	top: 724px;
+	overflow: visible;
+	width: 40px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(102,102,102,1);
+}
+#Deploy {
+	position: absolute;
+	left: 864px;
+	top: 742px;
+	overflow: visible;
+	width: 43px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(102,102,102,1);
+}
+#ID02 {
+	position: absolute;
+	left: 437px;
+	top: 637px;
+	overflow: visible;
+	width: 15px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(141,138,138,1);
+}
+#ID03 {
+	position: absolute;
+	left: 649px;
+	top: 637px;
+	overflow: visible;
+	width: 15px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(141,138,138,1);
+}
+#ID04 {
+	position: absolute;
+	left: 864px;
+	top: 637px;
+	overflow: visible;
+	width: 15px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(141,138,138,1);
+}
+#Icon_ionic_ios_rocket {
+	position: absolute;
+	width: 22.598px;
+	height: 22.579px;
+	left: 837.662px;
+	top: 1146.117px;
+	overflow: visible;
+}
+.Path_373 {
+	overflow: visible;
+	position: absolute;
+	width: 22.598px;
+	height: 22.579px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_374 {
+	overflow: visible;
+	position: absolute;
+	width: 5.322px;
+	height: 5.318px;
+	left: 1.87px;
+	top: 15.424px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Rectangle_393_ds {
+	width: 168.762px;
+	height: 168.762px;
+	position: absolute;
+	overflow: visible;
+	transform: matrix(1,0,0,1,563.6929,1103.7873) rotate(45deg);
+	transform-origin: center;
+}
+#Business__Goals {
+	opacity: 0.11;
+	position: absolute;
+	left: 579px;
+	top: 1165px;
+	overflow: visible;
+	width: 129px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(233,233,233,1);
+}
+#ID1_02 {
+	opacity: 0.34;
+	position: absolute;
+	left: 634px;
+	top: 1144px;
+	overflow: visible;
+	width: 27px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(141,138,138,1);
+}
+#Architecture {
+	position: absolute;
+	left: 200px;
+	top: 2899px;
+	overflow: visible;
+	width: 624px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 111px;
+	color: rgba(16,16,16,1);
+}
+#Infromation_Architecture {
+	position: absolute;
+	left: 308px;
+	top: 2969px;
+	overflow: visible;
+	width: 225px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(201,200,200,1);
+}
+#ID2_02 {
+	position: absolute;
+	left: 278px;
+	top: 2976px;
+	overflow: visible;
+	width: 27px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(141,138,138,1);
+}
+#Design_Language {
+	position: absolute;
+	left: 649px;
+	top: 724px;
+	overflow: visible;
+	width: 107px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(102,102,102,1);
+}
+#Scenario {
+	position: absolute;
+	left: 178px;
+	top: 1424px;
+	overflow: visible;
+	width: 447px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 111px;
+	color: rgba(16,16,16,1);
+}
+#User_Scenario_ {
+	position: absolute;
+	left: 283px;
+	top: 1498px;
+	overflow: visible;
+	width: 88px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(201,200,200,1);
+}
+#ID1_02_d {
+	position: absolute;
+	left: 248px;
+	top: 1498px;
+	overflow: visible;
+	width: 27px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(141,138,138,1);
+}
+#Sales_Manager {
+	position: absolute;
+	left: 278px;
+	top: 1606px;
+	overflow: visible;
+	width: 78px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(128,128,128,1);
+}
+#Olivia_is_a_sales_manager_in_a {
+	position: absolute;
+	left: 280px;
+	top: 1661px;
+	overflow: visible;
+	width: 789px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(128,128,128,1);
+}
+#Looking_for_better_tracking_of {
+	position: absolute;
+	left: 280px;
+	top: 1716px;
+	overflow: visible;
+	width: 544px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(128,128,128,1);
+}
+.Rectangle_395 {
+	position: absolute;
+	overflow: visible;
+	width: 880px;
+	height: 353px;
+	left: 206px;
+	top: 1781px;
+}
+.Rectangle_396 {
+	position: absolute;
+	overflow: visible;
+	width: 128px;
+	height: 39px;
+	left: 530px;
+	top: 3093px;
+}
+#Homepage {
+	position: absolute;
+	left: 558px;
+	top: 3104px;
+	overflow: visible;
+	width: 67px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(213,213,213,1);
+}
+.Line_83 {
+	overflow: visible;
+	position: absolute;
+	width: 1px;
+	height: 612.601px;
+	left: 594.59px;
+	top: 3132.709px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Rectangle_397 {
+	position: absolute;
+	overflow: visible;
+	width: 128px;
+	height: 40px;
+	left: 530px;
+	top: 3181px;
+}
+#About_us {
+	position: absolute;
+	left: 565px;
+	top: 3193px;
+	overflow: visible;
+	width: 55px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(213,213,213,1);
+}
+.Rectangle_398 {
+	position: absolute;
+	overflow: visible;
+	width: 128px;
+	height: 39px;
+	left: 530px;
+	top: 3249px;
+}
+#What_we_do {
+	position: absolute;
+	left: 558px;
+	top: 3260px;
+	overflow: visible;
+	width: 76px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(213,213,213,1);
+}
+.Rectangle_399 {
+	position: absolute;
+	overflow: visible;
+	width: 128px;
+	height: 39px;
+	left: 530px;
+	top: 3317px;
+}
+#Our_Work {
+	position: absolute;
+	left: 564px;
+	top: 3327px;
+	overflow: visible;
+	width: 59px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(213,213,213,1);
+}
+.Rectangle_400 {
+	position: absolute;
+	overflow: visible;
+	width: 128px;
+	height: 39px;
+	left: 530px;
+	top: 3384px;
+}
+#What_we_offer {
+	position: absolute;
+	left: 548px;
+	top: 3395px;
+	overflow: visible;
+	width: 88px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(213,213,213,1);
+}
+.Rectangle_401 {
+	position: absolute;
+	overflow: visible;
+	width: 128px;
+	height: 40px;
+	left: 530px;
+	top: 3451px;
+}
+#Why_trust_us {
+	position: absolute;
+	left: 553px;
+	top: 3463px;
+	overflow: visible;
+	width: 78px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(213,213,213,1);
+}
+.Rectangle_402 {
+	position: absolute;
+	overflow: visible;
+	width: 128px;
+	height: 40px;
+	left: 530px;
+	top: 3519px;
+}
+#Clients {
+	position: absolute;
+	left: 572px;
+	top: 3530px;
+	overflow: visible;
+	width: 42px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(213,213,213,1);
+}
+.Rectangle_403 {
+	position: absolute;
+	overflow: visible;
+	width: 128px;
+	height: 39px;
+	left: 530px;
+	top: 3587px;
+}
+#Testimonials {
+	position: absolute;
+	left: 555px;
+	top: 3598px;
+	overflow: visible;
+	width: 76px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(213,213,213,1);
+}
+.Rectangle_404 {
+	position: absolute;
+	overflow: visible;
+	width: 128px;
+	height: 40px;
+	left: 530px;
+	top: 3654px;
+}
+#Domain_Expertise {
+	position: absolute;
+	left: 537px;
+	top: 3666px;
+	overflow: visible;
+	width: 107px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(213,213,213,1);
+}
+.Rectangle_405 {
+	position: absolute;
+	overflow: visible;
+	width: 128px;
+	height: 39px;
+	left: 530px;
+	top: 3722px;
+}
+#Blogs {
+	position: absolute;
+	left: 577px;
+	top: 3733px;
+	overflow: visible;
+	width: 32px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(213,213,213,1);
+}
+.Rectangle_406 {
+	position: absolute;
+	overflow: visible;
+	width: 128px;
+	height: 40px;
+	left: 819px;
+	top: 3126px;
+}
+#Design {
+	position: absolute;
+	left: 861px;
+	top: 3137px;
+	overflow: visible;
+	width: 43px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(213,213,213,1);
+}
+.Path_375 {
+	overflow: visible;
+	position: absolute;
+	width: 161.039px;
+	height: 123.704px;
+	left: 658.328px;
+	top: 3145.996px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_376 {
+	overflow: visible;
+	position: absolute;
+	width: 77.426px;
+	height: 1px;
+	left: 741.943px;
+	top: 3227.929px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Rectangle_407 {
+	position: absolute;
+	overflow: visible;
+	width: 128px;
+	height: 40px;
+	left: 819px;
+	top: 3208px;
+}
+#Develop {
+	position: absolute;
+	left: 858px;
+	top: 3219px;
+	overflow: visible;
+	width: 50px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(213,213,213,1);
+}
+.Path_379 {
+	overflow: visible;
+	position: absolute;
+	width: 77.426px;
+	height: 1px;
+	left: 741.943px;
+	top: 3309.987px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Rectangle_408 {
+	position: absolute;
+	overflow: visible;
+	width: 128px;
+	height: 40px;
+	left: 819px;
+	top: 3290px;
+}
+#Deploy_ez {
+	position: absolute;
+	left: 858px;
+	top: 3301px;
+	overflow: visible;
+	width: 43px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(213,213,213,1);
+}
+.Path_380 {
+	overflow: visible;
+	position: absolute;
+	width: 77.426px;
+	height: 1px;
+	left: 741.943px;
+	top: 3392.046px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Rectangle_409 {
+	position: absolute;
+	overflow: visible;
+	width: 128px;
+	height: 39px;
+	left: 819px;
+	top: 3372px;
+}
+#Distribute {
+	position: absolute;
+	left: 852px;
+	top: 3383px;
+	overflow: visible;
+	width: 59px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(213,213,213,1);
+}
+.Path_381 {
+	overflow: visible;
+	position: absolute;
+	width: 124.384px;
+	height: 1px;
+	transform: matrix(1,0,0,1,679.7518,3329.8539) rotate(90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.Rectangle_410 {
+	position: absolute;
+	overflow: visible;
+	width: 128px;
+	height: 38px;
+	left: 231px;
+	top: 3304px;
+}
+#Design_e {
+	position: absolute;
+	left: 272px;
+	top: 3314px;
+	overflow: visible;
+	width: 43px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(213,213,213,1);
+}
+.Path_382 {
+	overflow: visible;
+	position: absolute;
+	width: 171.34px;
+	height: 83.059px;
+	left: 359.016px;
+	top: 3323.406px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_383 {
+	overflow: visible;
+	position: absolute;
+	width: 85.672px;
+	height: 1px;
+	left: 359.016px;
+	top: 3405.464px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Rectangle_411 {
+	position: absolute;
+	overflow: visible;
+	width: 128px;
+	height: 39px;
+	left: 231px;
+	top: 3386px;
+}
+#Develop_e {
+	position: absolute;
+	left: 269px;
+	top: 3397px;
+	overflow: visible;
+	width: 50px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(213,213,213,1);
+}
+.Path_384 {
+	overflow: visible;
+	position: absolute;
+	width: 82.059px;
+	height: 1px;
+	left: 359.016px;
+	top: 3487.523px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Rectangle_412 {
+	position: absolute;
+	overflow: visible;
+	width: 128px;
+	height: 40px;
+	left: 231px;
+	top: 3467px;
+}
+#Deploy_fc {
+	position: absolute;
+	left: 269px;
+	top: 3479px;
+	overflow: visible;
+	width: 43px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(213,213,213,1);
+}
+.Path_385 {
+	overflow: visible;
+	position: absolute;
+	width: 86.6px;
+	height: 1px;
+	transform: matrix(1,0,0,1,397.7733,3444.2231) rotate(-90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.Rectangle_416 {
+	position: absolute;
+	overflow: visible;
+	width: 128px;
+	height: 39px;
+	left: 819px;
+	top: 3555px;
+}
+#Free_Consultation {
+	position: absolute;
+	left: 826px;
+	top: 3565px;
+	overflow: visible;
+	width: 106px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(213,213,213,1);
+}
+.Line_87 {
+	overflow: visible;
+	position: absolute;
+	width: 1px;
+	height: 394.294px;
+	left: 981.658px;
+	top: 3113.098px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Line_88 {
+	overflow: visible;
+	position: absolute;
+	width: 98.058px;
+	height: 1px;
+	left: 883.601px;
+	top: 3507.393px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Brainstorming_fi {
+	position: absolute;
+	left: 178px;
+	top: 2249px;
+	overflow: visible;
+	width: 727px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 111px;
+	color: rgba(16,16,16,1);
+}
+#Brainstorming_fj {
+	position: absolute;
+	left: 284px;
+	top: 2320px;
+	overflow: visible;
+	width: 132px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(201,200,200,1);
+}
+#ID2_01 {
+	position: absolute;
+	left: 256px;
+	top: 2325px;
+	overflow: visible;
+	width: 27px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(141,138,138,1);
+}
+#Attract_with_the_process_of_wo {
+	position: absolute;
+	left: 206px;
+	top: 2499px;
+	overflow: visible;
+	width: 215px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(141,138,138,1);
+}
+#Building_trust {
+	position: absolute;
+	left: 631px;
+	top: 2631px;
+	overflow: visible;
+	width: 81px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(141,138,138,1);
+}
+.Line_96 {
+	overflow: visible;
+	position: absolute;
+	width: 54.487px;
+	height: 69.147px;
+	left: 686.97px;
+	top: 2533.616px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Icon_feather_arrow_right {
+	transform: matrix(1,0,0,1,739.1226,2524.6814) rotate(-53deg);
+	transform-origin: center;
+	position: absolute;
+	width: 6.824px;
+	height: 3.383px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Path_386 {
+	overflow: visible;
+	position: absolute;
+	width: 8.308px;
+	height: 9.651px;
+	left: 1.396px;
+	top: 1.052px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_387 {
+	overflow: visible;
+	position: absolute;
+	width: 9.287px;
+	height: 8.832px;
+	left: 3.089px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Line_97 {
+	overflow: visible;
+	position: absolute;
+	width: 61.33px;
+	height: 36.674px;
+	transform: matrix(1,0,0,1,680.4019,2687.4932) rotate(15deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#Icon_feather_arrow_right_fs {
+	transform: matrix(1,0,0,1,738.9653,2736.0298) rotate(45deg);
+	transform-origin: center;
+	position: absolute;
+	width: 6.824px;
+	height: 3.383px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Path_386_ft {
+	overflow: visible;
+	position: absolute;
+	width: 9.067px;
+	height: 9.068px;
+	left: 1.155px;
+	top: 1.237px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_387_fu {
+	overflow: visible;
+	position: absolute;
+	width: 9.148px;
+	height: 9.148px;
+	left: 3.629px;
+	top: 3.629px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Rectangle_437 {
+	position: absolute;
+	overflow: visible;
+	width: 136px;
+	height: 56px;
+	left: 602px;
+	top: 2612px;
+}
+#Reasons_for_collaboration {
+	position: absolute;
+	left: 846px;
+	top: 2534px;
+	overflow: visible;
+	width: 142px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(141,138,138,1);
+}
+#Achievements {
+	position: absolute;
+	left: 714px;
+	top: 2750px;
+	overflow: visible;
+	width: 79px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(141,138,138,1);
+}
+#Past_brands_we_worked_with {
+	position: absolute;
+	left: 862px;
+	top: 2728px;
+	overflow: visible;
+	width: 143px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(141,138,138,1);
+}
+.Line_98 {
+	overflow: visible;
+	position: absolute;
+	width: 50.279px;
+	height: 64.938px;
+	transform: matrix(1,0,0,1,770.2986,2667.8249) rotate(76deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#Icon_feather_arrow_right_f {
+	transform: matrix(1,0,0,1,837.9191,2718.5159) rotate(23deg);
+	transform-origin: center;
+	position: absolute;
+	width: 6.824px;
+	height: 3.383px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Path_386_f {
+	overflow: visible;
+	position: absolute;
+	width: 10.215px;
+	height: 6.6px;
+	left: 0.638px;
+	top: 1.61px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_387_f {
+	overflow: visible;
+	position: absolute;
+	width: 7.87px;
+	height: 9.095px;
+	left: 4.725px;
+	top: 2.005px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Line_99 {
+	overflow: visible;
+	position: absolute;
+	width: 50.278px;
+	height: 64.938px;
+	transform: matrix(1,0,0,1,770.2989,2547.5751) rotate(-76deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#Icon_feather_arrow_right_ga {
+	transform: matrix(1,0,0,1,837.9193,2558.4389) rotate(-23deg);
+	transform-origin: center;
+	position: absolute;
+	width: 6.824px;
+	height: 3.383px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Path_386_ga {
+	overflow: visible;
+	position: absolute;
+	width: 10.215px;
+	height: 6.6px;
+	left: 0.639px;
+	top: 1.504px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_387_ga {
+	overflow: visible;
+	position: absolute;
+	width: 7.869px;
+	height: 9.095px;
+	left: 4.725px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Line_100 {
+	overflow: visible;
+	position: absolute;
+	width: 50.279px;
+	height: 64.938px;
+	transform: matrix(1,0,0,1,783.7691,2608.0884) rotate(-52deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#Icon_feather_arrow_right_gb {
+	transform: matrix(1,0,0,1,855.5215,2639.3403) rotate(1deg);
+	transform-origin: center;
+	position: absolute;
+	width: 6.824px;
+	height: 3.383px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Path_386_gb {
+	overflow: visible;
+	position: absolute;
+	width: 9.875px;
+	height: 3.171px;
+	left: 0.03px;
+	top: 1.634px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_387_gb {
+	overflow: visible;
+	position: absolute;
+	width: 5.444px;
+	height: 7.717px;
+	left: 5.132px;
+	top: 0.09px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Image_1 {
+	position: absolute;
+	width: 81px;
+	height: 18px;
+	left: 715px;
+	top: 2496px;
+	overflow: visible;
+}
+#Domain_expertise {
+	position: absolute;
+	left: 883px;
+	top: 2631px;
+	overflow: visible;
+	width: 107px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(141,138,138,1);
+}
+#As_per_stats__average_drop_rat {
+	position: absolute;
+	left: 206px;
+	top: 2410px;
+	overflow: visible;
+	width: 803px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(141,138,138,1);
+}
+#The_purpose_of_the_site_should {
+	position: absolute;
+	left: 206px;
+	top: 2463px;
+	overflow: visible;
+	width: 401px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(141,138,138,1);
+}
+#Narration_to_be_built_to_captu {
+	position: absolute;
+	left: 206px;
+	top: 2481px;
+	overflow: visible;
+	width: 225px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(141,138,138,1);
+}
+.Line_101 {
+	overflow: visible;
+	position: absolute;
+	width: 150.603px;
+	height: 3px;
+	left: 429.956px;
+	top: 2644.486px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Icon_feather_arrow_right_gh {
+	transform: matrix(1,0,0,1,577.6327,2642.7813) rotate(-1deg);
+	transform-origin: center;
+	position: absolute;
+	width: 6.824px;
+	height: 3.383px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Path_386_gi {
+	overflow: visible;
+	position: absolute;
+	width: 9.875px;
+	height: 3.171px;
+	left: 0.03px;
+	top: 1.749px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_387_gj {
+	overflow: visible;
+	position: absolute;
+	width: 5.445px;
+	height: 7.717px;
+	left: 5.132px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Line_102 {
+	overflow: visible;
+	position: absolute;
+	width: 3px;
+	height: 52.986px;
+	left: 429.956px;
+	top: 2594.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Line_103 {
+	overflow: visible;
+	position: absolute;
+	width: 3px;
+	height: 60.802px;
+	left: 652.392px;
+	top: 2778.154px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Icon_feather_arrow_right_gm {
+	transform: matrix(1,0,0,1,535.8285,2834.2522) rotate(180deg);
+	transform-origin: center;
+	position: absolute;
+	width: 6.824px;
+	height: 3.383px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Path_386_gn {
+	overflow: visible;
+	position: absolute;
+	width: 9.824px;
+	height: 3px;
+	left: 0px;
+	top: 1.634px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_387_go {
+	overflow: visible;
+	position: absolute;
+	width: 5.313px;
+	height: 7.625px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Line_104 {
+	overflow: visible;
+	position: absolute;
+	width: 3px;
+	height: 90.22px;
+	left: 652.392px;
+	top: 2690.935px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Line_105 {
+	overflow: visible;
+	position: absolute;
+	width: 113.96px;
+	height: 3px;
+	left: 541.432px;
+	top: 2835.956px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Contact_Page__ {
+	position: absolute;
+	left: 403px;
+	top: 2804px;
+	overflow: visible;
+	width: 89px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(141,138,138,1);
+}
+#Free_Consultation_gs {
+	position: absolute;
+	left: 377px;
+	top: 2847px;
+	overflow: visible;
+	width: 106px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(141,138,138,1);
+}
+.Line_106 {
+	overflow: visible;
+	position: absolute;
+	width: 3px;
+	height: 47.672px;
+	left: 520.272px;
+	top: 2812.732px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Line_107 {
+	overflow: visible;
+	position: absolute;
+	width: 25.192px;
+	height: 3px;
+	left: 498.08px;
+	top: 2812.732px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Line_108 {
+	overflow: visible;
+	position: absolute;
+	width: 25.192px;
+	height: 3px;
+	left: 498.08px;
+	top: 2857.405px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Rectangle_383 {
+	position: absolute;
+	overflow: visible;
+	width: 908px;
+	height: 262px;
+	left: 178px;
+	top: 5368px;
+}
+.Ellipse_112_gy {
+	position: absolute;
+	overflow: visible;
+	width: 258px;
+	height: 257px;
+	left: 503px;
+	top: 4761px;
+}
+.Rectangle_371 {
+	width: 189.922px;
+	height: 518.156px;
+	position: absolute;
+	overflow: visible;
+	transform: matrix(1,0,0,1,458.194,4598.9311) rotate(22deg);
+	transform-origin: center;
+}
+.Rectangle_369 {
+	position: absolute;
+	overflow: visible;
+	width: 13px;
+	height: 122px;
+	left: 300px;
+	top: 5789px;
+}
+#Roboto {
+	position: absolute;
+	left: 725px;
+	top: 4751px;
+	overflow: visible;
+	width: 105px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 37px;
+	color: rgba(245,245,245,1);
+}
+#Condensed {
+	position: absolute;
+	left: 761px;
+	top: 4731px;
+	overflow: visible;
+	width: 66px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(102,102,102,1);
+}
+#A_a_B_b_C_c_D_d_E_e_F_f_G_g_H_ {
+	position: absolute;
+	left: 725px;
+	top: 4799px;
+	overflow: visible;
+	width: 187px;
+	white-space: nowrap;
+	line-height: 18px;
+	margin-top: -3px;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(35,35,35,1);
+	letter-spacing: 0.54px;
+}
+#Muli {
+	position: absolute;
+	left: 525px;
+	top: 4849px;
+	overflow: visible;
+	width: 71px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 37px;
+	color: rgba(245,245,245,1);
+}
+#Regular_Roman {
+	position: absolute;
+	left: 525px;
+	top: 4829px;
+	overflow: visible;
+	width: 88px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(102,102,102,1);
+}
+#A_a_B_b_C_c_D_d_E_e_F_f_G_g_H__g {
+	position: absolute;
+	left: 347px;
+	top: 4903px;
+	overflow: visible;
+	width: 216px;
+	white-space: nowrap;
+	line-height: 18px;
+	margin-top: -3px;
+	text-align: right;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(35,35,35,1);
+	letter-spacing: 0.54px;
+}
+#Aa {
+	opacity: 0.06;
+	position: absolute;
+	left: 285px;
+	top: 4790px;
+	overflow: visible;
+	width: 122px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 91px;
+	color: rgba(201,200,200,1);
+}
+#Aa_g {
+	opacity: 0.07;
+	position: absolute;
+	left: 884px;
+	top: 4701px;
+	overflow: visible;
+	width: 95px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 92px;
+	color: rgba(201,200,200,1);
+}
+#Roboto_g {
+	position: absolute;
+	left: 596px;
+	top: 5020px;
+	overflow: visible;
+	width: 118px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 36px;
+	color: rgba(245,245,245,1);
+}
+#Regular {
+	position: absolute;
+	left: 670px;
+	top: 5001px;
+	overflow: visible;
+	width: 42px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(102,102,102,1);
+}
+#A_a_B_b_C_c_D_d_E_e_F_f_G_g_H__hb {
+	position: absolute;
+	left: 601px;
+	top: 5068px;
+	overflow: visible;
+	width: 213px;
+	white-space: nowrap;
+	line-height: 18px;
+	margin-top: -3px;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(35,35,35,1);
+	letter-spacing: 0.54px;
+}
+#Aa_hc {
+	opacity: 0.06;
+	position: absolute;
+	left: 793px;
+	top: 4965px;
+	overflow: visible;
+	width: 109px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 91px;
+	color: rgba(201,200,200,1);
+}
+#Rectangle_367_he {
+	opacity: 0.32;
+}
+.Rectangle_367_he {
+	width: 2.58px;
+	height: 518.156px;
+	position: absolute;
+	overflow: visible;
+	transform: matrix(1,0,0,1,641.2955,4634.0206) rotate(22deg);
+	transform-origin: center;
+}
+.Path_348 {
+	overflow: visible;
+	position: absolute;
+	width: 4.164px;
+	height: 56.04px;
+	transform: matrix(1,0,0,1,793.7884,6056.6883) rotate(135deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.Path_347 {
+	overflow: visible;
+	position: absolute;
+	width: 4.219px;
+	height: 55.926px;
+	transform: matrix(1,0,0,1,832.4564,6018.4924) rotate(135deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.Path_348_hh {
+	overflow: visible;
+	position: absolute;
+	width: 4.281px;
+	height: 55.93px;
+	transform: matrix(1,0,0,1,832.4018,6056.6611) rotate(225deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.Path_348_hi {
+	overflow: visible;
+	position: absolute;
+	width: 4.225px;
+	height: 56.583px;
+	transform: matrix(1,0,0,1,794.1179,6017.8129) rotate(45deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.Path_348_hj {
+	overflow: visible;
+	position: absolute;
+	width: 3.903px;
+	height: 4.675px;
+	transform: matrix(1,0,0,1,815.406,6026.1098) rotate(135deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.Rectangle_1 {
+	position: absolute;
+	overflow: visible;
+	width: 52px;
+	height: 52px;
+	left: 874px;
+	top: 5217px;
+}
+#_010101 {
+	position: absolute;
+	left: 877px;
+	top: 5294px;
+	overflow: visible;
+	width: 51px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(112,112,112,1);
+}
+.Rectangle_2 {
+	position: absolute;
+	overflow: visible;
+	width: 52px;
+	height: 52px;
+	left: 491px;
+	top: 5217px;
+}
+#_f5f5f5 {
+	position: absolute;
+	left: 488px;
+	top: 5294px;
+	overflow: visible;
+	width: 42px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(112,112,112,1);
+}
+.Rectangle_3 {
+	position: absolute;
+	overflow: visible;
+	width: 51px;
+	height: 52px;
+	left: 365px;
+	top: 5218px;
+}
+#_3641f1 {
+	position: absolute;
+	left: 365px;
+	top: 5294px;
+	overflow: visible;
+	width: 44px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(112,112,112,1);
+}
+.Rectangle_4 {
+	position: absolute;
+	overflow: visible;
+	width: 52px;
+	height: 52px;
+	left: 746px;
+	top: 5218px;
+}
+#_2E2E2E {
+	position: absolute;
+	left: 750px;
+	top: 5294px;
+	overflow: visible;
+	width: 49px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(112,112,112,1);
+}
+.Rectangle_5 {
+	position: absolute;
+	overflow: visible;
+	width: 52px;
+	height: 52px;
+	left: 619px;
+	top: 5217px;
+}
+#_D5d5d5 {
+	position: absolute;
+	left: 619px;
+	top: 5294px;
+	overflow: visible;
+	width: 54px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(112,112,112,1);
+}
+.Rectangle_368 {
+	position: absolute;
+	overflow: visible;
+	width: 52px;
+	height: 52px;
+	left: 236px;
+	top: 5218px;
+}
+#_0B29E6 {
+	position: absolute;
+	left: 236px;
+	top: 5294px;
+	overflow: visible;
+	width: 51px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(112,112,112,1);
+}
+#Loader_Animation {
+	position: absolute;
+	left: 222px;
+	top: 5686px;
+	overflow: visible;
+	width: 166px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(201,200,200,1);
+}
+.Path_349 {
+	overflow: visible;
+	position: absolute;
+	width: 4.164px;
+	height: 56.04px;
+	transform: matrix(1,0,0,1,603.6951,6056.6883) rotate(135deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.Path_350 {
+	overflow: visible;
+	position: absolute;
+	width: 4.219px;
+	height: 55.926px;
+	transform: matrix(1,0,0,1,642.3631,6018.4924) rotate(135deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.Path_351 {
+	overflow: visible;
+	position: absolute;
+	width: 4.281px;
+	height: 55.93px;
+	transform: matrix(1,0,0,1,642.3096,6056.6611) rotate(225deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.Path_353 {
+	overflow: visible;
+	position: absolute;
+	width: 3.903px;
+	height: 4.675px;
+	transform: matrix(1,0,0,1,625.0749,6026.1098) rotate(135deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.Path_355 {
+	overflow: visible;
+	position: absolute;
+	width: 4.219px;
+	height: 55.926px;
+	transform: matrix(1,0,0,1,451.7689,6018.4924) rotate(135deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.Path_356 {
+	overflow: visible;
+	position: absolute;
+	width: 4.281px;
+	height: 55.93px;
+	transform: matrix(1,0,0,1,451.7153,6056.6611) rotate(225deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.Path_358 {
+	overflow: visible;
+	position: absolute;
+	width: 3.903px;
+	height: 4.675px;
+	transform: matrix(1,0,0,1,434.2407,6026.1098) rotate(135deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.Path_359 {
+	overflow: visible;
+	position: absolute;
+	width: 4.219px;
+	height: 55.926px;
+	transform: matrix(1,0,0,1,285.9652,6018.4924) rotate(135deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.Icon_awesome_arrow_right {
+	overflow: visible;
+	position: absolute;
+	width: 16.259px;
+	height: 15.847px;
+	left: 357.022px;
+	top: 6055.564px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Icon_awesome_arrow_right_h {
+	overflow: visible;
+	position: absolute;
+	width: 16.259px;
+	height: 15.847px;
+	left: 536.589px;
+	top: 6055.564px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Icon_awesome_arrow_right_ia {
+	overflow: visible;
+	position: absolute;
+	width: 16.259px;
+	height: 15.847px;
+	left: 717.82px;
+	top: 6055.564px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#ID02_h {
+	position: absolute;
+	left: 428px;
+	top: 6137px;
+	overflow: visible;
+	width: 15px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(141,138,138,1);
+}
+#ID03_h {
+	position: absolute;
+	left: 617px;
+	top: 6137px;
+	overflow: visible;
+	width: 15px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(141,138,138,1);
+}
+#ID04_ia {
+	position: absolute;
+	left: 808px;
+	top: 6137px;
+	overflow: visible;
+	width: 15px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(141,138,138,1);
+}
+#_LOOP_ {
+	position: absolute;
+	left: 962px;
+	top: 6107px;
+	overflow: visible;
+	width: 44px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(141,138,138,1);
+}
+.Icon_awesome_arrow_right_ic {
+	overflow: visible;
+	position: absolute;
+	width: 16.259px;
+	height: 15.847px;
+	left: 901.561px;
+	top: 6055.564px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_360 {
+	overflow: visible;
+	position: absolute;
+	width: 4.219px;
+	height: 55.926px;
+	transform: matrix(1,0,0,1,980.1313,6019.009) rotate(135deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#ID05 {
+	position: absolute;
+	left: 977px;
+	top: 6137px;
+	overflow: visible;
+	width: 15px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(141,138,138,1);
+}
+.Icon_awesome_arrow_right_if {
+	overflow: visible;
+	position: absolute;
+	width: 16.259px;
+	height: 15.847px;
+	left: 412.373px;
+	top: 5842.131px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Line_48 {
+	overflow: visible;
+	position: absolute;
+	width: 1px;
+	height: 26.837px;
+	left: 312.741px;
+	top: 5897.886px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Line_52 {
+	overflow: visible;
+	position: absolute;
+	width: 40.255px;
+	height: 1px;
+	left: 286.42px;
+	top: 5789.507px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Line_53 {
+	overflow: visible;
+	position: absolute;
+	width: 40.255px;
+	height: 1px;
+	left: 286.42px;
+	top: 5910.789px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Line_54 {
+	overflow: visible;
+	position: absolute;
+	width: 1px;
+	height: 26.837px;
+	left: 312.741px;
+	top: 5778.153px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#ID8px {
+	position: absolute;
+	left: 299px;
+	top: 5764px;
+	overflow: visible;
+	width: 15px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 8px;
+	color: rgba(141,138,138,1);
+}
+#ID108px {
+	position: absolute;
+	left: 322px;
+	top: 5848px;
+	overflow: visible;
+	width: 24px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 8px;
+	color: rgba(141,138,138,1);
+}
+.Rectangle_370 {
+	width: 12.386px;
+	height: 120.766px;
+	position: absolute;
+	overflow: visible;
+	transform: matrix(1,0,0,1,499.8244,5792.3453) rotate(45deg);
+	transform-origin: center;
+}
+.Line_56 {
+	overflow: visible;
+	position: absolute;
+	width: 1px;
+	height: 63.995px;
+	left: 468.085px;
+	top: 5835.955px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Line_57 {
+	overflow: visible;
+	position: absolute;
+	width: 74.317px;
+	height: 1px;
+	left: 468.085px;
+	top: 5899.951px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_361 {
+	overflow: visible;
+	position: absolute;
+	width: 10.021px;
+	height: 9.336px;
+	left: 468.084px;
+	top: 5890.918px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#ID45_ {
+	position: absolute;
+	left: 483px;
+	top: 5885px;
+	overflow: visible;
+	width: 12px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 8px;
+	color: rgba(141,138,138,1);
+}
+.Icon_awesome_arrow_right_ir {
+	overflow: visible;
+	position: absolute;
+	width: 16.259px;
+	height: 15.847px;
+	left: 601.779px;
+	top: 5842.131px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_363 {
+	overflow: visible;
+	position: absolute;
+	width: 12.53px;
+	height: 120.766px;
+	transform: matrix(1,0,0,1,712.3314,5792.2942) rotate(45deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.Line_58 {
+	overflow: visible;
+	position: absolute;
+	width: 27.544px;
+	height: 27.544px;
+	left: 670.393px;
+	top: 5883.952px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Line_59 {
+	overflow: visible;
+	position: absolute;
+	width: 27.544px;
+	height: 27.544px;
+	left: 670.393px;
+	top: 5864.34px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Line_60 {
+	overflow: visible;
+	position: absolute;
+	width: 34.063px;
+	height: 1px;
+	left: 680.198px;
+	top: 5899.951px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Line_61 {
+	overflow: visible;
+	position: absolute;
+	width: 1px;
+	height: 40.255px;
+	left: 680.198px;
+	top: 5859.696px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#ID45__ix {
+	position: absolute;
+	left: 697px;
+	top: 5885px;
+	overflow: visible;
+	width: 12px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 8px;
+	color: rgba(141,138,138,1);
+}
+#ID10px {
+	position: absolute;
+	left: 651px;
+	top: 5892px;
+	overflow: visible;
+	width: 22px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 9px;
+	color: rgba(141,138,138,1);
+}
+.Line_62 {
+	overflow: visible;
+	position: absolute;
+	width: 28.757px;
+	height: 28.71px;
+	left: 749.355px;
+	top: 5803.825px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Line_63 {
+	overflow: visible;
+	position: absolute;
+	width: 26.837px;
+	height: 26.837px;
+	transform: matrix(1,0,0,1,730.9559,5803.8247) rotate(90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.Line_64 {
+	overflow: visible;
+	position: absolute;
+	width: 34.062px;
+	height: 0px;
+	transform: matrix(1,0,0,1,749.5352,5830.6614) rotate(90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.Line_65 {
+	overflow: visible;
+	position: absolute;
+	width: 39.559px;
+	height: 1px;
+	left: 726.312px;
+	top: 5813.63px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#ID45__i {
+	position: absolute;
+	left: 715px;
+	top: 5817px;
+	overflow: visible;
+	width: 12px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 8px;
+	color: rgba(141,138,138,1);
+}
+#ID10px_i {
+	position: absolute;
+	left: 764px;
+	top: 5790px;
+	overflow: visible;
+	width: 22px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 9px;
+	color: rgba(141,138,138,1);
+}
+.Icon_awesome_arrow_right_i {
+	overflow: visible;
+	position: absolute;
+	width: 16.259px;
+	height: 15.847px;
+	left: 828.344px;
+	top: 5842.131px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_364 {
+	overflow: visible;
+	position: absolute;
+	width: 12.53px;
+	height: 120.766px;
+	transform: matrix(1,0,0,1,932.7027,5792.2942) rotate(45deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#Sequence {
+	position: absolute;
+	left: 608px;
+	top: 5965px;
+	overflow: visible;
+	width: 55px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(141,138,138,1);
+}
+#Ideation_i {
+	position: absolute;
+	left: 611px;
+	top: 5746px;
+	overflow: visible;
+	width: 50px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(141,138,138,1);
+}
+#ID8px_i {
+	position: absolute;
+	left: 299px;
+	top: 5933px;
+	overflow: visible;
+	width: 15px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 8px;
+	color: rgba(141,138,138,1);
+}
+.Line_69 {
+	overflow: visible;
+	position: absolute;
+	width: 27.544px;
+	height: 27.544px;
+	left: 890.765px;
+	top: 5883.952px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Line_70 {
+	overflow: visible;
+	position: absolute;
+	width: 27.544px;
+	height: 27.544px;
+	left: 890.765px;
+	top: 5864.34px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Line_71 {
+	overflow: visible;
+	position: absolute;
+	width: 34.063px;
+	height: 1px;
+	left: 900.57px;
+	top: 5900.982px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Line_72 {
+	overflow: visible;
+	position: absolute;
+	width: 1px;
+	height: 40.255px;
+	left: 900.054px;
+	top: 5859.696px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#ID45__je {
+	position: absolute;
+	left: 918px;
+	top: 5885px;
+	overflow: visible;
+	width: 12px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 8px;
+	color: rgba(141,138,138,1);
+}
+#ID10px_jf {
+	position: absolute;
+	left: 871px;
+	top: 5892px;
+	overflow: visible;
+	width: 22px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 9px;
+	color: rgba(141,138,138,1);
+}
+.Line_73 {
+	overflow: visible;
+	position: absolute;
+	width: 26.837px;
+	height: 26.837px;
+	transform: matrix(1,0,0,1,970.9387,5803.8247) rotate(90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.Line_74 {
+	overflow: visible;
+	position: absolute;
+	width: 26.837px;
+	height: 26.837px;
+	transform: matrix(1,0,0,1,951.3272,5803.8247) rotate(90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.Line_75 {
+	overflow: visible;
+	position: absolute;
+	width: 34.062px;
+	height: 0px;
+	transform: matrix(1,0,0,1,969.9066,5830.6614) rotate(90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.Line_76 {
+	overflow: visible;
+	position: absolute;
+	width: 0px;
+	height: 40.255px;
+	transform: matrix(1,0,0,1,966.81,5793.5028) rotate(90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#ID45__jk {
+	position: absolute;
+	left: 935px;
+	top: 5817px;
+	overflow: visible;
+	width: 12px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 8px;
+	color: rgba(141,138,138,1);
+}
+#ID10px_jl {
+	position: absolute;
+	left: 985px;
+	top: 5790px;
+	overflow: visible;
+	width: 22px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 9px;
+	color: rgba(141,138,138,1);
+}
+#_0B29E6_jm {
+	position: absolute;
+	left: 967px;
+	top: 5888px;
+	overflow: visible;
+	width: 51px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(112,112,112,1);
+}
+#Iconography {
+	position: absolute;
+	left: 229px;
+	top: 5391px;
+	overflow: visible;
+	width: 116px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(38,38,38,1);
+}
+#We_have_used_the_line_icons_fo {
+	position: absolute;
+	left: 229px;
+	top: 5430px;
+	overflow: visible;
+	width: 279px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(38,38,38,1);
+}
+#smartphone__2_ {
+	position: absolute;
+	width: 44px;
+	height: 43px;
+	left: 666px;
+	top: 5443px;
+	overflow: visible;
+}
+#workflow {
+	position: absolute;
+	width: 43px;
+	height: 43px;
+	left: 782px;
+	top: 5443px;
+	overflow: visible;
+}
+#cloud_computing__1_ {
+	position: absolute;
+	width: 43px;
+	height: 43px;
+	left: 896px;
+	top: 5438px;
+	overflow: visible;
+}
+.Line_66 {
+	overflow: visible;
+	position: absolute;
+	width: 20.579px;
+	height: 2px;
+	left: 679.229px;
+	top: 5440.743px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Line_67 {
+	overflow: visible;
+	position: absolute;
+	width: 2px;
+	height: 19.547px;
+	left: 823.218px;
+	top: 5451.065px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Line_68 {
+	overflow: visible;
+	position: absolute;
+	width: 2px;
+	height: 13.87px;
+	left: 933.113px;
+	top: 5467.063px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#product_realise__1_ {
+	position: absolute;
+	width: 34px;
+	height: 34px;
+	left: 671px;
+	top: 5560px;
+	overflow: visible;
+}
+#magic_wand {
+	position: absolute;
+	width: 34px;
+	height: 34px;
+	left: 790px;
+	top: 5560px;
+	overflow: visible;
+}
+#gear {
+	position: absolute;
+	width: 35px;
+	height: 35px;
+	left: 899px;
+	top: 5560px;
+	overflow: visible;
+}
+#High_priority {
+	position: absolute;
+	left: 673px;
+	top: 5404px;
+	overflow: visible;
+	width: 75px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(38,38,38,1);
+}
+#Less_priority {
+	position: absolute;
+	left: 673px;
+	top: 5525px;
+	overflow: visible;
+	width: 68px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(38,38,38,1);
+}
+.Ellipse_148_j {
+	position: absolute;
+	overflow: visible;
+	width: 609px;
+	height: 265px;
+	left: 617px;
+	top: 4352px;
+}
+#Wireframes_j {
+	position: absolute;
+	left: 200px;
+	top: 3817px;
+	overflow: visible;
+	width: 606px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 111px;
+	color: rgba(16,16,16,1);
+}
+#Wireframes_ka {
+	position: absolute;
+	left: 307px;
+	top: 3887px;
+	overflow: visible;
+	width: 110px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(201,200,200,1);
+}
+#We_made_wireframes_of_the_webs {
+	position: absolute;
+	left: 200px;
+	top: 3985px;
+	overflow: visible;
+	width: 750px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(141,138,138,1);
+}
+#ID3_01 {
+	position: absolute;
+	left: 276px;
+	top: 3893px;
+	overflow: visible;
+	width: 27px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(141,138,138,1);
+}
+#Design_System {
+	position: absolute;
+	left: 177px;
+	top: 4506px;
+	overflow: visible;
+	width: 764px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 111px;
+	color: rgba(16,16,16,1);
+}
+#Design_System_j {
+	position: absolute;
+	left: 296px;
+	top: 4575px;
+	overflow: visible;
+	width: 139px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(201,200,200,1);
+}
+#ID3_02 {
+	position: absolute;
+	left: 265px;
+	top: 4582px;
+	overflow: visible;
+	width: 27px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(141,138,138,1);
+}
+#ID01 {
+	position: absolute;
+	left: 211px;
+	top: 637px;
+	overflow: visible;
+	width: 15px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(141,138,138,1);
+}
+#Company {
+	position: absolute;
+	left: 191px;
+	top: 286px;
+	overflow: visible;
+	width: 59px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 13px;
+	color: rgba(238,238,238,1);
+}
+#TechnoCube_kb {
+	position: absolute;
+	left: 191px;
+	top: 322px;
+	overflow: visible;
+	width: 69px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(167,167,167,1);
+}
+.Line_79 {
+	overflow: visible;
+	position: absolute;
+	width: 3.049px;
+	height: 112.306px;
+	left: 256.5px;
+	top: 10465.195px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Black_ {
+	position: absolute;
+	left: 213px;
+	top: 10402px;
+	overflow: visible;
+	width: 37px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(141,138,138,1);
+}
+#Bold {
+	position: absolute;
+	left: 213px;
+	top: 10422px;
+	overflow: visible;
+	width: 28px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(141,138,138,1);
+}
+.Ellipse_149 {
+	position: absolute;
+	overflow: visible;
+	width: 3px;
+	height: 5px;
+	left: 205px;
+	top: 10408px;
+}
+.Ellipse_150 {
+	position: absolute;
+	overflow: visible;
+	width: 3px;
+	height: 4px;
+	left: 205px;
+	top: 10429px;
+}
+.Ellipse_151 {
+	position: absolute;
+	overflow: visible;
+	width: 3px;
+	height: 5px;
+	left: 205px;
+	top: 10448px;
+}
+#User_Scenario {
+	position: absolute;
+	left: 208px;
+	top: 724px;
+	overflow: visible;
+	width: 84px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(102,102,102,1);
+}
+#NoPath {
+	position: absolute;
+	width: 55px;
+	height: 55px;
+	left: 208px;
+	top: 1587px;
+	overflow: visible;
+}
+#About {
+	position: absolute;
+	left: 208px;
+	top: 1662px;
+	overflow: visible;
+	width: 36px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(213,213,213,1);
+}
+#Objective {
+	position: absolute;
+	left: 207px;
+	top: 1717px;
+	overflow: visible;
+	width: 55px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(213,213,213,1);
+}
+#ID01_km {
+	position: absolute;
+	left: 259px;
+	top: 6137px;
+	overflow: visible;
+	width: 15px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(141,138,138,1);
+}
+.Line_49 {
+	overflow: visible;
+	position: absolute;
+	width: 1px;
+	height: 27.353px;
+	left: 299.839px;
+	top: 5897.886px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Line_55 {
+	overflow: visible;
+	position: absolute;
+	width: 1px;
+	height: 27.353px;
+	left: 299.839px;
+	top: 5778.153px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Background {
+	position: absolute;
+	left: 191px;
+	top: 377px;
+	overflow: visible;
+	width: 75px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 13px;
+	color: rgba(255,255,255,1);
+}
+#Web_1280___2 {
+	position: absolute;
+	width: 624px;
+	height: 1611px;
+	left: 299px;
+	top: 6568px;
+	overflow: visible;
+}
+#Group_8 {
+	position: absolute;
+	width: 334px;
+	height: 164px;
+	left: 873px;
+	top: 7899px;
+	overflow: visible;
+}
+#images__9_ {
+	position: absolute;
+	width: 327px;
+	height: 160px;
+	left: 2px;
+	top: 0px;
+	overflow: visible;
+}
+#screenbeelse1 {
+	opacity: 0.55;
+}
+.screenbeelse1 {
+	position: absolute;
+	overflow: visible;
+	width: 334px;
+	height: 164px;
+	left: 0px;
+	top: 0px;
+}
+#css_electronics {
+	position: absolute;
+	left: 15px;
+	top: 44px;
+	overflow: visible;
+	width: 100px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(255,255,255,1);
+}
+#We_help_companies_in_generatin {
+	position: absolute;
+	left: 15px;
+	top: 71px;
+	overflow: visible;
+	width: 131px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 5px;
+	color: rgba(255,255,255,1);
+}
+#Analytics {
+	position: absolute;
+	left: 15px;
+	top: 12px;
+	overflow: visible;
+	width: 23px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 5px;
+	color: rgba(255,255,255,1);
+}
+.Line_8 {
+	overflow: visible;
+	position: absolute;
+	width: 27.848px;
+	height: 2px;
+	left: 15.207px;
+	top: 21.343px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Learn_more {
+	position: absolute;
+	left: 15px;
+	top: 108px;
+	overflow: visible;
+	width: 27px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 5px;
+	color: rgba(245,245,245,1);
+}
+.Icon_awesome_arrow_right_kz {
+	overflow: visible;
+	position: absolute;
+	width: 3.278px;
+	height: 3.196px;
+	left: 50.701px;
+	top: 111.391px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#images__11_ {
+	opacity: 0.9;
+	position: absolute;
+	width: 323px;
+	height: 155px;
+	left: 19px;
+	top: 7904px;
+	overflow: visible;
+}
+#Web_1280___2_k {
+	position: absolute;
+	width: 624px;
+	height: 847.275px;
+	left: 292px;
+	top: 8303px;
+	overflow: visible;
+}
+#Group_220 {
+	position: absolute;
+	width: 624px;
+	height: 803.863px;
+	left: 292px;
+	top: 9265px;
+	overflow: visible;
+}
+#Design_k {
+	position: absolute;
+	width: 558px;
+	height: 643.734px;
+	left: 341px;
+	top: 10300px;
+	overflow: visible;
+}
+#Thankyou_ {
+	position: absolute;
+	left: 546px;
+	top: 12402px;
+	overflow: visible;
+	width: 140px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 29px;
+	color: rgba(141,138,138,1);
+}
+#Image_10 {
+	position: absolute;
+	width: 850px;
+	height: 478px;
+	left: 200px;
+	top: 4014px;
+	overflow: visible;
+}
+.Line_144 {
+	overflow: visible;
+	position: absolute;
+	width: 1px;
+	height: 158px;
+	left: 646.5px;
+	top: 1817.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Line_146 {
+	overflow: visible;
+	position: absolute;
+	width: 1px;
+	height: 316.516px;
+	left: 415.5px;
+	top: 1817.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#_Landing_Page__Services_we_dea {
+	position: absolute;
+	left: 234px;
+	top: 1831px;
+	overflow: visible;
+	width: 128px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(128,128,128,1);
+}
+.Path_415 {
+	overflow: visible;
+	position: absolute;
+	width: 1px;
+	height: 1px;
+	left: 206px;
+	top: 1997.486px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#_Ok__This_company_deals_with_a {
+	position: absolute;
+	left: 226px;
+	top: 2035px;
+	overflow: visible;
+	width: 177px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 13px;
+	color: rgba(128,128,128,1);
+}
+#_Great__It_claims_to_have_an_e {
+	position: absolute;
+	left: 437px;
+	top: 2035px;
+	overflow: visible;
+	width: 197px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 13px;
+	color: rgba(128,128,128,1);
+}
+#_what_we_offer__our_xpertise_d {
+	position: absolute;
+	left: 437px;
+	top: 1832px;
+	overflow: visible;
+	width: 127px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(128,128,128,1);
+}
+#_This_seems_a_bit_convincing_e {
+	position: absolute;
+	left: 667px;
+	top: 2035px;
+	overflow: visible;
+	width: 204px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 13px;
+	color: rgba(128,128,128,1);
+}
+#_why_work_with_us__past_projec {
+	position: absolute;
+	left: 667px;
+	top: 1831px;
+	overflow: visible;
+	width: 105px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(128,128,128,1);
+}
+#_Well__I_should_atleast_make_a {
+	position: absolute;
+	left: 897px;
+	top: 2035px;
+	overflow: visible;
+	width: 166px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 13px;
+	color: rgba(128,128,128,1);
+}
+#_contact_us__free_consultation {
+	position: absolute;
+	left: 897px;
+	top: 1832px;
+	overflow: visible;
+	width: 102px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(128,128,128,1);
+}
+#As_Olivia_goes_through_the_web {
+	position: absolute;
+	left: 298px;
+	top: 2167px;
+	overflow: visible;
+	width: 776px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(128,128,128,1);
+}
+#Opportunity {
+	position: absolute;
+	left: 207px;
+	top: 2168px;
+	overflow: visible;
+	width: 71px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(213,213,213,1);
+}
+.Line_148 {
+	overflow: visible;
+	position: absolute;
+	width: 880px;
+	height: 1px;
+	left: 206.5px;
+	top: 1817.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Sections_of_the_page_ {
+	position: absolute;
+	left: 588px;
+	top: 1788px;
+	overflow: visible;
+	width: 118px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(128,128,128,1);
+}
+.Line_150 {
+	overflow: visible;
+	position: absolute;
+	width: 1px;
+	height: 117px;
+	left: 646.5px;
+	top: 2017.016px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Line_151 {
+	overflow: visible;
+	position: absolute;
+	width: 1px;
+	height: 316.516px;
+	left: 876.5px;
+	top: 1817.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#General_thoughts_of_user_ {
+	position: absolute;
+	left: 575px;
+	top: 1990px;
+	overflow: visible;
+	width: 143px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(128,128,128,1);
+}
+.Rectangle_517 {
+	position: absolute;
+	overflow: visible;
+	width: 136px;
+	height: 56px;
+	left: 362px;
+	top: 2538px;
+}
+#Services_we_offer {
+	position: absolute;
+	left: 379px;
+	top: 2558px;
+	overflow: visible;
+	width: 104px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(141,138,138,1);
+}
+#The_black_theme_is_chosen_for_ {
+	position: absolute;
+	left: 299px;
+	top: 6462px;
+	overflow: visible;
+	width: 694px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(141,138,138,1);
+}

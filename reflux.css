@@ -1,0 +1,1270 @@
+.mediaViewInfo {
+	--web-view-name: reflux;
+	--web-view-id: reflux;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: reflux;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#reflux {
+	position: absolute;
+	width: 1263px;
+	height: 13059px;
+	background-color: rgba(239,239,239,1);
+	overflow: hidden;
+	--web-view-name: reflux;
+	--web-view-id: reflux;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+.Rectangle_32 {
+	position: absolute;
+	overflow: visible;
+	width: 1286px;
+	height: 708px;
+	left: -3px;
+	top: 2388px;
+}
+#ID2_ {
+	position: absolute;
+	left: 71px;
+	top: 2526px;
+	overflow: visible;
+	width: 72px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 89px;
+	color: rgba(32,135,185,1);
+}
+.Rectangle_33_ {
+	filter: drop-shadow(0px 20px 45px rgba(0, 0, 0, 0.58));
+	position: absolute;
+	overflow: visible;
+	width: 778px;
+	height: 514px;
+	left: 503px;
+	top: 2537px;
+}
+#Screenshot__160_ {
+	position: absolute;
+	width: 616px;
+	height: 347px;
+	left: 516px;
+	top: 2553px;
+	overflow: visible;
+}
+#Webpage_for_Reflux__7_0_was_de {
+	position: absolute;
+	left: 151px;
+	top: 2544px;
+	overflow: visible;
+	width: 289px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 31px;
+	color: rgba(33,129,166,1);
+}
+#The_design_needed_to_be__simpl {
+	position: absolute;
+	left: 151px;
+	top: 2629px;
+	overflow: visible;
+	width: 283px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(128,128,128,1);
+}
+.Rectangle_31 {
+	position: absolute;
+	overflow: visible;
+	width: 1359px;
+	height: 556px;
+	left: -52px;
+	top: 539px;
+}
+#iPhone_6_7_8___38 {
+	position: absolute;
+	width: 1368px;
+	height: 616px;
+	left: -52px;
+	top: -12px;
+	overflow: visible;
+}
+.banner_bg_be {
+	position: absolute;
+	overflow: visible;
+	width: 1345px;
+	height: 297px;
+	left: -29px;
+	top: 1094px;
+}
+.Rectangle_26 {
+	position: absolute;
+	overflow: visible;
+	width: 1282px;
+	height: 363px;
+	left: -21px;
+	top: 12402px;
+}
+.Rectangle_5 {
+	position: absolute;
+	overflow: visible;
+	width: 1269px;
+	height: 1447px;
+	left: -1px;
+	top: 5969px;
+}
+.Rectangle_3 {
+	position: absolute;
+	overflow: visible;
+	width: 1294px;
+	height: 256px;
+	left: -3px;
+	top: 3937px;
+}
+#About {
+	position: absolute;
+	left: 80px;
+	top: 651px;
+	overflow: visible;
+	width: 127px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 43px;
+	color: rgba(25,134,98,1);
+}
+#Reflux_7_0_is_the_seventh_edit {
+	position: absolute;
+	left: 80px;
+	top: 719px;
+	overflow: visible;
+	width: 1070px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(128,128,128,1);
+}
+#Group_100 {
+	position: absolute;
+	width: 635.95px;
+	height: 234.845px;
+	left: 332.454px;
+	top: 96.787px;
+	overflow: visible;
+}
+#Annual_Chemical_Engineering_Sy {
+	position: absolute;
+	left: 233.95px;
+	top: 122.893px;
+	overflow: visible;
+	width: 403px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 21px;
+	color: rgba(81,80,80,1);
+}
+#Reflux_7_0 {
+	filter: drop-shadow(0px 20px 20px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	left: 234.921px;
+	top: 22.722px;
+	overflow: visible;
+	width: 328px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 74px;
+	color: rgba(6,28,58,1);
+}
+#Group_8 {
+	filter: drop-shadow(0px 20px 31px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	width: 234.936px;
+	height: 234.845px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#My_Role {
+	position: absolute;
+	left: 80px;
+	top: 850px;
+	overflow: visible;
+	width: 166px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 43px;
+	color: rgba(25,134,98,1);
+}
+#As_the_Design_Head_of_the_whol {
+	position: absolute;
+	left: 80px;
+	top: 917px;
+	overflow: visible;
+	width: 1024px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(128,128,128,1);
+}
+#Event_flyers {
+	position: absolute;
+	left: 175px;
+	top: 4002px;
+	overflow: visible;
+	width: 163px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 31px;
+	color: rgba(32,142,159,1);
+}
+#ID4_ {
+	position: absolute;
+	left: 95px;
+	top: 3981px;
+	overflow: visible;
+	width: 74px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 89px;
+	color: rgba(32,142,159,1);
+}
+#ID3_fold_event_flyers__both_fr {
+	position: absolute;
+	left: 175px;
+	top: 4050px;
+	overflow: visible;
+	width: 949px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(128,128,128,1);
+}
+.Rectangle_4 {
+	position: absolute;
+	overflow: visible;
+	width: 1269px;
+	height: 1532px;
+	left: -3px;
+	top: 4181px;
+}
+#Custom_Size___1 {
+	filter: drop-shadow(0px 20px 35px rgba(0, 0, 0, 0.412));
+	position: absolute;
+	width: 928px;
+	height: 656px;
+	left: 175px;
+	top: 4252px;
+	overflow: visible;
+}
+#Custom_Size___3 {
+	filter: drop-shadow(0px 20px 35px rgba(0, 0, 0, 0.412));
+	position: absolute;
+	width: 928px;
+	height: 656px;
+	left: 173px;
+	top: 4987px;
+	overflow: visible;
+}
+#iPhone_6_7_8___23 {
+	filter: drop-shadow(0px 20px 35px rgba(0, 0, 0, 0.329));
+	position: absolute;
+	width: 463px;
+	height: 656px;
+	left: 151px;
+	top: 6015px;
+	overflow: visible;
+}
+#iPhone_6_7_8___24 {
+	filter: drop-shadow(0px 20px 35px rgba(0, 0, 0, 0.329));
+	position: absolute;
+	width: 463px;
+	height: 656px;
+	left: 650px;
+	top: 6015px;
+	overflow: visible;
+}
+#iPhone_6_7_8___25 {
+	filter: drop-shadow(0px 20px 35px rgba(0, 0, 0, 0.329));
+	position: absolute;
+	width: 462.848px;
+	height: 654.557px;
+	left: 382.602px;
+	top: 6708.597px;
+	overflow: visible;
+}
+.Rectangle_6 {
+	position: absolute;
+	overflow: visible;
+	width: 1310px;
+	height: 256px;
+	left: -3px;
+	top: 1385px;
+}
+#Changing_the_logo {
+	position: absolute;
+	left: 177px;
+	top: 1440px;
+	overflow: visible;
+	width: 263px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 31px;
+	color: rgba(33,129,166,1);
+}
+#ID1_ {
+	position: absolute;
+	left: 105px;
+	top: 1420px;
+	overflow: visible;
+	width: 58px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 89px;
+	color: rgba(32,135,185,1);
+}
+#Many_people_were_not_satisfied {
+	position: absolute;
+	left: 177px;
+	top: 1489px;
+	overflow: visible;
+	width: 931px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(128,128,128,1);
+}
+#ID64285_746847025363245_636920 {
+	position: absolute;
+	width: 174px;
+	height: 130px;
+	left: 218px;
+	top: 1733px;
+	overflow: visible;
+}
+#First_letter_of__Reflux_ {
+	position: absolute;
+	left: 107px;
+	top: 2119px;
+	overflow: visible;
+	width: 190px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 21px;
+	color: rgba(131,131,131,1);
+}
+#Group_8_b {
+	position: absolute;
+	width: 176.013px;
+	height: 176.013px;
+	left: 796.261px;
+	top: 1709.663px;
+	overflow: visible;
+}
+#ID211670_512__3_ {
+	filter: drop-shadow(0px 50px 40px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	width: 176.013px;
+	height: 176.013px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Ellipse_13 {
+	position: absolute;
+	overflow: visible;
+	width: 82.264px;
+	height: 83.191px;
+	left: 46.81px;
+	top: 46.409px;
+}
+#R {
+	position: absolute;
+	left: 59.997px;
+	top: 48.975px;
+	overflow: visible;
+	width: 42px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Berlin Sans FB;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 69px;
+	color: rgba(17,17,17,1);
+}
+.Path_24 {
+	overflow: visible;
+	position: absolute;
+	width: 46.977px;
+	height: 34.787px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,50.3027,86.5427) rotate(67deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.Path_25 {
+	overflow: visible;
+	position: absolute;
+	width: 46.977px;
+	height: 17.346px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,40.5086,75.8166) rotate(67deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#R_cb {
+	position: absolute;
+	left: 73.114px;
+	top: 48.975px;
+	overflow: visible;
+	width: 42px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Berlin Sans FB;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 69px;
+	color: rgba(17,17,17,1);
+}
+.Path_26 {
+	overflow: visible;
+	position: absolute;
+	width: 46.977px;
+	height: 40.392px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,53.925,87.1878) rotate(67deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.Path_27 {
+	overflow: visible;
+	position: absolute;
+	width: 25.876px;
+	height: 17.934px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,76.4713,71.0386) rotate(2deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#onlinelogomaker_051219_1326_07 {
+	position: absolute;
+	width: 81.479px;
+	height: 49.483px;
+	left: 36.83px;
+	top: 71.002px;
+	overflow: visible;
+}
+.Rectangle_21 {
+	position: absolute;
+	overflow: visible;
+	width: 2.709px;
+	height: 1.141px;
+	left: 90.65px;
+	top: 87.968px;
+}
+#Group_101 {
+	position: absolute;
+	width: 1252px;
+	height: 256px;
+	left: 6px;
+	top: 7416px;
+	overflow: visible;
+}
+.Rectangle_23 {
+	position: absolute;
+	overflow: visible;
+	width: 1252px;
+	height: 256px;
+	left: 0px;
+	top: 0px;
+}
+#Certificates {
+	position: absolute;
+	left: 171px;
+	top: 94px;
+	overflow: visible;
+	width: 159px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 31px;
+	color: rgba(20,120,136,1);
+}
+#Certificates_of_appreciation_t {
+	position: absolute;
+	left: 171px;
+	top: 137px;
+	overflow: visible;
+	width: 820px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 26px;
+	color: rgba(128,128,128,1);
+}
+#ID6_ {
+	position: absolute;
+	left: 92px;
+	top: 69px;
+	overflow: visible;
+	width: 72px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 89px;
+	color: rgba(20,120,136,1);
+}
+.Rectangle_24 {
+	position: absolute;
+	overflow: visible;
+	width: 1269px;
+	height: 975px;
+	left: -1px;
+	top: 7672px;
+}
+#iPhone_6_7_8___4 {
+	filter: drop-shadow(0px 20px 35px rgba(0, 0, 0, 0.431));
+	position: absolute;
+	width: 928.263px;
+	height: 649.941px;
+	left: 167.548px;
+	top: 7834.581px;
+	overflow: visible;
+}
+.Rectangle_25 {
+	position: absolute;
+	overflow: visible;
+	width: 1269px;
+	height: 1637px;
+	left: -1px;
+	top: 8903px;
+}
+#iPhone_6_7_8___20 {
+	filter: drop-shadow(0px 20px 35px rgba(0, 0, 0, 0.431));
+	position: absolute;
+	width: 484.674px;
+	height: 349.436px;
+	left: 109.772px;
+	top: 9072.906px;
+	overflow: visible;
+}
+#iPhone_6_7_8___18 {
+	filter: drop-shadow(0px 20px 35px rgba(0, 0, 0, 0.431));
+	position: absolute;
+	width: 484.674px;
+	height: 685.424px;
+	left: 668.912px;
+	top: 9069.697px;
+	overflow: visible;
+}
+#iPhone_6_7_8___119 {
+	filter: drop-shadow(0px 20px 35px rgba(0, 0, 0, 0.431));
+	position: absolute;
+	width: 484px;
+	height: 691px;
+	left: 110px;
+	top: 9487px;
+	overflow: visible;
+}
+#Group_83 {
+	position: absolute;
+	width: 1269px;
+	height: 138px;
+	left: -1px;
+	top: 12633px;
+	overflow: visible;
+}
+#Thankyou {
+	position: absolute;
+	left: 517px;
+	top: 12521px;
+	overflow: visible;
+	width: 237px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 53px;
+	color: rgba(10,10,10,1);
+}
+.Rectangle_27 {
+	position: absolute;
+	overflow: visible;
+	width: 1252px;
+	height: 256px;
+	left: 6px;
+	top: 5713px;
+}
+#Workshop_posters {
+	position: absolute;
+	left: 173px;
+	top: 5795px;
+	overflow: visible;
+	width: 257px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 31px;
+	color: rgba(32,142,159,1);
+}
+#ID5_ {
+	position: absolute;
+	left: 94px;
+	top: 5773px;
+	overflow: visible;
+	width: 72px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 89px;
+	color: rgba(32,142,159,1);
+}
+#ID3_Posters_needed_to_be_desig {
+	position: absolute;
+	left: 173px;
+	top: 5841px;
+	overflow: visible;
+	width: 951px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(128,128,128,1);
+}
+.Rectangle_28 {
+	position: absolute;
+	overflow: visible;
+	width: 1252px;
+	height: 256px;
+	left: 6px;
+	top: 8647px;
+}
+#Other_posters {
+	position: absolute;
+	left: 180px;
+	top: 8737px;
+	overflow: visible;
+	width: 193px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 31px;
+	color: rgba(40,135,165,1);
+}
+#ID7_ {
+	position: absolute;
+	left: 96px;
+	top: 8716px;
+	overflow: visible;
+	width: 70px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 89px;
+	color: rgba(40,135,165,1);
+}
+#Posters_of_other_event_ {
+	position: absolute;
+	left: 180px;
+	top: 8783px;
+	overflow: visible;
+	width: 258px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 26px;
+	color: rgba(128,128,128,1);
+}
+#Paheli {
+	filter: drop-shadow(0px 20px 35px rgba(0, 0, 0, 0.412));
+	position: absolute;
+	width: 484.674px;
+	height: 596.521px;
+	left: 668.912px;
+	top: 9832.336px;
+	overflow: visible;
+}
+.Rectangle_29 {
+	position: absolute;
+	overflow: visible;
+	width: 1286px;
+	height: 256px;
+	left: -3px;
+	top: 3052px;
+}
+#Facebook_cover_picture {
+	position: absolute;
+	left: 175px;
+	top: 3114px;
+	overflow: visible;
+	width: 327px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 31px;
+	color: rgba(32,142,159,1);
+}
+#ID3__ {
+	position: absolute;
+	left: 95px;
+	top: 3096px;
+	overflow: visible;
+	width: 72px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 89px;
+	color: rgba(32,142,159,1);
+}
+#A_cover_picture_was_required_t {
+	position: absolute;
+	left: 175px;
+	top: 3164px;
+	overflow: visible;
+	width: 937px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(128,128,128,1);
+}
+.Rectangle_30 {
+	position: absolute;
+	overflow: visible;
+	width: 1269px;
+	height: 629px;
+	left: -3px;
+	top: 3308px;
+}
+#Reflux_banner {
+	filter: drop-shadow(0px 20px 35px rgba(0, 0, 0, 0.431));
+	position: absolute;
+	width: 962.928px;
+	height: 433.731px;
+	left: 150.215px;
+	top: 3395.482px;
+	overflow: visible;
+}
+#Headed_a_team_of_5_people_in_t {
+	position: absolute;
+	left: 517px;
+	top: 1268px;
+	overflow: visible;
+	width: 223px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(255,255,255,1);
+}
+#Conceptualized_and_designed_20 {
+	position: absolute;
+	left: 162px;
+	top: 1269px;
+	overflow: visible;
+	width: 243px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(255,255,255,1);
+}
+#group__6_ {
+	position: absolute;
+	width: 69px;
+	height: 69px;
+	left: 597px;
+	top: 1162px;
+	overflow: visible;
+}
+#poster {
+	position: absolute;
+	width: 69px;
+	height: 69px;
+	left: 256px;
+	top: 1162px;
+	overflow: visible;
+}
+.Rectangle_176 {
+	position: absolute;
+	overflow: visible;
+	width: 1269px;
+	height: 1681px;
+	left: -1px;
+	top: 10796px;
+}
+#iPhone_X_XS___7 {
+	filter: drop-shadow(0px 20px 35px rgba(0, 0, 0, 0.431));
+	position: absolute;
+	width: 481px;
+	height: 685px;
+	left: 113px;
+	top: 10921px;
+	overflow: visible;
+}
+.Rectangle_177 {
+	position: absolute;
+	overflow: visible;
+	width: 1252px;
+	height: 256px;
+	left: 6px;
+	top: 10540px;
+}
+#Souveneir_Design {
+	position: absolute;
+	left: 180px;
+	top: 10636px;
+	overflow: visible;
+	width: 246px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 31px;
+	color: rgba(47,61,155,1);
+}
+#ID7__dg {
+	position: absolute;
+	left: 96px;
+	top: 10609px;
+	overflow: visible;
+	width: 70px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 89px;
+	color: rgba(47,61,155,1);
+}
+#An__abstract_book__had_to_be_d {
+	position: absolute;
+	left: 180px;
+	top: 10685px;
+	overflow: visible;
+	width: 1003px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 26px;
+	color: rgba(128,128,128,1);
+}
+#iPhone_X_XS___13 {
+	filter: drop-shadow(0px 20px 35px rgba(0, 0, 0, 0.431));
+	position: absolute;
+	width: 475px;
+	height: 678px;
+	left: 116px;
+	top: 11675px;
+	overflow: visible;
+}
+#iPhone_6_7_8___128 {
+	filter: drop-shadow(0px 20px 35px rgba(0, 0, 0, 0.431));
+	position: absolute;
+	width: 476px;
+	height: 678px;
+	left: 670px;
+	top: 11675px;
+	overflow: visible;
+}
+#iPhone_X_XS___8 {
+	filter: drop-shadow(0px 20px 35px rgba(0, 0, 0, 0.431));
+	position: absolute;
+	width: 481px;
+	height: 685px;
+	left: 670px;
+	top: 10921px;
+	overflow: visible;
+}
+#Colors_used {
+	position: absolute;
+	left: 108px;
+	top: 2198px;
+	overflow: visible;
+	width: 224px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 42px;
+	color: rgba(91,92,91,1);
+}
+.Ellipse_14 {
+	position: absolute;
+	overflow: visible;
+	width: 63.448px;
+	height: 63.448px;
+	left: 105.315px;
+	top: 2289.398px;
+}
+.Ellipse_15 {
+	position: absolute;
+	overflow: visible;
+	width: 63.448px;
+	height: 63.448px;
+	left: 144.191px;
+	top: 2289.398px;
+}
+.Ellipse_16 {
+	position: absolute;
+	overflow: visible;
+	width: 63.448px;
+	height: 63.448px;
+	left: 180.867px;
+	top: 2289.398px;
+}
+.Ellipse_17 {
+	position: absolute;
+	overflow: visible;
+	width: 63.448px;
+	height: 63.448px;
+	left: 219.009px;
+	top: 2289.398px;
+}
+#Previous_logo {
+	position: absolute;
+	left: 238px;
+	top: 1892px;
+	overflow: visible;
+	width: 133px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 22px;
+	color: rgba(91,92,91,1);
+}
+#Relates_to_chemical__engineeri {
+	position: absolute;
+	left: 332px;
+	top: 2119px;
+	overflow: visible;
+	width: 195px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(131,131,131,1);
+}
+#R_ds {
+	position: absolute;
+	left: 184px;
+	top: 2040px;
+	overflow: visible;
+	width: 36px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 59px;
+	color: rgba(42,42,42,1);
+}
+#_ {
+	position: absolute;
+	left: 305px;
+	top: 2050px;
+	overflow: visible;
+	width: 32px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 45px;
+	color: rgba(131,131,131,1);
+}
+#flask__1_ {
+	position: absolute;
+	width: 46px;
+	height: 47px;
+	left: 408px;
+	top: 2063px;
+	overflow: visible;
+}
+#__dv {
+	position: absolute;
+	left: 526px;
+	top: 2049px;
+	overflow: visible;
+	width: 32px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 45px;
+	color: rgba(131,131,131,1);
+}
+#settings__2_ {
+	position: absolute;
+	width: 45px;
+	height: 45px;
+	left: 628px;
+	top: 2065px;
+	overflow: visible;
+}
+#Relates_to_chemical__engineeri_dx {
+	position: absolute;
+	left: 558px;
+	top: 2119px;
+	overflow: visible;
+	width: 195px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(131,131,131,1);
+}
+#__dy {
+	position: absolute;
+	left: 796px;
+	top: 2055px;
+	overflow: visible;
+	width: 29px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 41px;
+	color: rgba(131,131,131,1);
+}
+#Curated_the_simple_user_experi {
+	position: absolute;
+	left: 831px;
+	top: 1269px;
+	overflow: visible;
+	width: 293px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(255,255,255,1);
+}
+#website {
+	position: absolute;
+	width: 69px;
+	height: 69px;
+	left: 938px;
+	top: 1175px;
+	overflow: visible;
+}
+#New_logo {
+	position: absolute;
+	left: 836px;
+	top: 1892px;
+	overflow: visible;
+	width: 95px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 22px;
+	color: rgba(91,92,91,1);
+}
+#Group_243 {
+	position: absolute;
+	width: 278.673px;
+	height: 278.673px;
+	left: 909.887px;
+	top: 1975.484px;
+	overflow: visible;
+}
+#ID211670_512__3__d {
+	filter: drop-shadow(0px 50px 40px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	width: 278.673px;
+	height: 278.673px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Ellipse_13_d {
+	position: absolute;
+	overflow: visible;
+	width: 130.244px;
+	height: 131.712px;
+	left: 74.111px;
+	top: 73.477px;
+}
+#R_d {
+	position: absolute;
+	left: 94.991px;
+	top: 77.54px;
+	overflow: visible;
+	width: 66px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Berlin Sans FB;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 110px;
+	color: rgba(17,17,17,1);
+}
+.Path_24_d {
+	overflow: visible;
+	position: absolute;
+	width: 74.377px;
+	height: 55.077px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,79.6418,137.0188) rotate(67deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.Path_25_d {
+	overflow: visible;
+	position: absolute;
+	width: 74.377px;
+	height: 27.463px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,64.1353,120.0368) rotate(67deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#R_ea {
+	position: absolute;
+	left: 115.758px;
+	top: 77.54px;
+	overflow: visible;
+	width: 66px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Berlin Sans FB;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 110px;
+	color: rgba(17,17,17,1);
+}
+.Path_26_d {
+	overflow: visible;
+	position: absolute;
+	width: 74.377px;
+	height: 63.95px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,85.3769,138.0402) rotate(67deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.Path_27_ea {
+	overflow: visible;
+	position: absolute;
+	width: 40.968px;
+	height: 28.395px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,121.0734,112.472) rotate(2deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#onlinelogomaker_051219_1326_07_eb {
+	position: absolute;
+	width: 129.002px;
+	height: 78.344px;
+	left: 58.311px;
+	top: 112.415px;
+	overflow: visible;
+}
+.Rectangle_21_ec {
+	position: absolute;
+	overflow: visible;
+	width: 4.289px;
+	height: 1.806px;
+	left: 143.522px;
+	top: 139.276px;
+}

@@ -1,0 +1,1583 @@
+.mediaViewInfo {
+	--web-view-name: silverjubilee;
+	--web-view-id: silverjubilee;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: silverjubilee;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#silverjubilee {
+	position: absolute;
+	width: 1263px;
+	height: 15250px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: silverjubilee;
+	--web-view-id: silverjubilee;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+#Group_216 {
+	position: absolute;
+	width: 2146.479px;
+	height: 1430.411px;
+	left: -352.013px;
+	top: 11053.813px;
+	overflow: visible;
+}
+.Path_33_ {
+	overflow: visible;
+	position: absolute;
+	width: 2146.479px;
+	height: 1430.411px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#ID02__year_section {
+	position: absolute;
+	left: 821.013px;
+	top: 757.187px;
+	overflow: visible;
+	width: 354px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Oswald;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 53px;
+	color: rgba(20,25,74,1);
+}
+#Group_215 {
+	position: absolute;
+	width: 1344.346px;
+	height: 737.245px;
+	left: -9.188px;
+	top: 5479.269px;
+	overflow: visible;
+}
+#ID56877101_2054187744630041_48 {
+	position: absolute;
+	width: 1344.346px;
+	height: 736.759px;
+	left: 0px;
+	top: 0.197px;
+	overflow: visible;
+}
+#Rectangle_3 {
+	opacity: 0.32;
+}
+.Rectangle_3 {
+	position: absolute;
+	overflow: visible;
+	width: 1343.874px;
+	height: 737.245px;
+	left: 0.291px;
+	top: 0px;
+}
+.Path_29 {
+	overflow: visible;
+	position: absolute;
+	width: 2146.479px;
+	height: 1430.411px;
+	left: -426.477px;
+	top: 2427.588px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Web_1280___15 {
+	filter: drop-shadow(0px 0px 31px rgba(0, 0, 0, 0.329));
+	position: absolute;
+	width: 981px;
+	height: 9169px;
+	left: 169px;
+	top: 2894px;
+	overflow: visible;
+}
+.Path_31 {
+	overflow: visible;
+	position: absolute;
+	width: 237.397px;
+	height: 1px;
+	left: 759.825px;
+	top: 5055.352px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Colors_and_Typography {
+	position: absolute;
+	left: 96px;
+	top: 1598px;
+	overflow: visible;
+	width: 748px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Oswald;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 75px;
+	color: rgba(20,25,74,1);
+}
+.Ellipse_15 {
+	position: absolute;
+	overflow: visible;
+	width: 113.292px;
+	height: 113.292px;
+	left: 165.554px;
+	top: 1730.768px;
+}
+.Ellipse_16 {
+	position: absolute;
+	overflow: visible;
+	width: 113.292px;
+	height: 113.292px;
+	left: 231.041px;
+	top: 1730.768px;
+}
+.Ellipse_17 {
+	position: absolute;
+	overflow: visible;
+	width: 113.292px;
+	height: 113.292px;
+	left: 299.148px;
+	top: 1730.768px;
+}
+#abcdefghijklmnopqrstuvwxyz {
+	position: absolute;
+	left: 100px;
+	top: 2043px;
+	overflow: visible;
+	width: 309px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(20,25,74,1);
+}
+#abcdefghijklmnopqrstuvwxyz_bj {
+	position: absolute;
+	left: 100px;
+	top: 2088px;
+	overflow: visible;
+	width: 383px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(20,25,74,1);
+}
+#Regular {
+	position: absolute;
+	left: 100px;
+	top: 1972px;
+	overflow: visible;
+	width: 148px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 44px;
+	color: rgba(20,25,74,1);
+}
+#abcdefghijklmnopqrstuvwxyz_bl {
+	position: absolute;
+	left: 691px;
+	top: 2043px;
+	overflow: visible;
+	width: 321px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 24px;
+	color: rgba(20,25,74,1);
+}
+#abcdefghijklmnopqrstuvwxyz_bm {
+	position: absolute;
+	left: 691px;
+	top: 2088px;
+	overflow: visible;
+	width: 396px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 24px;
+	color: rgba(20,25,74,1);
+}
+#SemiBold {
+	position: absolute;
+	left: 691px;
+	top: 1972px;
+	overflow: visible;
+	width: 190px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 44px;
+	color: rgba(20,25,74,1);
+}
+#Segoe_UI {
+	position: absolute;
+	left: 96px;
+	top: 1891px;
+	overflow: visible;
+	width: 180px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 44px;
+	color: rgba(141,138,138,1);
+}
+#ID41741214_1775864965795655_26 {
+	position: absolute;
+	width: 1343.066px;
+	height: 322.003px;
+	left: -16.562px;
+	top: 7226.532px;
+	overflow: visible;
+}
+#Rectangle_156 {
+	opacity: 0.89;
+}
+.Rectangle_156 {
+	filter: drop-shadow(0px 0px 18px rgba(0, 0, 0, 0.851));
+	position: absolute;
+	overflow: visible;
+	width: 1379.54px;
+	height: 376.003px;
+	left: -8.943px;
+	top: 7226.532px;
+}
+#teacher {
+	position: absolute;
+	width: 74.186px;
+	height: 74.186px;
+	left: 453.322px;
+	top: 7373.002px;
+	overflow: visible;
+}
+#ID5810 {
+	position: absolute;
+	left: 238.607px;
+	top: 7361.713px;
+	overflow: visible;
+	width: 102px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 47px;
+	color: rgba(255,255,255,1);
+}
+#Students {
+	position: absolute;
+	left: 246.672px;
+	top: 7424.959px;
+	overflow: visible;
+	width: 92px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Century Gothic;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 22px;
+	color: rgba(255,255,255,1);
+}
+#ID412 {
+	position: absolute;
+	left: 544.443px;
+	top: 7354.456px;
+	overflow: visible;
+	width: 80px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 49px;
+	color: rgba(255,255,255,1);
+}
+#Faculty {
+	position: absolute;
+	left: 548.475px;
+	top: 7417.701px;
+	overflow: visible;
+	width: 78px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Century Gothic;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 22px;
+	color: rgba(255,255,255,1);
+}
+#ID55 {
+	position: absolute;
+	left: 750.904px;
+	top: 7364.97px;
+	overflow: visible;
+	width: 34px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 31px;
+	color: rgba(255,255,255,1);
+}
+#ID518 {
+	position: absolute;
+	left: 736.146px;
+	top: 7401.868px;
+	overflow: visible;
+	width: 53px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 32px;
+	color: rgba(255,255,255,1);
+}
+#NPDF_PDF_RA {
+	position: absolute;
+	left: 797.026px;
+	top: 7385.264px;
+	overflow: visible;
+	width: 80px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Century Gothic;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(255,255,255,1);
+}
+#Non_Faculty {
+	position: absolute;
+	left: 797.026px;
+	top: 7417.549px;
+	overflow: visible;
+	width: 71px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Century Gothic;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(255,255,255,1);
+}
+#People {
+	position: absolute;
+	left: 595.935px;
+	top: 7257.045px;
+	overflow: visible;
+	width: 117px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Century;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 38px;
+	color: rgba(255,255,255,1);
+}
+.Line_32 {
+	overflow: visible;
+	position: absolute;
+	width: 48.889px;
+	height: 3px;
+	left: 596.396px;
+	top: 7310.085px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_32_b {
+	overflow: visible;
+	position: absolute;
+	width: 2146.479px;
+	height: 1430.411px;
+	left: -531px;
+	top: -331px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#JUBILEE {
+	position: absolute;
+	left: 709px;
+	top: 285px;
+	overflow: visible;
+	width: 318px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Oswald;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 112px;
+	color: rgba(213,213,213,1);
+}
+#OF_IIT_GUWAHATI {
+	position: absolute;
+	left: 712px;
+	top: 442px;
+	overflow: visible;
+	width: 226px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Oswald;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 36px;
+	color: rgba(213,213,213,1);
+}
+#Group_235 {
+	position: absolute;
+	width: 952.591px;
+	height: 492.217px;
+	left: -286.765px;
+	top: 82.161px;
+	overflow: visible;
+}
+#Group_233 {
+	position: absolute;
+	width: 952.591px;
+	height: 492.217px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Untitled {
+	position: absolute;
+	width: 952.591px;
+	height: 492.217px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Events {
+	position: absolute;
+	left: 338.981px;
+	top: 31.146px;
+	overflow: visible;
+	width: 39px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 13px;
+	color: rgba(124,124,124,1);
+}
+#Gallery {
+	position: absolute;
+	left: 577.775px;
+	top: 31.146px;
+	overflow: visible;
+	width: 42px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 13px;
+	color: rgba(124,124,124,1);
+}
+#About_Us {
+	position: absolute;
+	left: 651.866px;
+	top: 31.146px;
+	overflow: visible;
+	width: 56px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 13px;
+	color: rgba(124,124,124,1);
+}
+#Timeline {
+	position: absolute;
+	left: 494.244px;
+	top: 31.146px;
+	overflow: visible;
+	width: 51px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 13px;
+	color: rgba(124,124,124,1);
+}
+#Message {
+	position: absolute;
+	left: 409.298px;
+	top: 31.146px;
+	overflow: visible;
+	width: 53px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 13px;
+	color: rgba(124,124,124,1);
+}
+#IIT_Guwahati {
+	position: absolute;
+	left: 270.35px;
+	top: 308.899px;
+	overflow: visible;
+	width: 203px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 37px;
+	color: rgba(255,255,255,1);
+}
+#Celebrating_25_years {
+	position: absolute;
+	left: 121.123px;
+	top: 191.216px;
+	overflow: visible;
+	width: 477px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Edwardian Script ITC;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 72px;
+	color: rgba(255,255,255,1);
+}
+#keyboard_right_arrow_button {
+	position: absolute;
+	width: 23.658px;
+	height: 23.658px;
+	left: 374.081px;
+	top: 438.715px;
+	overflow: visible;
+}
+#IITG_Silver_Jubilee_Logo_Desig {
+	position: absolute;
+	width: 55.809px;
+	height: 48.678px;
+	left: 68.15px;
+	top: 9.28px;
+	overflow: visible;
+}
+.Rectangle_157 {
+	position: absolute;
+	overflow: visible;
+	width: 221px;
+	height: 5px;
+	left: 714px;
+	top: 510px;
+}
+.Rectangle_158 {
+	position: absolute;
+	overflow: visible;
+	width: 221px;
+	height: 11px;
+	left: 714px;
+	top: 519px;
+}
+#SILVER {
+	position: absolute;
+	left: 709px;
+	top: 161px;
+	overflow: visible;
+	width: 283px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Oswald;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 112px;
+	color: rgba(213,213,213,1);
+}
+#concept {
+	position: absolute;
+	left: 95px;
+	top: 979px;
+	overflow: visible;
+	width: 256px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Oswald;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 75px;
+	color: rgba(20,25,74,1);
+}
+#IIT_Guwahati_completes_prestig {
+	position: absolute;
+	left: 96px;
+	top: 1113px;
+	overflow: visible;
+	width: 1104px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 28px;
+	color: rgba(141,138,138,1);
+}
+#my_role {
+	position: absolute;
+	left: 95px;
+	top: 1285px;
+	overflow: visible;
+	width: 243px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Oswald;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 75px;
+	color: rgba(20,25,74,1);
+}
+#I_was_responsible_for_conceptu {
+	position: absolute;
+	left: 95px;
+	top: 1419px;
+	overflow: visible;
+	width: 1153px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 28px;
+	color: rgba(141,138,138,1);
+}
+#abcdefghijklmnopqrstuvwxyz_cp {
+	position: absolute;
+	left: 100px;
+	top: 2307px;
+	overflow: visible;
+	width: 326px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Century;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(20,25,74,1);
+}
+#abcdefghijklmnopqrstuvwxyz_cq {
+	position: absolute;
+	left: 100px;
+	top: 2352px;
+	overflow: visible;
+	width: 454px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Century;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(20,25,74,1);
+}
+#Regular_cr {
+	position: absolute;
+	left: 100px;
+	top: 2237px;
+	overflow: visible;
+	width: 163px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Century;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 44px;
+	color: rgba(20,25,74,1);
+}
+#Century {
+	position: absolute;
+	left: 96px;
+	top: 2162px;
+	overflow: visible;
+	width: 169px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Century;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 44px;
+	color: rgba(141,138,138,1);
+}
+#ID01__homepage {
+	position: absolute;
+	left: 535px;
+	top: 2736px;
+	overflow: visible;
+	width: 286px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Oswald;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 53px;
+	color: rgba(198,198,198,1);
+}
+#Web_1280___6 {
+	filter: drop-shadow(0px 0px 31px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	width: 981.697px;
+	height: 472.822px;
+	left: 168.553px;
+	top: 11940.551px;
+	overflow: visible;
+}
+#Group_217 {
+	position: absolute;
+	width: 306px;
+	height: 78px;
+	left: 505px;
+	top: 12605px;
+	overflow: visible;
+}
+#ID03__Event_page {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 307px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Oswald;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 53px;
+	color: rgba(20,25,74,1);
+}
+#Web_1280___24 {
+	filter: drop-shadow(0px 0px 31px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	width: 982px;
+	height: 1661px;
+	left: 156px;
+	top: 12733px;
+	overflow: visible;
+}
+#Group_218 {
+	position: absolute;
+	width: 226px;
+	height: 78px;
+	left: 534px;
+	top: 14941px;
+	overflow: visible;
+}
+#thankyou_ {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 227px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Oswald;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 53px;
+	color: rgba(20,25,74,1);
+}
+.Rectangle_159 {
+	filter: drop-shadow(0px 3px 9px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 299px;
+	height: 159px;
+	left: 49px;
+	top: 9207px;
+}
+.Path_34 {
+	overflow: visible;
+	position: absolute;
+	width: 303.885px;
+	height: 1px;
+	left: 321.239px;
+	top: 9272.822px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#_See_more__expands_the__timeli {
+	position: absolute;
+	left: 88px;
+	top: 9236px;
+	overflow: visible;
+	width: 191px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(83,72,72,1);
+}
+.Rectangle_160 {
+	position: absolute;
+	overflow: visible;
+	width: 139px;
+	height: 24px;
+	left: 221px;
+	top: 9804px;
+}
+.Rectangle_161 {
+	filter: drop-shadow(0px 3px 9px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 299px;
+	height: 159px;
+	left: 49px;
+	top: 9772px;
+}
+#_Previous_meetups__opens__up_a {
+	position: absolute;
+	left: 78px;
+	top: 9801px;
+	overflow: visible;
+	width: 208px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(83,72,72,1);
+}
+.Rectangle_173 {
+	filter: drop-shadow(0px 3px 9px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 299px;
+	height: 160px;
+	left: 10px;
+	top: 5859px;
+}
+.Path_36 {
+	overflow: visible;
+	position: absolute;
+	width: 79.929px;
+	height: 1px;
+	left: 282.299px;
+	top: 5925.694px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Each_card_yields_to_a_differen {
+	position: absolute;
+	left: 30px;
+	top: 5899px;
+	overflow: visible;
+	width: 240px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(83,72,72,1);
+}
+#UI_UX {
+	position: absolute;
+	left: 709px;
+	top: 134px;
+	overflow: visible;
+	width: 80px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Oswald;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 36px;
+	color: rgba(213,213,213,1);
+}
+.Line_1 {
+	filter: drop-shadow(0px -16px 65px rgba(0, 0, 0, 0.569));
+	overflow: visible;
+	position: absolute;
+	width: 1033.234px;
+	height: 205px;
+	left: 225.596px;
+	top: 14564.216px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Rectangle_36 {
+	position: absolute;
+	overflow: visible;
+	width: 952px;
+	height: 78px;
+	left: 171px;
+	top: 14554px;
+}
+#ELEGANT {
+	position: absolute;
+	left: 205px;
+	top: 14680px;
+	overflow: visible;
+	width: 196px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 43px;
+	color: rgba(54,54,54,1);
+	letter-spacing: 0.28px;
+}
+#PASSIONATE {
+	position: absolute;
+	left: 449px;
+	top: 14680px;
+	overflow: visible;
+	width: 260px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 43px;
+	color: rgba(54,54,54,1);
+	letter-spacing: 0.28px;
+}
+#CLEAN {
+	position: absolute;
+	left: 758px;
+	top: 14680px;
+	overflow: visible;
+	width: 134px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 43px;
+	color: rgba(54,54,54,1);
+	letter-spacing: 0.28px;
+}
+.Line_2 {
+	overflow: visible;
+	position: absolute;
+	width: 1px;
+	height: 32.108px;
+	left: 426.445px;
+	top: 14697.432px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Line_3 {
+	overflow: visible;
+	position: absolute;
+	width: 1px;
+	height: 32.108px;
+	left: 735.232px;
+	top: 14697.432px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Rectangle_94 {
+	position: absolute;
+	overflow: visible;
+	width: 272px;
+	height: 132px;
+	left: 997px;
+	top: 4996px;
+}
+#Clicking_on__Centre__will_show {
+	position: absolute;
+	left: 1015px;
+	top: 5026px;
+	overflow: visible;
+	width: 239px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(83,72,72,1);
+}
+#graduate_student_avatar {
+	position: absolute;
+	width: 67.491px;
+	height: 67.491px;
+	left: 985.973px;
+	top: 7368.854px;
+	overflow: visible;
+}
+#Repeat_Grid_1 {
+	position: absolute;
+	width: 151px;
+	height: 124px;
+	left: 945px;
+	top: 108px;
+	overflow: hidden;
+}
+#Repeat_Grid_1_0 {
+	position: absolute;
+	width: 8px;
+	height: 8px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Ellipse_24 {
+	position: absolute;
+	overflow: visible;
+	width: 8px;
+	height: 8px;
+	left: 0px;
+	top: 0px;
+}
+#Repeat_Grid_1_1 {
+	position: absolute;
+	width: 8px;
+	height: 8px;
+	left: 28px;
+	top: 0px;
+	overflow: visible;
+}
+.Ellipse_24_do {
+	position: absolute;
+	overflow: visible;
+	width: 8px;
+	height: 8px;
+	left: 0px;
+	top: 0px;
+}
+#Repeat_Grid_1_2 {
+	position: absolute;
+	width: 8px;
+	height: 8px;
+	left: 56px;
+	top: 0px;
+	overflow: visible;
+}
+.Ellipse_24_dq {
+	position: absolute;
+	overflow: visible;
+	width: 8px;
+	height: 8px;
+	left: 0px;
+	top: 0px;
+}
+#Repeat_Grid_1_3 {
+	position: absolute;
+	width: 8px;
+	height: 8px;
+	left: 84px;
+	top: 0px;
+	overflow: visible;
+}
+.Ellipse_24_ds {
+	position: absolute;
+	overflow: visible;
+	width: 8px;
+	height: 8px;
+	left: 0px;
+	top: 0px;
+}
+#Repeat_Grid_1_4 {
+	position: absolute;
+	width: 8px;
+	height: 8px;
+	left: 112px;
+	top: 0px;
+	overflow: visible;
+}
+.Ellipse_24_du {
+	position: absolute;
+	overflow: visible;
+	width: 8px;
+	height: 8px;
+	left: 0px;
+	top: 0px;
+}
+#Repeat_Grid_1_5 {
+	position: absolute;
+	width: 8px;
+	height: 8px;
+	left: 140px;
+	top: 0px;
+	overflow: visible;
+}
+.Ellipse_24_dw {
+	position: absolute;
+	overflow: visible;
+	width: 8px;
+	height: 8px;
+	left: 0px;
+	top: 0px;
+}
+#Repeat_Grid_1_6 {
+	position: absolute;
+	width: 8px;
+	height: 8px;
+	left: 0px;
+	top: 28px;
+	overflow: visible;
+}
+.Ellipse_24_dy {
+	position: absolute;
+	overflow: visible;
+	width: 8px;
+	height: 8px;
+	left: 0px;
+	top: 0px;
+}
+#Repeat_Grid_1_7 {
+	position: absolute;
+	width: 8px;
+	height: 8px;
+	left: 28px;
+	top: 28px;
+	overflow: visible;
+}
+.Ellipse_24_d {
+	position: absolute;
+	overflow: visible;
+	width: 8px;
+	height: 8px;
+	left: 0px;
+	top: 0px;
+}
+#Repeat_Grid_1_8 {
+	position: absolute;
+	width: 8px;
+	height: 8px;
+	left: 56px;
+	top: 28px;
+	overflow: visible;
+}
+.Ellipse_24_ea {
+	position: absolute;
+	overflow: visible;
+	width: 8px;
+	height: 8px;
+	left: 0px;
+	top: 0px;
+}
+#Repeat_Grid_1_9 {
+	position: absolute;
+	width: 8px;
+	height: 8px;
+	left: 84px;
+	top: 28px;
+	overflow: visible;
+}
+.Ellipse_24_eb {
+	position: absolute;
+	overflow: visible;
+	width: 8px;
+	height: 8px;
+	left: 0px;
+	top: 0px;
+}
+#Repeat_Grid_1_10 {
+	position: absolute;
+	width: 8px;
+	height: 8px;
+	left: 112px;
+	top: 28px;
+	overflow: visible;
+}
+.Ellipse_24_ec {
+	position: absolute;
+	overflow: visible;
+	width: 8px;
+	height: 8px;
+	left: 0px;
+	top: 0px;
+}
+#Repeat_Grid_1_11 {
+	position: absolute;
+	width: 8px;
+	height: 8px;
+	left: 140px;
+	top: 28px;
+	overflow: visible;
+}
+.Ellipse_24_ed {
+	position: absolute;
+	overflow: visible;
+	width: 8px;
+	height: 8px;
+	left: 0px;
+	top: 0px;
+}
+#Repeat_Grid_1_12 {
+	position: absolute;
+	width: 8px;
+	height: 8px;
+	left: 0px;
+	top: 56px;
+	overflow: visible;
+}
+.Ellipse_24_ee {
+	position: absolute;
+	overflow: visible;
+	width: 8px;
+	height: 8px;
+	left: 0px;
+	top: 0px;
+}
+#Repeat_Grid_1_13 {
+	position: absolute;
+	width: 8px;
+	height: 8px;
+	left: 28px;
+	top: 56px;
+	overflow: visible;
+}
+.Ellipse_24_ef {
+	position: absolute;
+	overflow: visible;
+	width: 8px;
+	height: 8px;
+	left: 0px;
+	top: 0px;
+}
+#Repeat_Grid_1_14 {
+	position: absolute;
+	width: 8px;
+	height: 8px;
+	left: 56px;
+	top: 56px;
+	overflow: visible;
+}
+.Ellipse_24_eg {
+	position: absolute;
+	overflow: visible;
+	width: 8px;
+	height: 8px;
+	left: 0px;
+	top: 0px;
+}
+#Repeat_Grid_1_15 {
+	position: absolute;
+	width: 8px;
+	height: 8px;
+	left: 84px;
+	top: 56px;
+	overflow: visible;
+}
+.Ellipse_24_eh {
+	position: absolute;
+	overflow: visible;
+	width: 8px;
+	height: 8px;
+	left: 0px;
+	top: 0px;
+}
+#Repeat_Grid_1_16 {
+	position: absolute;
+	width: 8px;
+	height: 8px;
+	left: 112px;
+	top: 56px;
+	overflow: visible;
+}
+.Ellipse_24_ei {
+	position: absolute;
+	overflow: visible;
+	width: 8px;
+	height: 8px;
+	left: 0px;
+	top: 0px;
+}
+#Repeat_Grid_1_17 {
+	position: absolute;
+	width: 8px;
+	height: 8px;
+	left: 140px;
+	top: 56px;
+	overflow: visible;
+}
+.Ellipse_24_ek {
+	position: absolute;
+	overflow: visible;
+	width: 8px;
+	height: 8px;
+	left: 0px;
+	top: 0px;
+}
+#Repeat_Grid_1_18 {
+	position: absolute;
+	width: 8px;
+	height: 8px;
+	left: 0px;
+	top: 84px;
+	overflow: visible;
+}
+.Ellipse_24_em {
+	position: absolute;
+	overflow: visible;
+	width: 8px;
+	height: 8px;
+	left: 0px;
+	top: 0px;
+}
+#Repeat_Grid_1_19 {
+	position: absolute;
+	width: 8px;
+	height: 8px;
+	left: 28px;
+	top: 84px;
+	overflow: visible;
+}
+.Ellipse_24_eo {
+	position: absolute;
+	overflow: visible;
+	width: 8px;
+	height: 8px;
+	left: 0px;
+	top: 0px;
+}
+#Repeat_Grid_1_20 {
+	position: absolute;
+	width: 8px;
+	height: 8px;
+	left: 56px;
+	top: 84px;
+	overflow: visible;
+}
+.Ellipse_24_eq {
+	position: absolute;
+	overflow: visible;
+	width: 8px;
+	height: 8px;
+	left: 0px;
+	top: 0px;
+}
+#Repeat_Grid_1_21 {
+	position: absolute;
+	width: 8px;
+	height: 8px;
+	left: 84px;
+	top: 84px;
+	overflow: visible;
+}
+.Ellipse_24_es {
+	position: absolute;
+	overflow: visible;
+	width: 8px;
+	height: 8px;
+	left: 0px;
+	top: 0px;
+}
+#Repeat_Grid_1_22 {
+	position: absolute;
+	width: 8px;
+	height: 8px;
+	left: 112px;
+	top: 84px;
+	overflow: visible;
+}
+.Ellipse_24_eu {
+	position: absolute;
+	overflow: visible;
+	width: 8px;
+	height: 8px;
+	left: 0px;
+	top: 0px;
+}
+#Repeat_Grid_1_23 {
+	position: absolute;
+	width: 8px;
+	height: 8px;
+	left: 140px;
+	top: 84px;
+	overflow: visible;
+}
+.Ellipse_24_ew {
+	position: absolute;
+	overflow: visible;
+	width: 8px;
+	height: 8px;
+	left: 0px;
+	top: 0px;
+}
+#Repeat_Grid_1_24 {
+	position: absolute;
+	width: 8px;
+	height: 8px;
+	left: 0px;
+	top: 112px;
+	overflow: visible;
+}
+.Ellipse_24_ey {
+	position: absolute;
+	overflow: visible;
+	width: 8px;
+	height: 8px;
+	left: 0px;
+	top: 0px;
+}
+#Repeat_Grid_1_25 {
+	position: absolute;
+	width: 8px;
+	height: 8px;
+	left: 28px;
+	top: 112px;
+	overflow: visible;
+}
+.Ellipse_24_e {
+	position: absolute;
+	overflow: visible;
+	width: 8px;
+	height: 8px;
+	left: 0px;
+	top: 0px;
+}
+#Repeat_Grid_1_26 {
+	position: absolute;
+	width: 8px;
+	height: 8px;
+	left: 56px;
+	top: 112px;
+	overflow: visible;
+}
+.Ellipse_24_fa {
+	position: absolute;
+	overflow: visible;
+	width: 8px;
+	height: 8px;
+	left: 0px;
+	top: 0px;
+}
+#Repeat_Grid_1_27 {
+	position: absolute;
+	width: 8px;
+	height: 8px;
+	left: 84px;
+	top: 112px;
+	overflow: visible;
+}
+.Ellipse_24_fb {
+	position: absolute;
+	overflow: visible;
+	width: 8px;
+	height: 8px;
+	left: 0px;
+	top: 0px;
+}
+#Repeat_Grid_1_28 {
+	position: absolute;
+	width: 8px;
+	height: 8px;
+	left: 112px;
+	top: 112px;
+	overflow: visible;
+}
+.Ellipse_24_fc {
+	position: absolute;
+	overflow: visible;
+	width: 8px;
+	height: 8px;
+	left: 0px;
+	top: 0px;
+}
+#Repeat_Grid_1_29 {
+	position: absolute;
+	width: 8px;
+	height: 8px;
+	left: 140px;
+	top: 112px;
+	overflow: visible;
+}
+.Ellipse_24_fd {
+	position: absolute;
+	overflow: visible;
+	width: 8px;
+	height: 8px;
+	left: 0px;
+	top: 0px;
+}
+.Rectangle_174 {
+	filter: drop-shadow(0px 3px 9px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 299px;
+	height: 160px;
+	left: 998px;
+	top: 7899px;
+}
+.Path_37 {
+	overflow: visible;
+	position: absolute;
+	width: 79.929px;
+	height: 1px;
+	left: 918.318px;
+	top: 7965.602px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Anthem_video_is_played_here_ {
+	position: absolute;
+	left: 1020px;
+	top: 7952px;
+	overflow: visible;
+	width: 227px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(83,72,72,1);
+}
+#FLUENT {
+	position: absolute;
+	left: 939px;
+	top: 14680px;
+	overflow: visible;
+	width: 148px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 43px;
+	color: rgba(54,54,54,1);
+	letter-spacing: 0.28px;
+}
+.Line_4 {
+	overflow: visible;
+	position: absolute;
+	width: 1px;
+	height: 32.108px;
+	left: 916.269px;
+	top: 14697.432px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Ellipse_14 {
+	position: absolute;
+	overflow: visible;
+	width: 113.292px;
+	height: 113.292px;
+	left: 96.138px;
+	top: 1730.768px;
+}
+#presentation {
+	position: absolute;
+	width: 72.317px;
+	height: 72.317px;
+	left: 149.015px;
+	top: 7374.755px;
+	overflow: visible;
+}
